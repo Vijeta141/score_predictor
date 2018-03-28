@@ -1,5 +1,4 @@
 import scrapy
-current_year=2015
 class QuotesSpider(scrapy.Spider):
     name = "matches"
     start_urls=[]
@@ -10,24 +9,24 @@ class QuotesSpider(scrapy.Spider):
 
     def parse(self, response):
         current_year=response.url.split("=")[-2]
-        f= open("ListofMatches/List"+current_year[:4]+".txt","w+")
+        f= open("ListofMatches/List"+current_year[:4]+".csv","w+")
         for match in response.css('tr.data1'):
                 if match.css('td.left::text')[0].extract()!='no result' and match.css('td.left::text')[0].extract()!='tied':
                         f.write(
-                        "Team1:"  + match.css('td.left a.data-link::text')[0].extract()+","
-                        "Team2:"  + match.css('td.left a.data-link::text')[1].extract()+","
-                        "Winner:" + match.css('td.left a.data-link::text')[2].extract()+","
-                        "Margin:" + match.css('td.left::text')[0].extract()+","
-                        "Ground:" + match.css('td.left a.data-link::text')[3].extract()+","
-                        "Match Date:" + match.css('td::text')[1].extract()+","
-                        "Scorecard Link:" + match.css('a::attr(href)')[4].extract()+"\n")
+                        match.css('td.left a.data-link::text')[0].extract()+","
+                        + match.css('td.left a.data-link::text')[1].extract()+","
+                        + match.css('td.left a.data-link::text')[2].extract()+","
+                        + match.css('td.left::text')[0].extract()+","
+                        + match.css('td.left a.data-link::text')[3].extract()+","
+                        + match.css('td::text')[1].extract().split(",")[0]+","
+                        +"http://stats.espncricinfo.com"+ match.css('a::attr(href)')[4].extract()+"\n")
                     
                 else:
                         f.write(
-                        "Team1:"  + match.css('td.left a.data-link::text')[0].extract()+","
-                        "Team2:"  + match.css('td.left a.data-link::text')[1].extract()+","
-                        "Winner:" + match.css('td.left::text')[0].extract()+","
-                        "Margin:" +" ,"
-                        "Ground:" + match.css('td.left a.data-link::text')[2].extract()+","
-                        "Match Date:" + match.css('td::text')[1].extract()+","
-                        "Scorecard Link:" + match.css('a::attr(href)')[3].extract()+"\n")
+                        match.css('td.left a.data-link::text')[0].extract()+","
+                        + match.css('td.left a.data-link::text')[1].extract()+","
+                        + match.css('td.left::text')[0].extract()+","
+                        +" ,"
+                        + match.css('td.left a.data-link::text')[2].extract()+","
+                        + match.css('td::text')[1].extract().split(",")[0]+","
+                        +"http://stats.espncricinfo.com"+ match.css('a::attr(href)')[3].extract()+"\n")
