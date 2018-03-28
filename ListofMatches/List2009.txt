@@ -1,0 +1,150 @@
+Team1:New Zealand,Team2:West Indies,Winner:West Indies,Margin:5 wickets,Ground:Christchurch,Match Date:Jan 3, 2009,Scorecard Link:/ci/engine/match/366710.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:7 wickets,Ground:Wellington,Match Date:Jan 7, 2009,Scorecard Link:/ci/engine/match/366711.html
+Team1:New Zealand,Team2:West Indies,Winner:no result,Margin: ,Ground:Auckland,Match Date:Jan 10, 2009,Scorecard Link:/ci/engine/match/366712.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Zimbabwe,Margin:38 runs,Ground:Dhaka,Match Date:Jan 10, 2009,Scorecard Link:/ci/engine/match/378753.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Sri Lanka,Margin:130 runs,Ground:Dhaka,Match Date:Jan 12, 2009,Scorecard Link:/ci/engine/match/378754.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:9 runs,Ground:Napier,Match Date:Jan 13, 2009,Scorecard Link:/ci/engine/match/366713.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Bangladesh,Margin:5 wickets,Ground:Dhaka,Match Date:Jan 14, 2009,Scorecard Link:/ci/engine/match/378755.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:2 wickets,Ground:Dhaka,Match Date:Jan 16, 2009,Scorecard Link:/ci/engine/match/378756.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:3 wickets,Ground:Melbourne,Match Date:Jan 16, 2009,Scorecard Link:/ci/engine/match/351684.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:5 runs,Ground:Hobart,Match Date:Jan 18, 2009,Scorecard Link:/ci/engine/match/351685.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Zimbabwe,Margin:2 wickets,Ground:Dhaka,Match Date:Jan 19, 2009,Scorecard Link:/ci/engine/match/378757.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:8 wickets,Ground:Karachi,Match Date:Jan 20, 2009,Scorecard Link:/ci/engine/match/385749.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:6 wickets,Ground:Dhaka,Match Date:Jan 21, 2009,Scorecard Link:/ci/engine/match/378758.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:129 runs,Ground:Karachi,Match Date:Jan 21, 2009,Scorecard Link:/ci/engine/match/385750.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:6 wickets,Ground:Dhaka,Match Date:Jan 23, 2009,Scorecard Link:/ci/engine/match/378759.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:3 wickets,Ground:Sydney,Match Date:Jan 23, 2009,Scorecard Link:/ci/engine/match/351686.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:234 runs,Ground:Lahore,Match Date:Jan 24, 2009,Scorecard Link:/ci/engine/match/385751.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:8 wickets,Ground:Adelaide,Match Date:Jan 26, 2009,Scorecard Link:/ci/engine/match/351687.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Zimbabwe,Margin:109 runs,Ground:Mombasa,Match Date:Jan 27, 2009,Scorecard Link:/ci/engine/match/385023.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:6 wickets,Ground:Dambulla,Match Date:Jan 28, 2009,Scorecard Link:/ci/engine/match/386530.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Zimbabwe,Margin:151 runs,Ground:Mombasa,Match Date:Jan 29, 2009,Scorecard Link:/ci/engine/match/385024.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:39 runs,Ground:Perth,Match Date:Jan 30, 2009,Scorecard Link:/ci/engine/match/351688.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Zimbabwe,Margin:4 wickets,Ground:Nairobi (Gym),Match Date:Jan 31, 2009,Scorecard Link:/ci/engine/match/385025.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:15 runs,Ground:Colombo (RPS),Match Date:Jan 31, 2009,Scorecard Link:/ci/engine/match/386531.html
+Team1:Australia,Team2:New Zealand,Winner:New Zealand,Margin:2 wickets,Ground:Perth,Match Date:Feb 1, 2009,Scorecard Link:/ci/engine/match/351689.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Zimbabwe,Margin:66 runs,Ground:Nairobi (Gym),Match Date:Feb 1, 2009,Scorecard Link:/ci/engine/match/385026.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:147 runs,Ground:Colombo (RPS),Match Date:Feb 3, 2009,Scorecard Link:/ci/engine/match/386532.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Zimbabwe,Margin:7 wickets,Ground:Nairobi (Gym),Match Date:Feb 4, 2009,Scorecard Link:/ci/engine/match/385027.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:67 runs,Ground:Colombo (RPS),Match Date:Feb 5, 2009,Scorecard Link:/ci/engine/match/386533.html
+Team1:Australia,Team2:New Zealand,Winner:New Zealand,Margin:6 wickets,Ground:Melbourne,Match Date:Feb 6, 2009,Scorecard Link:/ci/engine/match/351690.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:32 runs,Ground:Sydney,Match Date:Feb 8, 2009,Scorecard Link:/ci/engine/match/351691.html
+Team1:Sri Lanka,Team2:India,Winner:Sri Lanka,Margin:68 runs,Ground:Colombo (RPS),Match Date:Feb 8, 2009,Scorecard Link:/ci/engine/match/386534.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:6 wickets,Ground:Adelaide,Match Date:Feb 10, 2009,Scorecard Link:/ci/engine/match/351692.html
+Team1:Australia,Team2:New Zealand,Winner:no result,Margin: ,Ground:Brisbane,Match Date:Feb 13, 2009,Scorecard Link:/ci/engine/match/351693.html
+Team1:New Zealand,Team2:India,Winner:India,Margin:53 runs,Ground:Napier,Match Date:Mar 3, 2009,Scorecard Link:/ci/engine/match/366623.html
+Team1:New Zealand,Team2:India,Winner:no result,Margin: ,Ground:Wellington,Match Date:Mar 6, 2009,Scorecard Link:/ci/engine/match/366626.html
+Team1:New Zealand,Team2:India,Winner:India,Margin:58 runs,Ground:Christchurch,Match Date:Mar 8, 2009,Scorecard Link:/ci/engine/match/366627.html
+Team1:New Zealand,Team2:India,Winner:India,Margin:84 runs,Ground:Hamilton,Match Date:Mar 11, 2009,Scorecard Link:/ci/engine/match/366624.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:8 wickets,Ground:Auckland,Match Date:Mar 14, 2009,Scorecard Link:/ci/engine/match/366625.html
+Team1:West Indies,Team2:England,Winner:England,Margin:1 run,Ground:Providence,Match Date:Mar 20, 2009,Scorecard Link:/ci/engine/match/352665.html
+Team1:West Indies,Team2:England,Winner:West Indies,Margin:21 runs,Ground:Providence,Match Date:Mar 22, 2009,Scorecard Link:/ci/engine/match/352666.html
+Team1:West Indies,Team2:England,Winner:West Indies,Margin:8 wickets,Ground:Bridgetown,Match Date:Mar 27, 2009,Scorecard Link:/ci/engine/match/352667.html
+Team1:West Indies,Team2:England,Winner:England,Margin:9 wickets,Ground:Bridgetown,Match Date:Mar 29, 2009,Scorecard Link:/ci/engine/match/352668.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:7 wickets,Ground:Benoni,Match Date:Apr 1, 2009,Scorecard Link:/ci/engine/match/390204.html
+Team1:Kenya,Team2:Netherlands,Winner:Netherlands,Margin:7 wickets,Ground:Potchefstroom,Match Date:Apr 1, 2009,Scorecard Link:/ci/engine/match/390205.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:141 runs,Ground:Durban,Match Date:Apr 3, 2009,Scorecard Link:/ci/engine/match/350477.html
+Team1:West Indies,Team2:England,Winner:England,Margin:26 runs,Ground:Gros Islet,Match Date:Apr 3, 2009,Scorecard Link:/ci/engine/match/352669.html
+Team1:South Africa,Team2:Australia,Winner:South Africa,Margin:7 wickets,Ground:Centurion,Match Date:Apr 5, 2009,Scorecard Link:/ci/engine/match/350478.html
+Team1:Bermuda,Team2:Kenya,Winner:Kenya,Margin:7 wickets,Ground:Potchefstroom,Match Date:Apr 6, 2009,Scorecard Link:/ci/engine/match/390221.html
+Team1:Canada,Team2:Ireland,Winner:Ireland,Margin:6 wickets,Ground:Benoni,Match Date:Apr 6, 2009,Scorecard Link:/ci/engine/match/390219.html
+Team1:Bermuda,Team2:Netherlands,Winner:Netherlands,Margin:63 runs,Ground:Potchefstroom,Match Date:Apr 8, 2009,Scorecard Link:/ci/engine/match/390226.html
+Team1:Canada,Team2:Scotland,Winner:Canada,Margin:148 runs,Ground:Benoni,Match Date:Apr 8, 2009,Scorecard Link:/ci/engine/match/390227.html
+Team1:South Africa,Team2:Australia,Winner:South Africa,Margin:25 runs,Ground:Cape Town,Match Date:Apr 9, 2009,Scorecard Link:/ci/engine/match/350479.html
+Team1:South Africa,Team2:Australia,Winner:South Africa,Margin:61 runs,Ground:Port Elizabeth,Match Date:Apr 13, 2009,Scorecard Link:/ci/engine/match/350480.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:47 runs,Ground:Johannesburg,Match Date:Apr 17, 2009,Scorecard Link:/ci/engine/match/350481.html
+Team1:Afghanistan,Team2:Scotland,Winner:Afghanistan,Margin:89 runs,Ground:Benoni,Match Date:Apr 19, 2009,Scorecard Link:/ci/engine/match/390253.html
+Team1:Canada,Team2:Ireland,Winner:Ireland,Margin:9 wickets,Ground:Centurion,Match Date:Apr 19, 2009,Scorecard Link:/ci/engine/match/390251.html
+Team1:Kenya,Team2:Netherlands,Winner:Netherlands,Margin:6 wickets,Ground:Potchefstroom,Match Date:Apr 19, 2009,Scorecard Link:/ci/engine/match/390252.html
+Team1:Australia,Team2:Pakistan,Winner:Pakistan,Margin:4 wickets,Ground:Dubai (DSC),Match Date:Apr 22, 2009,Scorecard Link:/ci/engine/match/392616.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:6 wickets,Ground:Dubai (DSC),Match Date:Apr 24, 2009,Scorecard Link:/ci/engine/match/392617.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:27 runs,Ground:Abu Dhabi,Match Date:Apr 27, 2009,Scorecard Link:/ci/engine/match/392618.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:8 wickets,Ground:Abu Dhabi,Match Date:May 1, 2009,Scorecard Link:/ci/engine/match/392619.html
+Team1:Australia,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Abu Dhabi,Match Date:May 3, 2009,Scorecard Link:/ci/engine/match/392620.html
+Team1:England,Team2:West Indies,Winner:England,Margin:6 wickets,Ground:Bristol,Match Date:May 24, 2009,Scorecard Link:/ci/engine/match/380715.html
+Team1:England,Team2:West Indies,Winner:England,Margin:58 runs,Ground:Birmingham,Match Date:May 26, 2009,Scorecard Link:/ci/engine/match/380716.html
+Team1:West Indies,Team2:India,Winner:India,Margin:20 runs,Ground:Kingston,Match Date:Jun 26, 2009,Scorecard Link:/ci/engine/match/377313.html
+Team1:West Indies,Team2:India,Winner:West Indies,Margin:8 wickets,Ground:Kingston,Match Date:Jun 28, 2009,Scorecard Link:/ci/engine/match/377314.html
+Team1:West Indies,Team2:India,Winner:India,Margin:6 wickets,Ground:Gros Islet,Match Date:Jul 3, 2009,Scorecard Link:/ci/engine/match/377315.html
+Team1:West Indies,Team2:India,Winner:no result,Margin: ,Ground:Gros Islet,Match Date:Jul 5, 2009,Scorecard Link:/ci/engine/match/377316.html
+Team1:Scotland,Team2:Canada,Winner:Canada,Margin:6 wickets,Ground:Aberdeen,Match Date:Jul 7, 2009,Scorecard Link:/ci/engine/match/408621.html
+Team1:Scotland,Team2:Canada,Winner:Scotland,Margin:5 wickets,Ground:Aberdeen,Match Date:Jul 8, 2009,Scorecard Link:/ci/engine/match/408622.html
+Team1:Ireland,Team2:Kenya,Winner:Ireland,Margin:3 wickets,Ground:Dublin,Match Date:Jul 9, 2009,Scorecard Link:/ci/engine/match/408623.html
+Team1:Netherlands,Team2:Canada,Winner:Netherlands,Margin:50 runs,Ground:Amstelveen,Match Date:Jul 11, 2009,Scorecard Link:/ci/engine/match/409070.html
+Team1:Ireland,Team2:Kenya,Winner:Ireland,Margin:52 runs,Ground:Dublin,Match Date:Jul 11, 2009,Scorecard Link:/ci/engine/match/408624.html
+Team1:Ireland,Team2:Kenya,Winner:Ireland,Margin:4 runs,Ground:Dublin,Match Date:Jul 12, 2009,Scorecard Link:/ci/engine/match/410557.html
+Team1:West Indies,Team2:Bangladesh,Winner:Bangladesh,Margin:52 runs,Ground:Roseau,Match Date:Jul 26, 2009,Scorecard Link:/ci/engine/match/401073.html
+Team1:West Indies,Team2:Bangladesh,Winner:Bangladesh,Margin:3 wickets,Ground:Roseau,Match Date:Jul 28, 2009,Scorecard Link:/ci/engine/match/401074.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:36 runs,Ground:Dambulla,Match Date:Jul 30, 2009,Scorecard Link:/ci/engine/match/403370.html
+Team1:West Indies,Team2:Bangladesh,Winner:Bangladesh,Margin:3 wickets,Ground:Basseterre,Match Date:Jul 31, 2009,Scorecard Link:/ci/engine/match/401075.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:6 wickets,Ground:Dambulla,Match Date:Aug 1, 2009,Scorecard Link:/ci/engine/match/403371.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:6 wickets,Ground:Dambulla,Match Date:Aug 3, 2009,Scorecard Link:/ci/engine/match/403372.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:146 runs,Ground:Colombo (RPS),Match Date:Aug 7, 2009,Scorecard Link:/ci/engine/match/403373.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Bangladesh,Margin:8 wickets,Ground:Bulawayo,Match Date:Aug 9, 2009,Scorecard Link:/ci/engine/match/410337.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:132 runs,Ground:Colombo (RPS),Match Date:Aug 9, 2009,Scorecard Link:/ci/engine/match/403374.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Bangladesh,Margin:49 runs,Ground:Bulawayo,Match Date:Aug 11, 2009,Scorecard Link:/ci/engine/match/410338.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:69 runs,Ground:Bulawayo,Match Date:Aug 14, 2009,Scorecard Link:/ci/engine/match/410339.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Bangladesh,Margin:4 wickets,Ground:Bulawayo,Match Date:Aug 16, 2009,Scorecard Link:/ci/engine/match/410340.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Bangladesh,Margin:5 wickets,Ground:Bulawayo,Match Date:Aug 18, 2009,Scorecard Link:/ci/engine/match/410341.html
+Team1:Canada,Team2:Kenya,Winner:Canada,Margin:9 wickets,Ground:King City (NW),Match Date:Aug 19, 2009,Scorecard Link:/ci/engine/match/415162.html
+Team1:Scotland,Team2:Ireland,Winner:Ireland,Margin:96 runs,Ground:Aberdeen,Match Date:Aug 22, 2009,Scorecard Link:/ci/engine/match/408627.html
+Team1:Canada,Team2:Kenya,Winner:no result,Margin: ,Ground:King City (NW),Match Date:Aug 22, 2009,Scorecard Link:/ci/engine/match/420994.html
+Team1:Ireland,Team2:England,Winner:England,Margin:3 runs,Ground:Belfast,Match Date:Aug 27, 2009,Scorecard Link:/ci/engine/match/383275.html
+Team1:Scotland,Team2:Australia,Winner:Australia,Margin:189 runs,Ground:Edinburgh,Match Date:Aug 28, 2009,Scorecard Link:/ci/engine/match/350042.html
+Team1:Netherlands,Team2:Afghanistan,Winner:Netherlands,Margin:8 runs,Ground:Amstelveen,Match Date:Aug 30, 2009,Scorecard Link:/ci/engine/match/415172.html
+Team1:Netherlands,Team2:Afghanistan,Winner:Afghanistan,Margin:6 wickets,Ground:Amstelveen,Match Date:Sep 1, 2009,Scorecard Link:/ci/engine/match/415173.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:4 runs,Ground:The Oval,Match Date:Sep 4, 2009,Scorecard Link:/ci/engine/match/350043.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:39 runs,Ground:Lord's,Match Date:Sep 6, 2009,Scorecard Link:/ci/engine/match/350044.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:Sri Lanka,Margin:97 runs,Ground:Colombo (RPS),Match Date:Sep 8, 2009,Scorecard Link:/ci/engine/match/403380.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:6 wickets,Ground:Southampton,Match Date:Sep 9, 2009,Scorecard Link:/ci/engine/match/350045.html
+Team1:India,Team2:New Zealand,Winner:India,Margin:6 wickets,Ground:Colombo (RPS),Match Date:Sep 11, 2009,Scorecard Link:/ci/engine/match/403382.html
+Team1:Sri Lanka,Team2:India,Winner:Sri Lanka,Margin:139 runs,Ground:Colombo (RPS),Match Date:Sep 12, 2009,Scorecard Link:/ci/engine/match/403381.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:7 wickets,Ground:Lord's,Match Date:Sep 12, 2009,Scorecard Link:/ci/engine/match/350046.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:46 runs,Ground:Colombo (RPS),Match Date:Sep 14, 2009,Scorecard Link:/ci/engine/match/403383.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:4 wickets,Ground:Nottingham,Match Date:Sep 15, 2009,Scorecard Link:/ci/engine/match/350047.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:111 runs,Ground:Nottingham,Match Date:Sep 17, 2009,Scorecard Link:/ci/engine/match/350048.html
+Team1:England,Team2:Australia,Winner:England,Margin:4 wickets,Ground:Chester-le-Street,Match Date:Sep 20, 2009,Scorecard Link:/ci/engine/match/350049.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:55 runs,Ground:Centurion,Match Date:Sep 22, 2009,Scorecard Link:/ci/engine/match/415273.html
+Team1:Pakistan,Team2:West Indies,Winner:Pakistan,Margin:5 wickets,Ground:Johannesburg,Match Date:Sep 23, 2009,Scorecard Link:/ci/engine/match/415274.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:5 wickets,Ground:Centurion,Match Date:Sep 24, 2009,Scorecard Link:/ci/engine/match/415275.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:6 wickets,Ground:Johannesburg,Match Date:Sep 25, 2009,Scorecard Link:/ci/engine/match/415276.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:50 runs,Ground:Johannesburg,Match Date:Sep 26, 2009,Scorecard Link:/ci/engine/match/415277.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:54 runs,Ground:Centurion,Match Date:Sep 26, 2009,Scorecard Link:/ci/engine/match/415278.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:38 runs,Ground:Johannesburg,Match Date:Sep 27, 2009,Scorecard Link:/ci/engine/match/415279.html
+Team1:South Africa,Team2:England,Winner:England,Margin:22 runs,Ground:Centurion,Match Date:Sep 27, 2009,Scorecard Link:/ci/engine/match/415280.html
+Team1:Australia,Team2:India,Winner:no result,Margin: ,Ground:Centurion,Match Date:Sep 28, 2009,Scorecard Link:/ci/engine/match/415281.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:4 wickets,Ground:Johannesburg,Match Date:Sep 29, 2009,Scorecard Link:/ci/engine/match/415282.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:2 wickets,Ground:Centurion,Match Date:Sep 30, 2009,Scorecard Link:/ci/engine/match/415283.html
+Team1:India,Team2:West Indies,Winner:India,Margin:7 wickets,Ground:Johannesburg,Match Date:Sep 30, 2009,Scorecard Link:/ci/engine/match/415284.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:9 wickets,Ground:Centurion,Match Date:Oct 2, 2009,Scorecard Link:/ci/engine/match/415285.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:5 wickets,Ground:Johannesburg,Match Date:Oct 3, 2009,Scorecard Link:/ci/engine/match/415286.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:6 wickets,Ground:Centurion,Match Date:Oct 5, 2009,Scorecard Link:/ci/engine/match/415287.html
+Team1:Zimbabwe,Team2:Kenya,Winner:Zimbabwe,Margin:91 runs,Ground:Harare,Match Date:Oct 12, 2009,Scorecard Link:/ci/engine/match/424849.html
+Team1:Zimbabwe,Team2:Kenya,Winner:Zimbabwe,Margin:86 runs,Ground:Harare,Match Date:Oct 13, 2009,Scorecard Link:/ci/engine/match/424851.html
+Team1:Zimbabwe,Team2:Kenya,Winner:Kenya,Margin:20 runs,Ground:Harare,Match Date:Oct 15, 2009,Scorecard Link:/ci/engine/match/424852.html
+Team1:Zimbabwe,Team2:Kenya,Winner:Zimbabwe,Margin:6 wickets,Ground:Harare,Match Date:Oct 17, 2009,Scorecard Link:/ci/engine/match/426217.html
+Team1:Zimbabwe,Team2:Kenya,Winner:Zimbabwe,Margin:142 runs,Ground:Harare,Match Date:Oct 18, 2009,Scorecard Link:/ci/engine/match/426219.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:4 runs,Ground:Vadodara,Match Date:Oct 25, 2009,Scorecard Link:/ci/engine/match/416236.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Zimbabwe,Margin:5 wickets,Ground:Dhaka,Match Date:Oct 27, 2009,Scorecard Link:/ci/engine/match/422626.html
+Team1:India,Team2:Australia,Winner:India,Margin:99 runs,Ground:Nagpur,Match Date:Oct 28, 2009,Scorecard Link:/ci/engine/match/416237.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:7 wickets,Ground:Dhaka,Match Date:Oct 29, 2009,Scorecard Link:/ci/engine/match/422627.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:4 wickets,Ground:Dhaka,Match Date:Oct 31, 2009,Scorecard Link:/ci/engine/match/422628.html
+Team1:India,Team2:Australia,Winner:India,Margin:6 wickets,Ground:Delhi,Match Date:Oct 31, 2009,Scorecard Link:/ci/engine/match/416238.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:24 runs,Ground:Mohali,Match Date:Nov 2, 2009,Scorecard Link:/ci/engine/match/416239.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:6 wickets,Ground:Chittagong,Match Date:Nov 3, 2009,Scorecard Link:/ci/engine/match/422629.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:138 runs,Ground:Abu Dhabi,Match Date:Nov 3, 2009,Scorecard Link:/ci/engine/match/426720.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:1 wicket,Ground:Chittagong,Match Date:Nov 5, 2009,Scorecard Link:/ci/engine/match/422630.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:3 runs,Ground:Hyderabad (Deccan),Match Date:Nov 5, 2009,Scorecard Link:/ci/engine/match/416240.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:64 runs,Ground:Abu Dhabi,Match Date:Nov 6, 2009,Scorecard Link:/ci/engine/match/426721.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:6 wickets,Ground:Guwahati,Match Date:Nov 8, 2009,Scorecard Link:/ci/engine/match/416241.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:45 runs,Ground:Benoni,Match Date:Nov 8, 2009,Scorecard Link:/ci/engine/match/430508.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:7 runs,Ground:Abu Dhabi,Match Date:Nov 9, 2009,Scorecard Link:/ci/engine/match/426722.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:212 runs,Ground:Centurion,Match Date:Nov 10, 2009,Scorecard Link:/ci/engine/match/430509.html
+Team1:South Africa,Team2:England,Winner:England,Margin:7 wickets,Ground:Centurion,Match Date:Nov 22, 2009,Scorecard Link:/ci/engine/match/387566.html
+Team1:South Africa,Team2:England,Winner:South Africa,Margin:112 runs,Ground:Cape Town,Match Date:Nov 27, 2009,Scorecard Link:/ci/engine/match/387567.html
+Team1:South Africa,Team2:England,Winner:England,Margin:7 wickets,Ground:Port Elizabeth,Match Date:Nov 29, 2009,Scorecard Link:/ci/engine/match/387568.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:3 runs,Ground:Rajkot,Match Date:Dec 15, 2009,Scorecard Link:/ci/engine/match/430886.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:3 wickets,Ground:Nagpur,Match Date:Dec 18, 2009,Scorecard Link:/ci/engine/match/430887.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:7 wickets,Ground:Cuttack,Match Date:Dec 21, 2009,Scorecard Link:/ci/engine/match/430888.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:7 wickets,Ground:Kolkata,Match Date:Dec 24, 2009,Scorecard Link:/ci/engine/match/430889.html
+Team1:India,Team2:Sri Lanka,Winner:no result,Margin: ,Ground:Delhi,Match Date:Dec 27, 2009,Scorecard Link:/ci/engine/match/430890.html

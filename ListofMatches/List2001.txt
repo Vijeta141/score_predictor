@@ -1,0 +1,61 @@
+Team1:New Zealand,Team2:Zimbabwe,Winner:Zimbabwe,Margin:70 runs,Ground:Taupo,Match Date:Jan 2, 2001,Scorecard Link:/ci/engine/match/64687.html
+Team1:New Zealand,Team2:Zimbabwe,Winner:New Zealand,Margin:8 wickets,Ground:Wellington,Match Date:Jan 4, 2001,Scorecard Link:/ci/engine/match/64688.html
+Team1:New Zealand,Team2:Zimbabwe,Winner:Zimbabwe,Margin:1 wicket,Ground:Auckland,Match Date:Jan 7, 2001,Scorecard Link:/ci/engine/match/64689.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:8 wickets,Ground:Paarl,Match Date:Jan 9, 2001,Scorecard Link:/ci/engine/match/64690.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:74 runs,Ground:Melbourne,Match Date:Jan 11, 2001,Scorecard Link:/ci/engine/match/65601.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:99 runs,Ground:Cape Town,Match Date:Jan 11, 2001,Scorecard Link:/ci/engine/match/64691.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:1 wicket,Ground:Brisbane,Match Date:Jan 13, 2001,Scorecard Link:/ci/engine/match/65602.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:9 wickets,Ground:Brisbane,Match Date:Jan 14, 2001,Scorecard Link:/ci/engine/match/65603.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:5 wickets,Ground:Bloemfontein,Match Date:Jan 14, 2001,Scorecard Link:/ci/engine/match/64692.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:28 runs,Ground:Sydney,Match Date:Jan 17, 2001,Scorecard Link:/ci/engine/match/65604.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:4 runs,Ground:Johannesburg,Match Date:Jan 17, 2001,Scorecard Link:/ci/engine/match/64693.html
+Team1:Australia,Team2:Zimbabwe,Winner:Australia,Margin:8 wickets,Ground:Melbourne,Match Date:Jan 21, 2001,Scorecard Link:/ci/engine/match/65605.html
+Team1:West Indies,Team2:Zimbabwe,Winner:Zimbabwe,Margin:47 runs,Ground:Sydney,Match Date:Jan 23, 2001,Scorecard Link:/ci/engine/match/65606.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:77 runs,Ground:Adelaide,Match Date:Jan 25, 2001,Scorecard Link:/ci/engine/match/65607.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:10 wickets,Ground:Adelaide,Match Date:Jan 26, 2001,Scorecard Link:/ci/engine/match/65608.html
+Team1:Australia,Team2:Zimbabwe,Winner:Australia,Margin:86 runs,Ground:Sydney,Match Date:Jan 28, 2001,Scorecard Link:/ci/engine/match/65609.html
+Team1:Australia,Team2:Zimbabwe,Winner:Australia,Margin:6 wickets,Ground:Hobart,Match Date:Jan 30, 2001,Scorecard Link:/ci/engine/match/65610.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:61 runs,Ground:Napier,Match Date:Jan 31, 2001,Scorecard Link:/ci/engine/match/64694.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:44 runs,Ground:Perth,Match Date:Feb 2, 2001,Scorecard Link:/ci/engine/match/65611.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:3 wickets,Ground:Wellington,Match Date:Feb 3, 2001,Scorecard Link:/ci/engine/match/64695.html
+Team1:Australia,Team2:Zimbabwe,Winner:Australia,Margin:1 run,Ground:Perth,Match Date:Feb 4, 2001,Scorecard Link:/ci/engine/match/65612.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 wickets,Ground:Auckland,Match Date:Feb 6, 2001,Scorecard Link:/ci/engine/match/64696.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:134 runs,Ground:Sydney,Match Date:Feb 7, 2001,Scorecard Link:/ci/engine/match/65613.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:3 runs,Ground:Hamilton,Match Date:Feb 8, 2001,Scorecard Link:/ci/engine/match/64697.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:39 runs,Ground:Melbourne,Match Date:Feb 9, 2001,Scorecard Link:/ci/engine/match/65614.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:13 runs,Ground:Christchurch,Match Date:Feb 11, 2001,Scorecard Link:/ci/engine/match/64698.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Auckland,Match Date:Feb 17-18, 2001,Scorecard Link:/ci/engine/match/64699.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:6 wickets,Ground:Napier,Match Date:Feb 20, 2001,Scorecard Link:/ci/engine/match/64700.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:28 runs,Ground:Wellington,Match Date:Feb 22, 2001,Scorecard Link:/ci/engine/match/64701.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:138 runs,Ground:Christchurch,Match Date:Feb 25, 2001,Scorecard Link:/ci/engine/match/64702.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:4 wickets,Ground:Dunedin,Match Date:Feb 28, 2001,Scorecard Link:/ci/engine/match/64703.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:5 wickets,Ground:Dambulla,Match Date:Mar 23, 2001,Scorecard Link:/ci/engine/match/64704.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:66 runs,Ground:Colombo (RPS),Match Date:Mar 25, 2001,Scorecard Link:/ci/engine/match/64705.html
+Team1:India,Team2:Australia,Winner:India,Margin:60 runs,Ground:Bengaluru,Match Date:Mar 25, 2001,Scorecard Link:/ci/engine/match/64706.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:10 wickets,Ground:Colombo (SSC),Match Date:Mar 27, 2001,Scorecard Link:/ci/engine/match/64707.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:8 wickets,Ground:Pune,Match Date:Mar 28, 2001,Scorecard Link:/ci/engine/match/64708.html
+Team1:India,Team2:Australia,Winner:India,Margin:118 runs,Ground:Indore,Match Date:Mar 31, 2001,Scorecard Link:/ci/engine/match/64709.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:93 runs,Ground:Visakhapatnam,Match Date:Apr 3, 2001,Scorecard Link:/ci/engine/match/64710.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:4 wickets,Ground:Margao,Match Date:Apr 6, 2001,Scorecard Link:/ci/engine/match/64711.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:7 wickets,Ground:Harare,Match Date:Apr 7, 2001,Scorecard Link:/ci/engine/match/64712.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:127 runs,Ground:Harare,Match Date:Apr 8, 2001,Scorecard Link:/ci/engine/match/64713.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:16 runs,Ground:Sharjah,Match Date:Apr 8, 2001,Scorecard Link:/ci/engine/match/65789.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:106 runs,Ground:Sharjah,Match Date:Apr 10, 2001,Scorecard Link:/ci/engine/match/65790.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:36 runs,Ground:Bulawayo,Match Date:Apr 11, 2001,Scorecard Link:/ci/engine/match/64714.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:8 wickets,Ground:Sharjah,Match Date:Apr 12, 2001,Scorecard Link:/ci/engine/match/65791.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:28 runs,Ground:Sharjah,Match Date:Apr 13, 2001,Scorecard Link:/ci/engine/match/65792.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Sharjah,Match Date:Apr 15, 2001,Scorecard Link:/ci/engine/match/65793.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:79 runs,Ground:Sharjah,Match Date:Apr 17, 2001,Scorecard Link:/ci/engine/match/65794.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:77 runs,Ground:Sharjah,Match Date:Apr 20, 2001,Scorecard Link:/ci/engine/match/65795.html
+Team1:West Indies,Team2:South Africa,Winner:West Indies,Margin:3 wickets,Ground:Kingston,Match Date:Apr 28, 2001,Scorecard Link:/ci/engine/match/64715.html
+Team1:West Indies,Team2:South Africa,Winner:South Africa,Margin:8 wickets,Ground:St John's,Match Date:May 2, 2001,Scorecard Link:/ci/engine/match/64716.html
+Team1:West Indies,Team2:South Africa,Winner:South Africa,Margin:132 runs,Ground:St George's,Match Date:May 5, 2001,Scorecard Link:/ci/engine/match/64717.html
+Team1:West Indies,Team2:South Africa,Winner:South Africa,Margin:8 wickets,Ground:St George's,Match Date:May 6, 2001,Scorecard Link:/ci/engine/match/64718.html
+Team1:West Indies,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Bridgetown,Match Date:May 9, 2001,Scorecard Link:/ci/engine/match/64719.html
+Team1:West Indies,Team2:South Africa,Winner:South Africa,Margin:53 runs,Ground:Port of Spain,Match Date:May 12, 2001,Scorecard Link:/ci/engine/match/64720.html
+Team1:West Indies,Team2:South Africa,Winner:West Indies,Margin:6 wickets,Ground:Kingstown,Match Date:May 16, 2001,Scorecard Link:/ci/engine/match/64721.html
+Team1:England,Team2:Pakistan,Winner:Pakistan,Margin:108 runs,Ground:Birmingham,Match Date:Jun 7, 2001,Scorecard Link:/ci/engine/match/66274.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:7 wickets,Ground:Cardiff,Match Date:Jun 9, 2001,Scorecard Link:/ci/engine/match/66275.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:5 wickets,Ground:Bristol,Match Date:Jun 10, 2001,Scorecard Link:/ci/engine/match/66276.html
+Team1:England,Team2:Pakistan,Winner:Pakistan,Margin:2 runs,Ground:Lord's,Match Date:Jun 12, 2001,Scorecard Link:/ci/engine/match/66277.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:125 runs,Ground:Manchester,Match Date:Jun 14, 2001,Scorecard Link:/ci/engine/match/66278.html

@@ -1,0 +1,121 @@
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:159 runs,Ground:Queenstown,Match Date:Jan 1, 2014,Scorecard Link:/ci/engine/match/661689.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:58 runs,Ground:Nelson,Match Date:Jan 4, 2014,Scorecard Link:/ci/engine/match/661691.html
+Team1:New Zealand,Team2:West Indies,Winner:West Indies,Margin:203 runs,Ground:Hamilton,Match Date:Jan 8, 2014,Scorecard Link:/ci/engine/match/661693.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:6 wickets,Ground:Melbourne,Match Date:Jan 12, 2014,Scorecard Link:/ci/engine/match/636159.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:1 wicket,Ground:Brisbane,Match Date:Jan 17, 2014,Scorecard Link:/ci/engine/match/636160.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:24 runs,Ground:Napier,Match Date:Jan 19, 2014,Scorecard Link:/ci/engine/match/667641.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:7 wickets,Ground:Sydney,Match Date:Jan 19, 2014,Scorecard Link:/ci/engine/match/636161.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:15 runs,Ground:Hamilton,Match Date:Jan 22, 2014,Scorecard Link:/ci/engine/match/667643.html
+Team1:Canada,Team2:Scotland,Winner:Scotland,Margin:170 runs,Ground:Christchurch,Match Date:Jan 23, 2014,Scorecard Link:/ci/engine/match/696731.html
+Team1:Kenya,Team2:Netherlands,Winner:Kenya,Margin:4 wickets,Ground:Lincoln,Match Date:Jan 23, 2014,Scorecard Link:/ci/engine/match/696733.html
+Team1:Australia,Team2:England,Winner:England,Margin:57 runs,Ground:Perth,Match Date:Jan 24, 2014,Scorecard Link:/ci/engine/match/636162.html
+Team1:New Zealand,Team2:India,Winner:tied,Margin: ,Ground:Auckland,Match Date:Jan 25, 2014,Scorecard Link:/ci/engine/match/667645.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:5 runs,Ground:Adelaide,Match Date:Jan 26, 2014,Scorecard Link:/ci/engine/match/636163.html
+Team1:Canada,Team2:Netherlands,Winner:Netherlands,Margin:8 wickets,Ground:Mount Maunganui,Match Date:Jan 28, 2014,Scorecard Link:/ci/engine/match/696747.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:7 wickets,Ground:Hamilton,Match Date:Jan 28, 2014,Scorecard Link:/ci/engine/match/667647.html
+Team1:Kenya,Team2:Scotland,Winner:Scotland,Margin:3 wickets,Ground:Christchurch,Match Date:Jan 30, 2014,Scorecard Link:/ci/engine/match/696759.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:87 runs,Ground:Wellington,Match Date:Jan 31, 2014,Scorecard Link:/ci/engine/match/667649.html
+Team1:Scotland,Team2:U.A.E.,Winner:Scotland,Margin:41 runs,Ground:Lincoln,Match Date:Feb 1, 2014,Scorecard Link:/ci/engine/match/696763.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:13 runs,Ground:Dhaka,Match Date:Feb 17, 2014,Scorecard Link:/ci/engine/match/690355.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:61 runs,Ground:Dhaka,Match Date:Feb 20, 2014,Scorecard Link:/ci/engine/match/690357.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:6 wickets,Ground:Dhaka,Match Date:Feb 22, 2014,Scorecard Link:/ci/engine/match/690359.html
+Team1:West Indies,Team2:Ireland,Winner:West Indies,Margin:4 wickets,Ground:Kingston,Match Date:Feb 23, 2014,Scorecard Link:/ci/engine/match/702139.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:12 runs,Ground:Fatullah,Match Date:Feb 25, 2014,Scorecard Link:/ci/engine/match/710291.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:6 wickets,Ground:Fatullah,Match Date:Feb 26, 2014,Scorecard Link:/ci/engine/match/710293.html
+Team1:Afghanistan,Team2:Pakistan,Winner:Pakistan,Margin:72 runs,Ground:Fatullah,Match Date:Feb 27, 2014,Scorecard Link:/ci/engine/match/710295.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:2 wickets,Ground:Fatullah,Match Date:Feb 28, 2014,Scorecard Link:/ci/engine/match/710297.html
+Team1:West Indies,Team2:England,Winner:West Indies,Margin:15 runs,Ground:North Sound,Match Date:Feb 28, 2014,Scorecard Link:/ci/engine/match/636533.html
+Team1:Bangladesh,Team2:Afghanistan,Winner:Afghanistan,Margin:32 runs,Ground:Fatullah,Match Date:Mar 1, 2014,Scorecard Link:/ci/engine/match/710299.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:1 wicket,Ground:Dhaka,Match Date:Mar 2, 2014,Scorecard Link:/ci/engine/match/710301.html
+Team1:West Indies,Team2:England,Winner:England,Margin:3 wickets,Ground:North Sound,Match Date:Mar 2, 2014,Scorecard Link:/ci/engine/match/636534.html
+Team1:Afghanistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:129 runs,Ground:Dhaka,Match Date:Mar 3, 2014,Scorecard Link:/ci/engine/match/710303.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:3 wickets,Ground:Dhaka,Match Date:Mar 4, 2014,Scorecard Link:/ci/engine/match/710305.html
+Team1:Afghanistan,Team2:India,Winner:India,Margin:8 wickets,Ground:Dhaka,Match Date:Mar 5, 2014,Scorecard Link:/ci/engine/match/710307.html
+Team1:West Indies,Team2:England,Winner:England,Margin:25 runs,Ground:North Sound,Match Date:Mar 5, 2014,Scorecard Link:/ci/engine/match/636535.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:3 wickets,Ground:Dhaka,Match Date:Mar 6, 2014,Scorecard Link:/ci/engine/match/710309.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:5 wickets,Ground:Dhaka,Match Date:Mar 8, 2014,Scorecard Link:/ci/engine/match/710311.html
+Team1:Afghanistan,Team2:Hong Kong,Winner:Afghanistan,Margin:6 wickets,Ground:Kuala Lumpur,Match Date:May 1, 2014,Scorecard Link:/ci/engine/match/736497.html
+Team1:Afghanistan,Team2:U.A.E.,Winner:Afghanistan,Margin:70 runs,Ground:Kuala Lumpur,Match Date:May 2, 2014,Scorecard Link:/ci/engine/match/736503.html
+Team1:Hong Kong,Team2:U.A.E.,Winner:U.A.E.,Margin:2 wickets,Ground:Kuala Lumpur,Match Date:May 4, 2014,Scorecard Link:/ci/engine/match/736511.html
+Team1:Ireland,Team2:Sri Lanka,Winner:Sri Lanka,Margin:79 runs,Ground:Dublin,Match Date:May 6, 2014,Scorecard Link:/ci/engine/match/706767.html
+Team1:Scotland,Team2:England,Winner:England,Margin:39 runs,Ground:Aberdeen,Match Date:May 9, 2014,Scorecard Link:/ci/engine/match/684679.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:81 runs,Ground:The Oval,Match Date:May 22, 2014,Scorecard Link:/ci/engine/match/667889.html
+Team1:England,Team2:Sri Lanka,Winner:Sri Lanka,Margin:157 runs,Ground:Chester-le-Street,Match Date:May 25, 2014,Scorecard Link:/ci/engine/match/667891.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:10 wickets,Ground:Manchester,Match Date:May 28, 2014,Scorecard Link:/ci/engine/match/667893.html
+Team1:England,Team2:Sri Lanka,Winner:Sri Lanka,Margin:7 runs,Ground:Lord's,Match Date:May 31, 2014,Scorecard Link:/ci/engine/match/667895.html
+Team1:England,Team2:Sri Lanka,Winner:Sri Lanka,Margin:6 wickets,Ground:Birmingham,Match Date:Jun 3, 2014,Scorecard Link:/ci/engine/match/667897.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:7 wickets,Ground:Dhaka,Match Date:Jun 15, 2014,Scorecard Link:/ci/engine/match/744679.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:47 runs,Ground:Dhaka,Match Date:Jun 17, 2014,Scorecard Link:/ci/engine/match/744681.html
+Team1:Bangladesh,Team2:India,Winner:no result,Margin: ,Ground:Dhaka,Match Date:Jun 19, 2014,Scorecard Link:/ci/engine/match/744683.html
+Team1:Sri Lanka,Team2:South Africa,Winner:South Africa,Margin:75 runs,Ground:Colombo (RPS),Match Date:Jul 6, 2014,Scorecard Link:/ci/engine/match/730083.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:87 runs,Ground:Pallekele,Match Date:Jul 9, 2014,Scorecard Link:/ci/engine/match/730085.html
+Team1:Sri Lanka,Team2:South Africa,Winner:South Africa,Margin:82 runs,Ground:Hambantota,Match Date:Jul 12, 2014,Scorecard Link:/ci/engine/match/730087.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Zimbabwe,Margin:6 wickets,Ground:Bulawayo,Match Date:Jul 18, 2014,Scorecard Link:/ci/engine/match/756035.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Zimbabwe,Margin:8 wickets,Ground:Bulawayo,Match Date:Jul 20, 2014,Scorecard Link:/ci/engine/match/756037.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Afghanistan,Margin:2 wickets,Ground:Bulawayo,Match Date:Jul 22, 2014,Scorecard Link:/ci/engine/match/756039.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Afghanistan,Margin:100 runs,Ground:Bulawayo,Match Date:Jul 24, 2014,Scorecard Link:/ci/engine/match/756041.html
+Team1:Zimbabwe,Team2:South Africa,Winner:South Africa,Margin:93 runs,Ground:Bulawayo,Match Date:Aug 17, 2014,Scorecard Link:/ci/engine/match/736437.html
+Team1:Zimbabwe,Team2:South Africa,Winner:South Africa,Margin:61 runs,Ground:Bulawayo,Match Date:Aug 19, 2014,Scorecard Link:/ci/engine/match/736439.html
+Team1:West Indies,Team2:Bangladesh,Winner:West Indies,Margin:3 wickets,Ground:St George's,Match Date:Aug 20, 2014,Scorecard Link:/ci/engine/match/730287.html
+Team1:Zimbabwe,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Bulawayo,Match Date:Aug 21, 2014,Scorecard Link:/ci/engine/match/736441.html
+Team1:West Indies,Team2:Bangladesh,Winner:West Indies,Margin:177 runs,Ground:St George's,Match Date:Aug 22, 2014,Scorecard Link:/ci/engine/match/730289.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:4 wickets,Ground:Hambantota,Match Date:Aug 23, 2014,Scorecard Link:/ci/engine/match/745159.html
+Team1:Zimbabwe,Team2:Australia,Winner:Australia,Margin:198 runs,Ground:Harare,Match Date:Aug 25, 2014,Scorecard Link:/ci/engine/match/736443.html
+Team1:West Indies,Team2:Bangladesh,Winner:West Indies,Margin:91 runs,Ground:Basseterre,Match Date:Aug 25, 2014,Scorecard Link:/ci/engine/match/730291.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:77 runs,Ground:Hambantota,Match Date:Aug 26, 2014,Scorecard Link:/ci/engine/match/745161.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Harare,Match Date:Aug 27, 2014,Scorecard Link:/ci/engine/match/736445.html
+Team1:England,Team2:India,Winner:India,Margin:133 runs,Ground:Cardiff,Match Date:Aug 27, 2014,Scorecard Link:/ci/engine/match/667723.html
+Team1:Zimbabwe,Team2:South Africa,Winner:South Africa,Margin:61 runs,Ground:Harare,Match Date:Aug 29, 2014,Scorecard Link:/ci/engine/match/736447.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:7 wickets,Ground:Dambulla,Match Date:Aug 30, 2014,Scorecard Link:/ci/engine/match/745163.html
+Team1:England,Team2:India,Winner:India,Margin:6 wickets,Ground:Nottingham,Match Date:Aug 30, 2014,Scorecard Link:/ci/engine/match/667725.html
+Team1:Zimbabwe,Team2:Australia,Winner:Zimbabwe,Margin:3 wickets,Ground:Harare,Match Date:Aug 31, 2014,Scorecard Link:/ci/engine/match/736449.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:62 runs,Ground:Harare,Match Date:Sep 2, 2014,Scorecard Link:/ci/engine/match/736451.html
+Team1:England,Team2:India,Winner:India,Margin:9 wickets,Ground:Birmingham,Match Date:Sep 2, 2014,Scorecard Link:/ci/engine/match/667727.html
+Team1:Zimbabwe,Team2:South Africa,Winner:South Africa,Margin:63 runs,Ground:Harare,Match Date:Sep 4, 2014,Scorecard Link:/ci/engine/match/736453.html
+Team1:England,Team2:India,Winner:England,Margin:41 runs,Ground:Leeds,Match Date:Sep 5, 2014,Scorecard Link:/ci/engine/match/667729.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:6 wickets,Ground:Harare,Match Date:Sep 6, 2014,Scorecard Link:/ci/engine/match/736455.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:7 wickets,Ground:Dublin (Malahide),Match Date:Sep 8, 2014,Scorecard Link:/ci/engine/match/727935.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:3 wickets,Ground:Dublin (Malahide),Match Date:Sep 10, 2014,Scorecard Link:/ci/engine/match/727937.html
+Team1:Ireland,Team2:Scotland,Winner:Scotland,Margin:8 wickets,Ground:Dublin (Malahide),Match Date:Sep 12, 2014,Scorecard Link:/ci/engine/match/727939.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:93 runs,Ground:Sharjah,Match Date:Oct 7, 2014,Scorecard Link:/ci/engine/match/727919.html
+Team1:India,Team2:West Indies,Winner:West Indies,Margin:124 runs,Ground:Kochi,Match Date:Oct 8, 2014,Scorecard Link:/ci/engine/match/770121.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:5 wickets,Ground:Dubai (DSC),Match Date:Oct 10, 2014,Scorecard Link:/ci/engine/match/727921.html
+Team1:India,Team2:West Indies,Winner:India,Margin:48 runs,Ground:Delhi,Match Date:Oct 11, 2014,Scorecard Link:/ci/engine/match/770123.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:1 run,Ground:Abu Dhabi,Match Date:Oct 12, 2014,Scorecard Link:/ci/engine/match/727923.html
+Team1:India,Team2:West Indies,Winner:India,Margin:59 runs,Ground:Dharamsala,Match Date:Oct 17, 2014,Scorecard Link:/ci/engine/match/770127.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:6 wickets,Ground:Mount Maunganui,Match Date:Oct 21, 2014,Scorecard Link:/ci/engine/match/749771.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:72 runs,Ground:Mount Maunganui,Match Date:Oct 24, 2014,Scorecard Link:/ci/engine/match/749773.html
+Team1:New Zealand,Team2:South Africa,Winner:no result,Margin: ,Ground:Hamilton,Match Date:Oct 27, 2014,Scorecard Link:/ci/engine/match/749775.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:169 runs,Ground:Cuttack,Match Date:Nov 2, 2014,Scorecard Link:/ci/engine/match/792289.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:6 wickets,Ground:Ahmedabad,Match Date:Nov 6, 2014,Scorecard Link:/ci/engine/match/792291.html
+Team1:Hong Kong,Team2:P.N.G.,Winner:P.N.G.,Margin:4 wickets,Ground:Townsville,Match Date:Nov 8, 2014,Scorecard Link:/ci/engine/match/791633.html
+Team1:Hong Kong,Team2:P.N.G.,Winner:P.N.G.,Margin:3 wickets,Ground:Townsville,Match Date:Nov 9, 2014,Scorecard Link:/ci/engine/match/791635.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:6 wickets,Ground:Hyderabad (Deccan),Match Date:Nov 9, 2014,Scorecard Link:/ci/engine/match/792293.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:153 runs,Ground:Kolkata,Match Date:Nov 13, 2014,Scorecard Link:/ci/engine/match/792295.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:32 runs,Ground:Perth,Match Date:Nov 14, 2014,Scorecard Link:/ci/engine/match/754723.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:3 wickets,Ground:Perth,Match Date:Nov 16, 2014,Scorecard Link:/ci/engine/match/754725.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:3 wickets,Ground:Ranchi,Match Date:Nov 16, 2014,Scorecard Link:/ci/engine/match/792297.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:73 runs,Ground:Canberra,Match Date:Nov 19, 2014,Scorecard Link:/ci/engine/match/754727.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:3 wickets,Ground:Melbourne,Match Date:Nov 21, 2014,Scorecard Link:/ci/engine/match/754729.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:87 runs,Ground:Chittagong,Match Date:Nov 21, 2014,Scorecard Link:/ci/engine/match/760787.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:2 wickets,Ground:Sydney,Match Date:Nov 23, 2014,Scorecard Link:/ci/engine/match/754731.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:68 runs,Ground:Chittagong,Match Date:Nov 23, 2014,Scorecard Link:/ci/engine/match/760789.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:124 runs,Ground:Dhaka,Match Date:Nov 26, 2014,Scorecard Link:/ci/engine/match/760791.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:25 runs,Ground:Colombo (RPS),Match Date:Nov 26, 2014,Scorecard Link:/ci/engine/match/750663.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:21 runs,Ground:Dhaka,Match Date:Nov 28, 2014,Scorecard Link:/ci/engine/match/760793.html
+Team1:U.A.E.,Team2:Afghanistan,Winner:U.A.E.,Margin:5 wickets,Ground:ICCA Dubai,Match Date:Nov 28, 2014,Scorecard Link:/ci/engine/match/803795.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:8 wickets,Ground:Colombo (RPS),Match Date:Nov 29, 2014,Scorecard Link:/ci/engine/match/750665.html
+Team1:U.A.E.,Team2:Afghanistan,Winner:U.A.E.,Margin:6 wickets,Ground:ICCA Dubai,Match Date:Nov 30, 2014,Scorecard Link:/ci/engine/match/803797.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:5 wickets,Ground:Dhaka,Match Date:Dec 1, 2014,Scorecard Link:/ci/engine/match/760795.html
+Team1:U.A.E.,Team2:Afghanistan,Winner:Afghanistan,Margin:2 wickets,Ground:ICCA Dubai,Match Date:Dec 2, 2014,Scorecard Link:/ci/engine/match/803799.html
+Team1:Sri Lanka,Team2:England,Winner:England,Margin:5 wickets,Ground:Hambantota,Match Date:Dec 3, 2014,Scorecard Link:/ci/engine/match/750667.html
+Team1:U.A.E.,Team2:Afghanistan,Winner:U.A.E.,Margin:30 runs,Ground:ICCA Dubai,Match Date:Dec 4, 2014,Scorecard Link:/ci/engine/match/803801.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:6 wickets,Ground:Colombo (RPS),Match Date:Dec 7, 2014,Scorecard Link:/ci/engine/match/750669.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:3 wickets,Ground:Dubai (DSC),Match Date:Dec 8, 2014,Scorecard Link:/ci/engine/match/742619.html
+Team1:Sri Lanka,Team2:England,Winner:England,Margin:5 wickets,Ground:Pallekele,Match Date:Dec 10-11, 2014,Scorecard Link:/ci/engine/match/750671.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:4 wickets,Ground:Sharjah,Match Date:Dec 12, 2014,Scorecard Link:/ci/engine/match/742621.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:90 runs,Ground:Pallekele,Match Date:Dec 13, 2014,Scorecard Link:/ci/engine/match/750673.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:147 runs,Ground:Sharjah,Match Date:Dec 14, 2014,Scorecard Link:/ci/engine/match/742623.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:87 runs,Ground:Colombo (RPS),Match Date:Dec 16, 2014,Scorecard Link:/ci/engine/match/750675.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:7 runs,Ground:Abu Dhabi,Match Date:Dec 17, 2014,Scorecard Link:/ci/engine/match/742625.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:68 runs,Ground:Abu Dhabi,Match Date:Dec 19, 2014,Scorecard Link:/ci/engine/match/742627.html

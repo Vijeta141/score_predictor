@@ -1,0 +1,145 @@
+Team1:Australia,Team2:New Zealand,Winner:New Zealand,Margin:23 runs,Ground:Melbourne,Match Date:Jan 11, 2002,Scorecard Link:/ci/engine/match/65615.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:4 wickets,Ground:Melbourne,Match Date:Jan 13, 2002,Scorecard Link:/ci/engine/match/65616.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:26 runs,Ground:Hobart,Match Date:Jan 15, 2002,Scorecard Link:/ci/engine/match/65617.html
+Team1:Australia,Team2:New Zealand,Winner:New Zealand,Margin:23 runs,Ground:Sydney,Match Date:Jan 17, 2002,Scorecard Link:/ci/engine/match/65618.html
+Team1:New Zealand,Team2:South Africa,Winner:New Zealand,Margin:4 wickets,Ground:Brisbane,Match Date:Jan 19, 2002,Scorecard Link:/ci/engine/match/65619.html
+Team1:India,Team2:England,Winner:India,Margin:22 runs,Ground:Kolkata,Match Date:Jan 19, 2002,Scorecard Link:/ci/engine/match/64736.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:27 runs,Ground:Brisbane,Match Date:Jan 20, 2002,Scorecard Link:/ci/engine/match/65620.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:49 runs,Ground:Chittagong,Match Date:Jan 22, 2002,Scorecard Link:/ci/engine/match/64737.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:8 wickets,Ground:Sydney,Match Date:Jan 22, 2002,Scorecard Link:/ci/engine/match/65621.html
+Team1:India,Team2:England,Winner:England,Margin:16 runs,Ground:Cuttack,Match Date:Jan 22, 2002,Scorecard Link:/ci/engine/match/64738.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:72 runs,Ground:Dhaka,Match Date:Jan 24, 2002,Scorecard Link:/ci/engine/match/64739.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:8 wickets,Ground:Dhaka,Match Date:Jan 25, 2002,Scorecard Link:/ci/engine/match/64740.html
+Team1:India,Team2:England,Winner:India,Margin:4 wickets,Ground:Chennai,Match Date:Jan 25, 2002,Scorecard Link:/ci/engine/match/64741.html
+Team1:Australia,Team2:New Zealand,Winner:New Zealand,Margin:77 runs,Ground:Adelaide,Match Date:Jan 26, 2002,Scorecard Link:/ci/engine/match/65622.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:93 runs,Ground:Adelaide,Match Date:Jan 27, 2002,Scorecard Link:/ci/engine/match/65623.html
+Team1:India,Team2:England,Winner:India,Margin:8 wickets,Ground:Kanpur,Match Date:Jan 28, 2002,Scorecard Link:/ci/engine/match/64742.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:2 wickets,Ground:Melbourne,Match Date:Jan 29, 2002,Scorecard Link:/ci/engine/match/65624.html
+Team1:India,Team2:England,Winner:England,Margin:2 runs,Ground:Delhi,Match Date:Jan 31, 2002,Scorecard Link:/ci/engine/match/64743.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:67 runs,Ground:Perth,Match Date:Feb 1, 2002,Scorecard Link:/ci/engine/match/65625.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:33 runs,Ground:Perth,Match Date:Feb 3, 2002,Scorecard Link:/ci/engine/match/65626.html
+Team1:India,Team2:England,Winner:England,Margin:5 runs,Ground:Mumbai,Match Date:Feb 3, 2002,Scorecard Link:/ci/engine/match/64744.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:8 wickets,Ground:Melbourne,Match Date:Feb 6, 2002,Scorecard Link:/ci/engine/match/65627.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:6 wickets,Ground:Sydney,Match Date:Feb 8, 2002,Scorecard Link:/ci/engine/match/65628.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:4 wickets,Ground:Christchurch,Match Date:Feb 13, 2002,Scorecard Link:/ci/engine/match/64745.html
+Team1:Pakistan,Team2:West Indies,Winner:Pakistan,Margin:4 wickets,Ground:Sharjah,Match Date:Feb 14, 2002,Scorecard Link:/ci/engine/match/64746.html
+Team1:Pakistan,Team2:West Indies,Winner:Pakistan,Margin:51 runs,Ground:Sharjah,Match Date:Feb 15, 2002,Scorecard Link:/ci/engine/match/64747.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:155 runs,Ground:Wellington,Match Date:Feb 16, 2002,Scorecard Link:/ci/engine/match/64748.html
+Team1:Pakistan,Team2:West Indies,Winner:West Indies,Margin:110 runs,Ground:Sharjah,Match Date:Feb 17, 2002,Scorecard Link:/ci/engine/match/64749.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:43 runs,Ground:Napier,Match Date:Feb 20, 2002,Scorecard Link:/ci/engine/match/64750.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:33 runs,Ground:Auckland,Match Date:Feb 23, 2002,Scorecard Link:/ci/engine/match/64751.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:5 wickets,Ground:Dunedin,Match Date:Feb 26, 2002,Scorecard Link:/ci/engine/match/64752.html
+Team1:India,Team2:Zimbabwe,Winner:Zimbabwe,Margin:1 wicket,Ground:Faridabad,Match Date:Mar 7, 2002,Scorecard Link:/ci/engine/match/64753.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:64 runs,Ground:Mohali,Match Date:Mar 10, 2002,Scorecard Link:/ci/engine/match/64754.html
+Team1:India,Team2:Zimbabwe,Winner:Zimbabwe,Margin:6 wickets,Ground:Kochi,Match Date:Mar 13, 2002,Scorecard Link:/ci/engine/match/64755.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:5 wickets,Ground:Hyderabad (Deccan),Match Date:Mar 16, 2002,Scorecard Link:/ci/engine/match/64756.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:101 runs,Ground:Guwahati,Match Date:Mar 19, 2002,Scorecard Link:/ci/engine/match/64757.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:19 runs,Ground:Johannesburg,Match Date:Mar 22, 2002,Scorecard Link:/ci/engine/match/64758.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:45 runs,Ground:Centurion,Match Date:Mar 24, 2002,Scorecard Link:/ci/engine/match/64759.html
+Team1:South Africa,Team2:Australia,Winner:tied,Margin: ,Ground:Potchefstroom,Match Date:Mar 27, 2002,Scorecard Link:/ci/engine/match/64760.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:37 runs,Ground:Bloemfontein,Match Date:Mar 30, 2002,Scorecard Link:/ci/engine/match/64761.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:8 wickets,Ground:Durban,Match Date:Apr 3, 2002,Scorecard Link:/ci/engine/match/64762.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:3 wickets,Ground:Port Elizabeth,Match Date:Apr 6, 2002,Scorecard Link:/ci/engine/match/64763.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:41 runs,Ground:Sharjah,Match Date:Apr 8, 2002,Scorecard Link:/ci/engine/match/65796.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:11 runs,Ground:Sharjah,Match Date:Apr 9, 2002,Scorecard Link:/ci/engine/match/65797.html
+Team1:South Africa,Team2:Australia,Winner:South Africa,Margin:65 runs,Ground:Cape Town,Match Date:Apr 9, 2002,Scorecard Link:/ci/engine/match/64764.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:51 runs,Ground:Sharjah,Match Date:Apr 11, 2002,Scorecard Link:/ci/engine/match/65798.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 runs,Ground:Sharjah,Match Date:Apr 12, 2002,Scorecard Link:/ci/engine/match/65799.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:46 runs,Ground:Sharjah,Match Date:Apr 14, 2002,Scorecard Link:/ci/engine/match/65800.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:8 wickets,Ground:Sharjah,Match Date:Apr 15, 2002,Scorecard Link:/ci/engine/match/65801.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:217 runs,Ground:Sharjah,Match Date:Apr 17, 2002,Scorecard Link:/ci/engine/match/65802.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:153 runs,Ground:Karachi,Match Date:Apr 21, 2002,Scorecard Link:/ci/engine/match/64765.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:3 wickets,Ground:Rawalpindi,Match Date:Apr 24, 2002,Scorecard Link:/ci/engine/match/64766.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:66 runs,Ground:Lahore,Match Date:Apr 27, 2002,Scorecard Link:/ci/engine/match/64767.html
+Team1:West Indies,Team2:India,Winner:India,Margin:7 wickets,Ground:Bridgetown,Match Date:May 29, 2002,Scorecard Link:/ci/engine/match/64768.html
+Team1:West Indies,Team2:India,Winner:West Indies,Margin:7 wickets,Ground:Port of Spain,Match Date:Jun 1, 2002,Scorecard Link:/ci/engine/match/64769.html
+Team1:West Indies,Team2:India,Winner:India,Margin:56 runs,Ground:Port of Spain,Match Date:Jun 2, 2002,Scorecard Link:/ci/engine/match/64770.html
+Team1:West Indies,Team2:New Zealand,Winner:no result,Margin: ,Ground:Kingston,Match Date:Jun 5, 2002,Scorecard Link:/ci/engine/match/64771.html
+Team1:West Indies,Team2:New Zealand,Winner:West Indies,Margin:6 wickets,Ground:Gros Islet,Match Date:Jun 8, 2002,Scorecard Link:/ci/engine/match/64772.html
+Team1:West Indies,Team2:New Zealand,Winner:West Indies,Margin:7 wickets,Ground:Gros Islet,Match Date:Jun 9, 2002,Scorecard Link:/ci/engine/match/64773.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:7 wickets,Ground:Melbourne (Docklands),Match Date:Jun 12, 2002,Scorecard Link:/ci/engine/match/64774.html
+Team1:West Indies,Team2:New Zealand,Winner:New Zealand,Margin:9 runs,Ground:Port of Spain,Match Date:Jun 12, 2002,Scorecard Link:/ci/engine/match/64775.html
+Team1:Australia,Team2:Pakistan,Winner:Pakistan,Margin:2 wickets,Ground:Melbourne (Docklands),Match Date:Jun 15, 2002,Scorecard Link:/ci/engine/match/64776.html
+Team1:West Indies,Team2:New Zealand,Winner:West Indies,Margin:4 wickets,Ground:Kingstown,Match Date:Jun 16, 2002,Scorecard Link:/ci/engine/match/64777.html
+Team1:Australia,Team2:Pakistan,Winner:Pakistan,Margin:91 runs,Ground:Brisbane,Match Date:Jun 19, 2002,Scorecard Link:/ci/engine/match/64778.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:44 runs,Ground:Nottingham,Match Date:Jun 27, 2002,Scorecard Link:/ci/engine/match/66283.html
+Team1:England,Team2:India,Winner:India,Margin:6 wickets,Ground:Lord's,Match Date:Jun 29, 2002,Scorecard Link:/ci/engine/match/66284.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:4 wickets,Ground:The Oval,Match Date:Jun 30, 2002,Scorecard Link:/ci/engine/match/66285.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:3 wickets,Ground:Leeds,Match Date:Jul 2, 2002,Scorecard Link:/ci/engine/match/66286.html
+Team1:England,Team2:India,Winner:no result,Margin: ,Ground:Chester-le-Street,Match Date:Jul 4, 2002,Scorecard Link:/ci/engine/match/66287.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:4 wickets,Ground:Birmingham,Match Date:Jul 6, 2002,Scorecard Link:/ci/engine/match/66288.html
+Team1:England,Team2:Sri Lanka,Winner:Sri Lanka,Margin:23 runs,Ground:Manchester,Match Date:Jul 7, 2002,Scorecard Link:/ci/engine/match/66289.html
+Team1:England,Team2:India,Winner:England,Margin:64 runs,Ground:The Oval,Match Date:Jul 9, 2002,Scorecard Link:/ci/engine/match/66290.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:63 runs,Ground:Bristol,Match Date:Jul 11, 2002,Scorecard Link:/ci/engine/match/66291.html
+Team1:England,Team2:India,Winner:India,Margin:2 wickets,Ground:Lord's,Match Date:Jul 13, 2002,Scorecard Link:/ci/engine/match/66292.html
+Team1:Sri Lanka,Team2:Bangladesh,Winner:Sri Lanka,Margin:5 wickets,Ground:Colombo (SSC),Match Date:Aug 4, 2002,Scorecard Link:/ci/engine/match/64779.html
+Team1:Sri Lanka,Team2:Bangladesh,Winner:Sri Lanka,Margin:8 wickets,Ground:Colombo (SSC),Match Date:Aug 5, 2002,Scorecard Link:/ci/engine/match/64780.html
+Team1:Sri Lanka,Team2:Bangladesh,Winner:Sri Lanka,Margin:58 runs,Ground:Colombo (RPS),Match Date:Aug 7, 2002,Scorecard Link:/ci/engine/match/64781.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:54 runs,Ground:Tangier,Match Date:Aug 12, 2002,Scorecard Link:/ci/engine/match/66336.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:28 runs,Ground:Tangier,Match Date:Aug 14, 2002,Scorecard Link:/ci/engine/match/66337.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:93 runs,Ground:Tangier,Match Date:Aug 15, 2002,Scorecard Link:/ci/engine/match/66338.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:39 runs,Ground:Tangier,Match Date:Aug 17, 2002,Scorecard Link:/ci/engine/match/66339.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:8 runs,Ground:Tangier,Match Date:Aug 18, 2002,Scorecard Link:/ci/engine/match/66340.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:6 wickets,Ground:Tangier,Match Date:Aug 19, 2002,Scorecard Link:/ci/engine/match/66341.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:27 runs,Ground:Tangier,Match Date:Aug 21, 2002,Scorecard Link:/ci/engine/match/66342.html
+Team1:Kenya,Team2:Pakistan,Winner:Pakistan,Margin:4 wickets,Ground:Nairobi (Gym),Match Date:Aug 29, 2002,Scorecard Link:/ci/engine/match/66343.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:224 runs,Ground:Nairobi (Gym),Match Date:Aug 30, 2002,Scorecard Link:/ci/engine/match/66344.html
+Team1:Kenya,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Nairobi (Gym),Match Date:Sep 1, 2002,Scorecard Link:/ci/engine/match/66345.html
+Team1:Kenya,Team2:Australia,Winner:Australia,Margin:8 wickets,Ground:Nairobi (Gym),Match Date:Sep 2, 2002,Scorecard Link:/ci/engine/match/66346.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:9 wickets,Ground:Nairobi (Gym),Match Date:Sep 4, 2002,Scorecard Link:/ci/engine/match/66347.html
+Team1:Kenya,Team2:Australia,Winner:Australia,Margin:5 wickets,Ground:Nairobi (Gym),Match Date:Sep 5, 2002,Scorecard Link:/ci/engine/match/66348.html
+Team1:Australia,Team2:Pakistan,Winner:no result,Margin: ,Ground:Nairobi (Gym),Match Date:Sep 7, 2002,Scorecard Link:/ci/engine/match/66349.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:8 wickets,Ground:Colombo (RPS),Match Date:Sep 12, 2002,Scorecard Link:/ci/engine/match/66180.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:2 wickets,Ground:Colombo (SSC),Match Date:Sep 13, 2002,Scorecard Link:/ci/engine/match/66181.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:14 runs,Ground:Colombo (RPS),Match Date:Sep 14, 2002,Scorecard Link:/ci/engine/match/66182.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:164 runs,Ground:Colombo (SSC),Match Date:Sep 15, 2002,Scorecard Link:/ci/engine/match/66183.html
+Team1:Sri Lanka,Team2:Netherlands,Winner:Sri Lanka,Margin:206 runs,Ground:Colombo (RPS),Match Date:Sep 16, 2002,Scorecard Link:/ci/engine/match/66184.html
+Team1:Kenya,Team2:West Indies,Winner:West Indies,Margin:29 runs,Ground:Colombo (SSC),Match Date:Sep 17, 2002,Scorecard Link:/ci/engine/match/66185.html
+Team1:England,Team2:Zimbabwe,Winner:England,Margin:108 runs,Ground:Colombo (RPS),Match Date:Sep 18, 2002,Scorecard Link:/ci/engine/match/66186.html
+Team1:Australia,Team2:Bangladesh,Winner:Australia,Margin:9 wickets,Ground:Colombo (SSC),Match Date:Sep 19, 2002,Scorecard Link:/ci/engine/match/66187.html
+Team1:Kenya,Team2:South Africa,Winner:South Africa,Margin:176 runs,Ground:Colombo (RPS),Match Date:Sep 20, 2002,Scorecard Link:/ci/engine/match/66188.html
+Team1:Netherlands,Team2:Pakistan,Winner:Pakistan,Margin:9 wickets,Ground:Colombo (SSC),Match Date:Sep 21, 2002,Scorecard Link:/ci/engine/match/66189.html
+Team1:England,Team2:India,Winner:India,Margin:8 wickets,Ground:Colombo (RPS),Match Date:Sep 22, 2002,Scorecard Link:/ci/engine/match/66190.html
+Team1:Bangladesh,Team2:New Zealand,Winner:New Zealand,Margin:167 runs,Ground:Colombo (SSC),Match Date:Sep 23, 2002,Scorecard Link:/ci/engine/match/66191.html
+Team1:India,Team2:South Africa,Winner:India,Margin:10 runs,Ground:Colombo (RPS),Match Date:Sep 25, 2002,Scorecard Link:/ci/engine/match/66192.html
+Team1:Sri Lanka,Team2:Australia,Winner:Sri Lanka,Margin:7 wickets,Ground:Colombo (RPS),Match Date:Sep 27, 2002,Scorecard Link:/ci/engine/match/66193.html
+Team1:Sri Lanka,Team2:India,Winner:no result,Margin: ,Ground:Colombo (RPS),Match Date:Sep 29, 2002,Scorecard Link:/ci/engine/match/66194.html
+Team1:Sri Lanka,Team2:India,Winner:no result,Margin: ,Ground:Colombo (RPS),Match Date:Sep 30, 2002,Scorecard Link:/ci/engine/match/66195.html
+Team1:South Africa,Team2:Bangladesh,Winner:South Africa,Margin:168 runs,Ground:Potchefstroom,Match Date:Oct 3, 2002,Scorecard Link:/ci/engine/match/64782.html
+Team1:South Africa,Team2:Bangladesh,Winner:South Africa,Margin:10 wickets,Ground:Benoni,Match Date:Oct 6, 2002,Scorecard Link:/ci/engine/match/64783.html
+Team1:South Africa,Team2:Bangladesh,Winner:South Africa,Margin:7 wickets,Ground:Kimberley,Match Date:Oct 9, 2002,Scorecard Link:/ci/engine/match/64784.html
+Team1:India,Team2:West Indies,Winner:West Indies,Margin:4 wickets,Ground:Jamshedpur,Match Date:Nov 6, 2002,Scorecard Link:/ci/engine/match/64785.html
+Team1:India,Team2:West Indies,Winner:West Indies,Margin:7 wickets,Ground:Nagpur,Match Date:Nov 9, 2002,Scorecard Link:/ci/engine/match/64786.html
+Team1:India,Team2:West Indies,Winner:India,Margin:81 runs,Ground:Rajkot,Match Date:Nov 12, 2002,Scorecard Link:/ci/engine/match/64787.html
+Team1:India,Team2:West Indies,Winner:India,Margin:5 wickets,Ground:Ahmedabad,Match Date:Nov 15, 2002,Scorecard Link:/ci/engine/match/64788.html
+Team1:India,Team2:West Indies,Winner:West Indies,Margin:5 wickets,Ground:Vadodara,Match Date:Nov 18, 2002,Scorecard Link:/ci/engine/match/64789.html
+Team1:India,Team2:West Indies,Winner:India,Margin:3 wickets,Ground:Jodhpur,Match Date:Nov 21, 2002,Scorecard Link:/ci/engine/match/64790.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:7 runs,Ground:Bulawayo,Match Date:Nov 23, 2002,Scorecard Link:/ci/engine/match/64791.html
+Team1:India,Team2:West Indies,Winner:West Indies,Margin:135 runs,Ground:Vijayawada,Match Date:Nov 24, 2002,Scorecard Link:/ci/engine/match/64792.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:104 runs,Ground:Bulawayo,Match Date:Nov 24, 2002,Scorecard Link:/ci/engine/match/64793.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:48 runs,Ground:Harare,Match Date:Nov 27, 2002,Scorecard Link:/ci/engine/match/64794.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:6 wickets,Ground:Johannesburg,Match Date:Nov 27, 2002,Scorecard Link:/ci/engine/match/64795.html
+Team1:Bangladesh,Team2:West Indies,Winner:no result,Margin: ,Ground:Chittagong,Match Date:Nov 29, 2002,Scorecard Link:/ci/engine/match/64796.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:177 runs,Ground:Centurion,Match Date:Nov 29, 2002,Scorecard Link:/ci/engine/match/64797.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:8 wickets,Ground:Harare,Match Date:Nov 30, 2002,Scorecard Link:/ci/engine/match/64798.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:70 runs,Ground:Harare,Match Date:Dec 1, 2002,Scorecard Link:/ci/engine/match/64799.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:7 wickets,Ground:Benoni,Match Date:Dec 1, 2002,Scorecard Link:/ci/engine/match/64800.html
+Team1:Bangladesh,Team2:West Indies,Winner:West Indies,Margin:84 runs,Ground:Dhaka,Match Date:Dec 2, 2002,Scorecard Link:/ci/engine/match/64801.html
+Team1:Bangladesh,Team2:West Indies,Winner:West Indies,Margin:86 runs,Ground:Dhaka,Match Date:Dec 3, 2002,Scorecard Link:/ci/engine/match/64802.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:8 wickets,Ground:Kimberley,Match Date:Dec 4, 2002,Scorecard Link:/ci/engine/match/64803.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:6 wickets,Ground:Bloemfontein,Match Date:Dec 6, 2002,Scorecard Link:/ci/engine/match/64804.html
+Team1:Zimbabwe,Team2:Kenya,Winner:no result,Margin: ,Ground:Harare,Match Date:Dec 8, 2002,Scorecard Link:/ci/engine/match/64805.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:132 runs,Ground:Durban,Match Date:Dec 8, 2002,Scorecard Link:/ci/engine/match/64806.html
+Team1:Zimbabwe,Team2:Kenya,Winner:Zimbabwe,Margin:47 runs,Ground:Kwekwe,Match Date:Dec 11, 2002,Scorecard Link:/ci/engine/match/64807.html
+Team1:South Africa,Team2:Pakistan,Winner:Pakistan,Margin:182 runs,Ground:Port Elizabeth,Match Date:Dec 11, 2002,Scorecard Link:/ci/engine/match/64808.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:7 wickets,Ground:Sydney,Match Date:Dec 13, 2002,Scorecard Link:/ci/engine/match/65629.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:62 runs,Ground:East London,Match Date:Dec 13, 2002,Scorecard Link:/ci/engine/match/64809.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:89 runs,Ground:Melbourne,Match Date:Dec 15, 2002,Scorecard Link:/ci/engine/match/65630.html
+Team1:Zimbabwe,Team2:Kenya,Winner:Zimbabwe,Margin:9 wickets,Ground:Bulawayo,Match Date:Dec 15, 2002,Scorecard Link:/ci/engine/match/64810.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:9 wickets,Ground:Paarl,Match Date:Dec 16, 2002,Scorecard Link:/ci/engine/match/64811.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:43 runs,Ground:Brisbane,Match Date:Dec 17, 2002,Scorecard Link:/ci/engine/match/65631.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:34 runs,Ground:Cape Town,Match Date:Dec 18, 2002,Scorecard Link:/ci/engine/match/64812.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:95 runs,Ground:Perth,Match Date:Dec 20, 2002,Scorecard Link:/ci/engine/match/65632.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:142 runs,Ground:Perth,Match Date:Dec 22, 2002,Scorecard Link:/ci/engine/match/65633.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:3 wickets,Ground:Auckland,Match Date:Dec 26, 2002,Scorecard Link:/ci/engine/match/64813.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:35 runs,Ground:Napier,Match Date:Dec 29, 2002,Scorecard Link:/ci/engine/match/64814.html

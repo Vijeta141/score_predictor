@@ -1,0 +1,126 @@
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:6 wickets,Ground:Centurion,Match Date:Jan 20, 2008,Scorecard Link:/ci/engine/match/298805.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:104 runs,Ground:Karachi,Match Date:Jan 21, 2008,Scorecard Link:/ci/engine/match/325800.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:5 wickets,Ground:Hyderabad (Sind),Match Date:Jan 24, 2008,Scorecard Link:/ci/engine/match/325801.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:86 runs,Ground:Cape Town,Match Date:Jan 25, 2008,Scorecard Link:/ci/engine/match/298806.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:37 runs,Ground:Multan,Match Date:Jan 27, 2008,Scorecard Link:/ci/engine/match/325802.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:7 wickets,Ground:Port Elizabeth,Match Date:Jan 27, 2008,Scorecard Link:/ci/engine/match/298807.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:7 wickets,Ground:Faisalabad,Match Date:Jan 30, 2008,Scorecard Link:/ci/engine/match/325803.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:5 wickets,Ground:Durban,Match Date:Feb 1, 2008,Scorecard Link:/ci/engine/match/298808.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:7 wickets,Ground:Sheikhupura,Match Date:Feb 2, 2008,Scorecard Link:/ci/engine/match/325804.html
+Team1:Australia,Team2:India,Winner:no result,Margin: ,Ground:Brisbane,Match Date:Feb 3, 2008,Scorecard Link:/ci/engine/match/291359.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:8 wickets,Ground:Johannesburg,Match Date:Feb 3, 2008,Scorecard Link:/ci/engine/match/298809.html
+Team1:India,Team2:Sri Lanka,Winner:no result,Margin: ,Ground:Brisbane,Match Date:Feb 5, 2008,Scorecard Link:/ci/engine/match/291360.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:128 runs,Ground:Sydney,Match Date:Feb 8, 2008,Scorecard Link:/ci/engine/match/291361.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:6 wickets,Ground:Wellington,Match Date:Feb 9, 2008,Scorecard Link:/ci/engine/match/300437.html
+Team1:Australia,Team2:India,Winner:India,Margin:5 wickets,Ground:Melbourne,Match Date:Feb 10, 2008,Scorecard Link:/ci/engine/match/291362.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:8 wickets,Ground:Canberra,Match Date:Feb 12, 2008,Scorecard Link:/ci/engine/match/291363.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:10 wickets,Ground:Hamilton,Match Date:Feb 12, 2008,Scorecard Link:/ci/engine/match/300438.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:6 wickets,Ground:Auckland,Match Date:Feb 15, 2008,Scorecard Link:/ci/engine/match/300439.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:63 runs,Ground:Perth,Match Date:Feb 15, 2008,Scorecard Link:/ci/engine/match/291364.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:50 runs,Ground:Adelaide,Match Date:Feb 17, 2008,Scorecard Link:/ci/engine/match/291365.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:2 wickets,Ground:Adelaide,Match Date:Feb 19, 2008,Scorecard Link:/ci/engine/match/291366.html
+Team1:New Zealand,Team2:England,Winner:tied,Margin: ,Ground:Napier,Match Date:Feb 20, 2008,Scorecard Link:/ci/engine/match/300440.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:24 runs,Ground:Melbourne,Match Date:Feb 22, 2008,Scorecard Link:/ci/engine/match/291367.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:34 runs,Ground:Christchurch,Match Date:Feb 23, 2008,Scorecard Link:/ci/engine/match/300441.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:18 runs,Ground:Sydney,Match Date:Feb 24, 2008,Scorecard Link:/ci/engine/match/291368.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:7 wickets,Ground:Hobart,Match Date:Feb 26, 2008,Scorecard Link:/ci/engine/match/291369.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:13 runs,Ground:Melbourne,Match Date:Feb 29, 2008,Scorecard Link:/ci/engine/match/291370.html
+Team1:Australia,Team2:India,Winner:India,Margin:6 wickets,Ground:Sydney,Match Date:Mar 2, 2008,Scorecard Link:/ci/engine/match/291371.html
+Team1:Australia,Team2:India,Winner:India,Margin:9 runs,Ground:Brisbane,Match Date:Mar 4, 2008,Scorecard Link:/ci/engine/match/291372.html
+Team1:Bangladesh,Team2:South Africa,Winner:South Africa,Margin:9 wickets,Ground:Chittagong,Match Date:Mar 9, 2008,Scorecard Link:/ci/engine/match/323949.html
+Team1:Bangladesh,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Dhaka,Match Date:Mar 12, 2008,Scorecard Link:/ci/engine/match/323950.html
+Team1:Bangladesh,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Dhaka,Match Date:Mar 14, 2008,Scorecard Link:/ci/engine/match/323951.html
+Team1:Bangladesh,Team2:Ireland,Winner:Bangladesh,Margin:8 wickets,Ground:Dhaka,Match Date:Mar 18, 2008,Scorecard Link:/ci/engine/match/335633.html
+Team1:Bangladesh,Team2:Ireland,Winner:Bangladesh,Margin:84 runs,Ground:Dhaka,Match Date:Mar 20, 2008,Scorecard Link:/ci/engine/match/335634.html
+Team1:Bangladesh,Team2:Ireland,Winner:Bangladesh,Margin:79 runs,Ground:Dhaka,Match Date:Mar 22, 2008,Scorecard Link:/ci/engine/match/335635.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:152 runs,Ground:Lahore,Match Date:Apr 8, 2008,Scorecard Link:/ci/engine/match/343759.html
+Team1:West Indies,Team2:Sri Lanka,Winner:West Indies,Margin:1 wicket,Ground:Port of Spain,Match Date:Apr 10, 2008,Scorecard Link:/ci/engine/match/319134.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:7 wickets,Ground:Faisalabad,Match Date:Apr 11, 2008,Scorecard Link:/ci/engine/match/343760.html
+Team1:West Indies,Team2:Sri Lanka,Winner:West Indies,Margin:7 wickets,Ground:Port of Spain,Match Date:Apr 12, 2008,Scorecard Link:/ci/engine/match/319135.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:23 runs,Ground:Lahore,Match Date:Apr 13, 2008,Scorecard Link:/ci/engine/match/343761.html
+Team1:West Indies,Team2:Sri Lanka,Winner:no result,Margin: ,Ground:Gros Islet,Match Date:Apr 15, 2008,Scorecard Link:/ci/engine/match/319136.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:7 wickets,Ground:Multan,Match Date:Apr 16, 2008,Scorecard Link:/ci/engine/match/343762.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:150 runs,Ground:Karachi,Match Date:Apr 19, 2008,Scorecard Link:/ci/engine/match/343763.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:70 runs,Ground:Dhaka,Match Date:Jun 8, 2008,Scorecard Link:/ci/engine/match/345468.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:140 runs,Ground:Dhaka,Match Date:Jun 10, 2008,Scorecard Link:/ci/engine/match/345469.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:7 wickets,Ground:Dhaka,Match Date:Jun 12, 2008,Scorecard Link:/ci/engine/match/345470.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:25 runs,Ground:Dhaka,Match Date:Jun 14, 2008,Scorecard Link:/ci/engine/match/345471.html
+Team1:England,Team2:New Zealand,Winner:England,Margin:114 runs,Ground:Chester-le-Street,Match Date:Jun 15, 2008,Scorecard Link:/ci/engine/match/296904.html
+Team1:England,Team2:New Zealand,Winner:no result,Margin: ,Ground:Birmingham,Match Date:Jun 18, 2008,Scorecard Link:/ci/engine/match/296905.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:22 runs,Ground:Bristol,Match Date:Jun 21, 2008,Scorecard Link:/ci/engine/match/296906.html
+Team1:Bangladesh,Team2:U.A.E.,Winner:Bangladesh,Margin:96 runs,Ground:Lahore,Match Date:Jun 24, 2008,Scorecard Link:/ci/engine/match/335346.html
+Team1:Pakistan,Team2:Hong Kong,Winner:Pakistan,Margin:155 runs,Ground:Karachi,Match Date:Jun 24, 2008,Scorecard Link:/ci/engine/match/335347.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:84 runs,Ground:Kingstown,Match Date:Jun 24, 2008,Scorecard Link:/ci/engine/match/319143.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:131 runs,Ground:Lahore,Match Date:Jun 25, 2008,Scorecard Link:/ci/engine/match/335348.html
+Team1:Hong Kong,Team2:India,Winner:India,Margin:256 runs,Ground:Karachi,Match Date:Jun 25, 2008,Scorecard Link:/ci/engine/match/335349.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:1 wicket,Ground:The Oval,Match Date:Jun 25, 2008,Scorecard Link:/ci/engine/match/296907.html
+Team1:Pakistan,Team2:India,Winner:India,Margin:6 wickets,Ground:Karachi,Match Date:Jun 26, 2008,Scorecard Link:/ci/engine/match/335351.html
+Team1:Sri Lanka,Team2:U.A.E.,Winner:Sri Lanka,Margin:142 runs,Ground:Lahore,Match Date:Jun 26, 2008,Scorecard Link:/ci/engine/match/335350.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:63 runs,Ground:St George's,Match Date:Jun 27, 2008,Scorecard Link:/ci/engine/match/319144.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:51 runs,Ground:Lord's,Match Date:Jun 28, 2008,Scorecard Link:/ci/engine/match/296908.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:7 wickets,Ground:Karachi,Match Date:Jun 28, 2008,Scorecard Link:/ci/engine/match/335352.html
+Team1:Canada,Team2:Bermuda,Winner:Bermuda,Margin:3 wickets,Ground:King City (NW),Match Date:Jun 28, 2008,Scorecard Link:/ci/engine/match/325568.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:64 runs,Ground:Karachi,Match Date:Jun 29, 2008,Scorecard Link:/ci/engine/match/335353.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:7 wickets,Ground:St George's,Match Date:Jun 29, 2008,Scorecard Link:/ci/engine/match/319145.html
+Team1:Canada,Team2:Bermuda,Winner:Bermuda,Margin:11 runs,Ground:King City (NW),Match Date:Jun 29, 2008,Scorecard Link:/ci/engine/match/325569.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:158 runs,Ground:Karachi,Match Date:Jun 30, 2008,Scorecard Link:/ci/engine/match/335354.html
+Team1:Ireland,Team2:New Zealand,Winner:New Zealand,Margin:290 runs,Ground:Aberdeen,Match Date:Jul 1, 2008,Scorecard Link:/ci/engine/match/325554.html
+Team1:Canada,Team2:Bermuda,Winner:Canada,Margin:77 runs,Ground:King City (NW),Match Date:Jul 1, 2008,Scorecard Link:/ci/engine/match/325570.html
+Team1:Scotland,Team2:Ireland,Winner:Scotland,Margin:5 wickets,Ground:Aberdeen,Match Date:Jul 2, 2008,Scorecard Link:/ci/engine/match/325556.html
+Team1:Pakistan,Team2:India,Winner:Pakistan,Margin:8 wickets,Ground:Karachi,Match Date:Jul 2, 2008,Scorecard Link:/ci/engine/match/335355.html
+Team1:Scotland,Team2:New Zealand,Winner:New Zealand,Margin:8 wickets,Ground:Aberdeen,Match Date:Jul 3, 2008,Scorecard Link:/ci/engine/match/325555.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:6 wickets,Ground:Karachi,Match Date:Jul 3, 2008,Scorecard Link:/ci/engine/match/335356.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:10 wickets,Ground:Karachi,Match Date:Jul 4, 2008,Scorecard Link:/ci/engine/match/335357.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:1 run,Ground:Basseterre,Match Date:Jul 4, 2008,Scorecard Link:/ci/engine/match/319146.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:100 runs,Ground:Karachi,Match Date:Jul 6, 2008,Scorecard Link:/ci/engine/match/335358.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:169 runs,Ground:Basseterre,Match Date:Jul 6, 2008,Scorecard Link:/ci/engine/match/319147.html
+Team1:Ireland,Team2:Netherlands,Winner:Ireland,Margin:7 wickets,Ground:Dublin,Match Date:Jul 28, 2008,Scorecard Link:/ci/engine/match/325578.html
+Team1:Netherlands,Team2:Scotland,Winner:Scotland,Margin:6 wickets,Ground:Dublin,Match Date:Jul 29, 2008,Scorecard Link:/ci/engine/match/325579.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:7 wickets,Ground:Dublin,Match Date:Jul 31, 2008,Scorecard Link:/ci/engine/match/325580.html
+Team1:Netherlands,Team2:Bermuda,Winner:Netherlands,Margin:6 wickets,Ground:Amstelveen,Match Date:Aug 8, 2008,Scorecard Link:/ci/engine/match/354117.html
+Team1:Scotland,Team2:Kenya,Winner:no result,Margin: ,Ground:Ayr,Match Date:Aug 12, 2008,Scorecard Link:/ci/engine/match/325572.html
+Team1:Sri Lanka,Team2:India,Winner:Sri Lanka,Margin:8 wickets,Ground:Dambulla,Match Date:Aug 18, 2008,Scorecard Link:/ci/engine/match/343732.html
+Team1:Scotland,Team2:England,Winner:no result,Margin: ,Ground:Edinburgh,Match Date:Aug 18, 2008,Scorecard Link:/ci/engine/match/314670.html
+Team1:Canada,Team2:Bermuda,Winner:Canada,Margin:25 runs,Ground:King City (NW),Match Date:Aug 18, 2008,Scorecard Link:/ci/engine/match/349904.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:3 wickets,Ground:Dambulla,Match Date:Aug 20, 2008,Scorecard Link:/ci/engine/match/343733.html
+Team1:Bermuda,Team2:West Indies,Winner:West Indies,Margin:6 wickets,Ground:King City (NW),Match Date:Aug 20, 2008,Scorecard Link:/ci/engine/match/349902.html
+Team1:Netherlands,Team2:Kenya,Winner:Netherlands,Margin:6 wickets,Ground:Rotterdam,Match Date:Aug 21, 2008,Scorecard Link:/ci/engine/match/325574.html
+Team1:England,Team2:South Africa,Winner:England,Margin:20 runs,Ground:Leeds,Match Date:Aug 22, 2008,Scorecard Link:/ci/engine/match/296914.html
+Team1:Canada,Team2:West Indies,Winner:West Indies,Margin:49 runs,Ground:King City (NW),Match Date:Aug 22, 2008,Scorecard Link:/ci/engine/match/349901.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:33 runs,Ground:Colombo (RPS),Match Date:Aug 24, 2008,Scorecard Link:/ci/engine/match/343734.html
+Team1:Ireland,Team2:Kenya,Winner:Ireland,Margin:33 runs,Ground:Belfast,Match Date:Aug 24, 2008,Scorecard Link:/ci/engine/match/325575.html
+Team1:Canada,Team2:West Indies,Winner:West Indies,Margin:7 wickets,Ground:King City (NW),Match Date:Aug 24, 2008,Scorecard Link:/ci/engine/match/349903.html
+Team1:Ireland,Team2:Kenya,Winner:no result,Margin: ,Ground:Belfast,Match Date:Aug 25, 2008,Scorecard Link:/ci/engine/match/325576.html
+Team1:England,Team2:South Africa,Winner:England,Margin:10 wickets,Ground:Nottingham,Match Date:Aug 26, 2008,Scorecard Link:/ci/engine/match/296915.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:46 runs,Ground:Colombo (RPS),Match Date:Aug 27, 2008,Scorecard Link:/ci/engine/match/366341.html
+Team1:Sri Lanka,Team2:India,Winner:Sri Lanka,Margin:112 runs,Ground:Colombo (RPS),Match Date:Aug 29, 2008,Scorecard Link:/ci/engine/match/343736.html
+Team1:England,Team2:South Africa,Winner:England,Margin:126 runs,Ground:The Oval,Match Date:Aug 29, 2008,Scorecard Link:/ci/engine/match/296916.html
+Team1:Australia,Team2:Bangladesh,Winner:Australia,Margin:180 runs,Ground:Darwin,Match Date:Aug 30, 2008,Scorecard Link:/ci/engine/match/336201.html
+Team1:England,Team2:South Africa,Winner:England,Margin:7 wickets,Ground:Lord's,Match Date:Aug 31, 2008,Scorecard Link:/ci/engine/match/296917.html
+Team1:Australia,Team2:Bangladesh,Winner:Australia,Margin:8 wickets,Ground:Darwin,Match Date:Sep 3, 2008,Scorecard Link:/ci/engine/match/336202.html
+Team1:England,Team2:South Africa,Winner:no result,Margin: ,Ground:Cardiff,Match Date:Sep 3, 2008,Scorecard Link:/ci/engine/match/296918.html
+Team1:Australia,Team2:Bangladesh,Winner:Australia,Margin:73 runs,Ground:Darwin,Match Date:Sep 6, 2008,Scorecard Link:/ci/engine/match/336204.html
+Team1:Bangladesh,Team2:New Zealand,Winner:Bangladesh,Margin:7 wickets,Ground:Dhaka,Match Date:Oct 9, 2008,Scorecard Link:/ci/engine/match/361755.html
+Team1:Bangladesh,Team2:New Zealand,Winner:New Zealand,Margin:75 runs,Ground:Dhaka,Match Date:Oct 11, 2008,Scorecard Link:/ci/engine/match/361756.html
+Team1:Bangladesh,Team2:New Zealand,Winner:New Zealand,Margin:79 runs,Ground:Chittagong,Match Date:Oct 14, 2008,Scorecard Link:/ci/engine/match/361757.html
+Team1:Ireland,Team2:Zimbabwe,Winner:Zimbabwe,Margin:156 runs,Ground:Nairobi (Gym),Match Date:Oct 17, 2008,Scorecard Link:/ci/engine/match/325581.html
+Team1:Kenya,Team2:Ireland,Winner:Ireland,Margin:86 runs,Ground:Nairobi (Gym),Match Date:Oct 18, 2008,Scorecard Link:/ci/engine/match/325582.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Kenya,Margin:95 runs,Ground:Nairobi (Gym),Match Date:Oct 19, 2008,Scorecard Link:/ci/engine/match/325583.html
+Team1:South Africa,Team2:Kenya,Winner:South Africa,Margin:159 runs,Ground:Bloemfontein,Match Date:Oct 31, 2008,Scorecard Link:/ci/engine/match/360800.html
+Team1:South Africa,Team2:Kenya,Winner:South Africa,Margin:7 wickets,Ground:Kimberley,Match Date:Nov 2, 2008,Scorecard Link:/ci/engine/match/360801.html
+Team1:South Africa,Team2:Bangladesh,Winner:South Africa,Margin:61 runs,Ground:Potchefstroom,Match Date:Nov 7, 2008,Scorecard Link:/ci/engine/match/350348.html
+Team1:South Africa,Team2:Bangladesh,Winner:South Africa,Margin:128 runs,Ground:Benoni,Match Date:Nov 9, 2008,Scorecard Link:/ci/engine/match/350349.html
+Team1:Pakistan,Team2:West Indies,Winner:Pakistan,Margin:4 wickets,Ground:Abu Dhabi,Match Date:Nov 12, 2008,Scorecard Link:/ci/engine/match/374059.html
+Team1:India,Team2:England,Winner:India,Margin:158 runs,Ground:Rajkot,Match Date:Nov 14, 2008,Scorecard Link:/ci/engine/match/361043.html
+Team1:Pakistan,Team2:West Indies,Winner:Pakistan,Margin:24 runs,Ground:Abu Dhabi,Match Date:Nov 14, 2008,Scorecard Link:/ci/engine/match/374060.html
+Team1:Pakistan,Team2:West Indies,Winner:Pakistan,Margin:31 runs,Ground:Abu Dhabi,Match Date:Nov 16, 2008,Scorecard Link:/ci/engine/match/374061.html
+Team1:India,Team2:England,Winner:India,Margin:54 runs,Ground:Indore,Match Date:Nov 17, 2008,Scorecard Link:/ci/engine/match/361044.html
+Team1:India,Team2:England,Winner:India,Margin:16 runs,Ground:Kanpur,Match Date:Nov 20, 2008,Scorecard Link:/ci/engine/match/361045.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:6 wickets,Ground:Harare,Match Date:Nov 20, 2008,Scorecard Link:/ci/engine/match/375456.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 wickets,Ground:Harare,Match Date:Nov 22, 2008,Scorecard Link:/ci/engine/match/375457.html
+Team1:India,Team2:England,Winner:India,Margin:19 runs,Ground:Bengaluru,Match Date:Nov 23, 2008,Scorecard Link:/ci/engine/match/361046.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:5 runs,Ground:Harare,Match Date:Nov 24, 2008,Scorecard Link:/ci/engine/match/375460.html
+Team1:India,Team2:England,Winner:India,Margin:6 wickets,Ground:Cuttack,Match Date:Nov 26, 2008,Scorecard Link:/ci/engine/match/361047.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:2 wickets,Ground:Harare,Match Date:Nov 28, 2008,Scorecard Link:/ci/engine/match/375461.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:19 runs,Ground:Harare,Match Date:Nov 30, 2008,Scorecard Link:/ci/engine/match/375462.html
+Team1:New Zealand,Team2:West Indies,Winner:no result,Margin: ,Ground:Queenstown,Match Date:Dec 31, 2008,Scorecard Link:/ci/engine/match/366709.html

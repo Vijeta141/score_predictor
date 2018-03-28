@@ -1,0 +1,136 @@
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:85 runs,Ground:Kolkata,Match Date:Jan 3, 2013,Scorecard Link:/ci/engine/match/589309.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:10 runs,Ground:Delhi,Match Date:Jan 6, 2013,Scorecard Link:/ci/engine/match/589310.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:107 runs,Ground:Melbourne,Match Date:Jan 11, 2013,Scorecard Link:/ci/engine/match/573014.html
+Team1:India,Team2:England,Winner:England,Margin:9 runs,Ground:Rajkot,Match Date:Jan 11, 2013,Scorecard Link:/ci/engine/match/565812.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:8 wickets,Ground:Adelaide,Match Date:Jan 13, 2013,Scorecard Link:/ci/engine/match/573015.html
+Team1:India,Team2:England,Winner:India,Margin:127 runs,Ground:Kochi,Match Date:Jan 15, 2013,Scorecard Link:/ci/engine/match/565813.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:4 wickets,Ground:Brisbane,Match Date:Jan 18, 2013,Scorecard Link:/ci/engine/match/573016.html
+Team1:India,Team2:England,Winner:India,Margin:7 wickets,Ground:Ranchi,Match Date:Jan 19, 2013,Scorecard Link:/ci/engine/match/565814.html
+Team1:South Africa,Team2:New Zealand,Winner:New Zealand,Margin:1 wicket,Ground:Paarl,Match Date:Jan 19, 2013,Scorecard Link:/ci/engine/match/567358.html
+Team1:Australia,Team2:Sri Lanka,Winner:no result,Margin: ,Ground:Sydney,Match Date:Jan 20, 2013,Scorecard Link:/ci/engine/match/573017.html
+Team1:South Africa,Team2:New Zealand,Winner:New Zealand,Margin:27 runs,Ground:Kimberley,Match Date:Jan 22, 2013,Scorecard Link:/ci/engine/match/567359.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:32 runs,Ground:Hobart,Match Date:Jan 23, 2013,Scorecard Link:/ci/engine/match/573018.html
+Team1:India,Team2:England,Winner:India,Margin:5 wickets,Ground:Mohali,Match Date:Jan 23, 2013,Scorecard Link:/ci/engine/match/565815.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:1 wicket,Ground:Potchefstroom,Match Date:Jan 25, 2013,Scorecard Link:/ci/engine/match/567360.html
+Team1:India,Team2:England,Winner:England,Margin:7 wickets,Ground:Dharamsala,Match Date:Jan 27, 2013,Scorecard Link:/ci/engine/match/565816.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:9 wickets,Ground:Perth,Match Date:Feb 1, 2013,Scorecard Link:/ci/engine/match/573022.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:54 runs,Ground:Perth,Match Date:Feb 3, 2013,Scorecard Link:/ci/engine/match/573023.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:39 runs,Ground:Canberra,Match Date:Feb 6, 2013,Scorecard Link:/ci/engine/match/573024.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:5 wickets,Ground:Sydney,Match Date:Feb 8, 2013,Scorecard Link:/ci/engine/match/573025.html
+Team1:Australia,Team2:West Indies,Winner:Australia,Margin:17 runs,Ground:Melbourne,Match Date:Feb 10, 2013,Scorecard Link:/ci/engine/match/573026.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:3 wickets,Ground:Hamilton,Match Date:Feb 17, 2013,Scorecard Link:/ci/engine/match/569240.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:8 wickets,Ground:Napier,Match Date:Feb 20, 2013,Scorecard Link:/ci/engine/match/569241.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:156 runs,Ground:St George's,Match Date:Feb 22, 2013,Scorecard Link:/ci/engine/match/593983.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:5 wickets,Ground:Auckland,Match Date:Feb 23, 2013,Scorecard Link:/ci/engine/match/569242.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:7 wickets,Ground:St George's,Match Date:Feb 24, 2013,Scorecard Link:/ci/engine/match/593984.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:5 wickets,Ground:St George's,Match Date:Feb 26, 2013,Scorecard Link:/ci/engine/match/593985.html
+Team1:Afghanistan,Team2:Scotland,Winner:Afghanistan,Margin:7 wickets,Ground:Sharjah,Match Date:Mar 6, 2013,Scorecard Link:/ci/engine/match/592270.html
+Team1:Afghanistan,Team2:Scotland,Winner:Afghanistan,Margin:5 wickets,Ground:Sharjah,Match Date:Mar 8, 2013,Scorecard Link:/ci/engine/match/592271.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:125 runs,Ground:Bloemfontein,Match Date:Mar 10, 2013,Scorecard Link:/ci/engine/match/567368.html
+Team1:Canada,Team2:Kenya,Winner:Kenya,Margin:6 wickets,Ground:ICCA Dubai,Match Date:Mar 11, 2013,Scorecard Link:/ci/engine/match/592266.html
+Team1:Canada,Team2:Kenya,Winner:Kenya,Margin:6 wickets,Ground:ICCA Dubai,Match Date:Mar 13, 2013,Scorecard Link:/ci/engine/match/592267.html
+Team1:South Africa,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Centurion,Match Date:Mar 15, 2013,Scorecard Link:/ci/engine/match/567369.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:34 runs,Ground:Johannesburg,Match Date:Mar 17, 2013,Scorecard Link:/ci/engine/match/567370.html
+Team1:South Africa,Team2:Pakistan,Winner:Pakistan,Margin:3 wickets,Ground:Durban,Match Date:Mar 21, 2013,Scorecard Link:/ci/engine/match/567371.html
+Team1:Sri Lanka,Team2:Bangladesh,Winner:Sri Lanka,Margin:8 wickets,Ground:Hambantota,Match Date:Mar 23, 2013,Scorecard Link:/ci/engine/match/602474.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:6 wickets,Ground:Benoni,Match Date:Mar 24, 2013,Scorecard Link:/ci/engine/match/567372.html
+Team1:Sri Lanka,Team2:Bangladesh,Winner:no result,Margin: ,Ground:Hambantota,Match Date:Mar 25, 2013,Scorecard Link:/ci/engine/match/602475.html
+Team1:Sri Lanka,Team2:Bangladesh,Winner:Bangladesh,Margin:3 wickets,Ground:Pallekele,Match Date:Mar 28, 2013,Scorecard Link:/ci/engine/match/602476.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Bangladesh,Margin:121 runs,Ground:Bulawayo,Match Date:May 3, 2013,Scorecard Link:/ci/engine/match/623573.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:6 wickets,Ground:Bulawayo,Match Date:May 5, 2013,Scorecard Link:/ci/engine/match/623574.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:7 wickets,Ground:Bulawayo,Match Date:May 8, 2013,Scorecard Link:/ci/engine/match/623575.html
+Team1:Scotland,Team2:Pakistan,Winner:Pakistan,Margin:96 runs,Ground:Edinburgh,Match Date:May 17, 2013,Scorecard Link:/ci/engine/match/601077.html
+Team1:Ireland,Team2:Pakistan,Winner:tied,Margin: ,Ground:Dublin,Match Date:May 23, 2013,Scorecard Link:/ci/engine/match/601612.html
+Team1:Ireland,Team2:Pakistan,Winner:Pakistan,Margin:2 wickets,Ground:Dublin,Match Date:May 26, 2013,Scorecard Link:/ci/engine/match/601613.html
+Team1:Netherlands,Team2:South Africa,Winner:South Africa,Margin:83 runs,Ground:Amstelveen,Match Date:May 31, 2013,Scorecard Link:/ci/engine/match/602761.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:5 wickets,Ground:Lord's,Match Date:May 31, 2013,Scorecard Link:/ci/engine/match/566923.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:86 runs,Ground:Southampton,Match Date:Jun 2, 2013,Scorecard Link:/ci/engine/match/566924.html
+Team1:England,Team2:New Zealand,Winner:England,Margin:34 runs,Ground:Nottingham,Match Date:Jun 5, 2013,Scorecard Link:/ci/engine/match/566925.html
+Team1:India,Team2:South Africa,Winner:India,Margin:26 runs,Ground:Cardiff,Match Date:Jun 6, 2013,Scorecard Link:/ci/engine/match/578614.html
+Team1:Pakistan,Team2:West Indies,Winner:West Indies,Margin:2 wickets,Ground:The Oval,Match Date:Jun 7, 2013,Scorecard Link:/ci/engine/match/578615.html
+Team1:England,Team2:Australia,Winner:England,Margin:48 runs,Ground:Birmingham,Match Date:Jun 8, 2013,Scorecard Link:/ci/engine/match/578616.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:1 wicket,Ground:Cardiff,Match Date:Jun 9, 2013,Scorecard Link:/ci/engine/match/578617.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:67 runs,Ground:Birmingham,Match Date:Jun 10, 2013,Scorecard Link:/ci/engine/match/578618.html
+Team1:India,Team2:West Indies,Winner:India,Margin:8 wickets,Ground:The Oval,Match Date:Jun 11, 2013,Scorecard Link:/ci/engine/match/578619.html
+Team1:Australia,Team2:New Zealand,Winner:no result,Margin: ,Ground:Birmingham,Match Date:Jun 12, 2013,Scorecard Link:/ci/engine/match/578620.html
+Team1:England,Team2:Sri Lanka,Winner:Sri Lanka,Margin:7 wickets,Ground:The Oval,Match Date:Jun 13, 2013,Scorecard Link:/ci/engine/match/578621.html
+Team1:South Africa,Team2:West Indies,Winner:tied,Margin: ,Ground:Cardiff,Match Date:Jun 14, 2013,Scorecard Link:/ci/engine/match/578622.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:8 wickets,Ground:Birmingham,Match Date:Jun 15, 2013,Scorecard Link:/ci/engine/match/578623.html
+Team1:England,Team2:New Zealand,Winner:England,Margin:10 runs,Ground:Cardiff,Match Date:Jun 16, 2013,Scorecard Link:/ci/engine/match/578624.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:20 runs,Ground:The Oval,Match Date:Jun 17, 2013,Scorecard Link:/ci/engine/match/578625.html
+Team1:England,Team2:South Africa,Winner:England,Margin:7 wickets,Ground:The Oval,Match Date:Jun 19, 2013,Scorecard Link:/ci/engine/match/566946.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:8 wickets,Ground:Cardiff,Match Date:Jun 20, 2013,Scorecard Link:/ci/engine/match/566947.html
+Team1:England,Team2:India,Winner:India,Margin:5 runs,Ground:Birmingham,Match Date:Jun 23, 2013,Scorecard Link:/ci/engine/match/566948.html
+Team1:West Indies,Team2:Sri Lanka,Winner:West Indies,Margin:6 wickets,Ground:Kingston,Match Date:Jun 28, 2013,Scorecard Link:/ci/engine/match/597923.html
+Team1:Scotland,Team2:Kenya,Winner:Scotland,Margin:12 runs,Ground:Aberdeen,Match Date:Jun 30, 2013,Scorecard Link:/ci/engine/match/631136.html
+Team1:West Indies,Team2:India,Winner:West Indies,Margin:1 wicket,Ground:Kingston,Match Date:Jun 30, 2013,Scorecard Link:/ci/engine/match/597924.html
+Team1:Scotland,Team2:Kenya,Winner:Scotland,Margin:4 wickets,Ground:Aberdeen,Match Date:Jul 2-3, 2013,Scorecard Link:/ci/engine/match/631137.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:161 runs,Ground:Kingston,Match Date:Jul 2, 2013,Scorecard Link:/ci/engine/match/597925.html
+Team1:West Indies,Team2:India,Winner:India,Margin:102 runs,Ground:Port of Spain,Match Date:Jul 5, 2013,Scorecard Link:/ci/engine/match/597926.html
+Team1:Netherlands,Team2:Ireland,Winner:Ireland,Margin:88 runs,Ground:Amstelveen,Match Date:Jul 7, 2013,Scorecard Link:/ci/engine/match/631138.html
+Team1:West Indies,Team2:Sri Lanka,Winner:Sri Lanka,Margin:39 runs,Ground:Port of Spain,Match Date:Jul 7-8, 2013,Scorecard Link:/ci/engine/match/597927.html
+Team1:Netherlands,Team2:Ireland,Winner:tied,Margin: ,Ground:Amstelveen,Match Date:Jul 9, 2013,Scorecard Link:/ci/engine/match/631139.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:81 runs,Ground:Port of Spain,Match Date:Jul 9, 2013,Scorecard Link:/ci/engine/match/597928.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:1 wicket,Ground:Port of Spain,Match Date:Jul 11, 2013,Scorecard Link:/ci/engine/match/597929.html
+Team1:West Indies,Team2:Pakistan,Winner:Pakistan,Margin:126 runs,Ground:Providence,Match Date:Jul 14, 2013,Scorecard Link:/ci/engine/match/645635.html
+Team1:West Indies,Team2:Pakistan,Winner:West Indies,Margin:37 runs,Ground:Providence,Match Date:Jul 16, 2013,Scorecard Link:/ci/engine/match/645637.html
+Team1:West Indies,Team2:Pakistan,Winner:tied,Margin: ,Ground:Gros Islet,Match Date:Jul 19, 2013,Scorecard Link:/ci/engine/match/645639.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:180 runs,Ground:Colombo (RPS),Match Date:Jul 20, 2013,Scorecard Link:/ci/engine/match/635653.html
+Team1:West Indies,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Gros Islet,Match Date:Jul 21, 2013,Scorecard Link:/ci/engine/match/645641.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:17 runs,Ground:Colombo (RPS),Match Date:Jul 23, 2013,Scorecard Link:/ci/engine/match/635654.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:6 wickets,Ground:Harare,Match Date:Jul 24, 2013,Scorecard Link:/ci/engine/match/643665.html
+Team1:West Indies,Team2:Pakistan,Winner:Pakistan,Margin:4 wickets,Ground:Gros Islet,Match Date:Jul 24, 2013,Scorecard Link:/ci/engine/match/645643.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:58 runs,Ground:Harare,Match Date:Jul 26, 2013,Scorecard Link:/ci/engine/match/643667.html
+Team1:Sri Lanka,Team2:South Africa,Winner:South Africa,Margin:56 runs,Ground:Pallekele,Match Date:Jul 26, 2013,Scorecard Link:/ci/engine/match/635655.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:7 wickets,Ground:Harare,Match Date:Jul 28, 2013,Scorecard Link:/ci/engine/match/643669.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:8 wickets,Ground:Pallekele,Match Date:Jul 28, 2013,Scorecard Link:/ci/engine/match/635656.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:128 runs,Ground:Colombo (RPS),Match Date:Jul 31, 2013,Scorecard Link:/ci/engine/match/635657.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:9 wickets,Ground:Bulawayo,Match Date:Aug 1, 2013,Scorecard Link:/ci/engine/match/643675.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:7 wickets,Ground:Bulawayo,Match Date:Aug 3, 2013,Scorecard Link:/ci/engine/match/643677.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Zimbabwe,Margin:7 wickets,Ground:Harare,Match Date:Aug 27, 2013,Scorecard Link:/ci/engine/match/659549.html
+Team1:Canada,Team2:Netherlands,Winner:no result,Margin: ,Ground:King City (NW),Match Date:Aug 27-28, 2013,Scorecard Link:/ci/engine/match/660825.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:90 runs,Ground:Harare,Match Date:Aug 29, 2013,Scorecard Link:/ci/engine/match/659551.html
+Team1:Canada,Team2:Netherlands,Winner:Netherlands,Margin:9 wickets,Ground:King City (NW),Match Date:Aug 29, 2013,Scorecard Link:/ci/engine/match/660827.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:108 runs,Ground:Harare,Match Date:Aug 31, 2013,Scorecard Link:/ci/engine/match/659553.html
+Team1:Ireland,Team2:England,Winner:England,Margin:6 wickets,Ground:Dublin (Malahide),Match Date:Sep 3, 2013,Scorecard Link:/ci/engine/match/566940.html
+Team1:Scotland,Team2:Australia,Winner:Australia,Margin:200 runs,Ground:Edinburgh,Match Date:Sep 3, 2013,Scorecard Link:/ci/engine/match/566939.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:1 wicket,Ground:Belfast,Match Date:Sep 6, 2013,Scorecard Link:/ci/engine/match/660837.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:88 runs,Ground:Manchester,Match Date:Sep 8, 2013,Scorecard Link:/ci/engine/match/566942.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:7 wickets,Ground:Belfast,Match Date:Sep 8, 2013,Scorecard Link:/ci/engine/match/660841.html
+Team1:England,Team2:Australia,Winner:no result,Margin: ,Ground:Birmingham,Match Date:Sep 11, 2013,Scorecard Link:/ci/engine/match/566943.html
+Team1:England,Team2:Australia,Winner:England,Margin:3 wickets,Ground:Cardiff,Match Date:Sep 14, 2013,Scorecard Link:/ci/engine/match/566944.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:49 runs,Ground:Southampton,Match Date:Sep 16, 2013,Scorecard Link:/ci/engine/match/566945.html
+Team1:Afghanistan,Team2:Kenya,Winner:Afghanistan,Margin:8 wickets,Ground:Sharjah,Match Date:Oct 2, 2013,Scorecard Link:/ci/engine/match/661891.html
+Team1:Afghanistan,Team2:Kenya,Winner:Afghanistan,Margin:7 wickets,Ground:Sharjah,Match Date:Oct 4, 2013,Scorecard Link:/ci/engine/match/661893.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:72 runs,Ground:Pune,Match Date:Oct 13, 2013,Scorecard Link:/ci/engine/match/647249.html
+Team1:India,Team2:Australia,Winner:India,Margin:9 wickets,Ground:Jaipur,Match Date:Oct 16, 2013,Scorecard Link:/ci/engine/match/647251.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:4 wickets,Ground:Mohali,Match Date:Oct 19, 2013,Scorecard Link:/ci/engine/match/647253.html
+Team1:India,Team2:Australia,Winner:no result,Margin: ,Ground:Ranchi,Match Date:Oct 23, 2013,Scorecard Link:/ci/engine/match/647255.html
+Team1:Bangladesh,Team2:New Zealand,Winner:Bangladesh,Margin:43 runs,Ground:Dhaka,Match Date:Oct 29, 2013,Scorecard Link:/ci/engine/match/668953.html
+Team1:India,Team2:Australia,Winner:India,Margin:6 wickets,Ground:Nagpur,Match Date:Oct 30, 2013,Scorecard Link:/ci/engine/match/647259.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:1 run,Ground:Sharjah,Match Date:Oct 30, 2013,Scorecard Link:/ci/engine/match/649091.html
+Team1:Bangladesh,Team2:New Zealand,Winner:Bangladesh,Margin:40 runs,Ground:Dhaka,Match Date:Oct 31, 2013,Scorecard Link:/ci/engine/match/668955.html
+Team1:Pakistan,Team2:South Africa,Winner:Pakistan,Margin:66 runs,Ground:Dubai (DSC),Match Date:Nov 1, 2013,Scorecard Link:/ci/engine/match/649093.html
+Team1:India,Team2:Australia,Winner:India,Margin:57 runs,Ground:Bengaluru,Match Date:Nov 2, 2013,Scorecard Link:/ci/engine/match/647261.html
+Team1:Bangladesh,Team2:New Zealand,Winner:Bangladesh,Margin:4 wickets,Ground:Fatullah,Match Date:Nov 3, 2013,Scorecard Link:/ci/engine/match/668957.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:68 runs,Ground:Abu Dhabi,Match Date:Nov 6, 2013,Scorecard Link:/ci/engine/match/649095.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:28 runs,Ground:Abu Dhabi,Match Date:Nov 8, 2013,Scorecard Link:/ci/engine/match/649097.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:no result,Margin: ,Ground:Hambantota,Match Date:Nov 10, 2013,Scorecard Link:/ci/engine/match/668961.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:117 runs,Ground:Sharjah,Match Date:Nov 11, 2013,Scorecard Link:/ci/engine/match/649099.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:New Zealand,Margin:4 wickets,Ground:Hambantota,Match Date:Nov 12, 2013,Scorecard Link:/ci/engine/match/668963.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:Sri Lanka,Margin:36 runs,Ground:Dambulla,Match Date:Nov 16, 2013,Scorecard Link:/ci/engine/match/668965.html
+Team1:India,Team2:West Indies,Winner:India,Margin:6 wickets,Ground:Kochi,Match Date:Nov 21, 2013,Scorecard Link:/ci/engine/match/676529.html
+Team1:India,Team2:West Indies,Winner:West Indies,Margin:2 wickets,Ground:Visakhapatnam,Match Date:Nov 24, 2013,Scorecard Link:/ci/engine/match/676531.html
+Team1:South Africa,Team2:Pakistan,Winner:Pakistan,Margin:23 runs,Ground:Cape Town,Match Date:Nov 24, 2013,Scorecard Link:/ci/engine/match/685731.html
+Team1:India,Team2:West Indies,Winner:India,Margin:5 wickets,Ground:Kanpur,Match Date:Nov 27, 2013,Scorecard Link:/ci/engine/match/676533.html
+Team1:South Africa,Team2:Pakistan,Winner:Pakistan,Margin:1 run,Ground:Port Elizabeth,Match Date:Nov 27, 2013,Scorecard Link:/ci/engine/match/685733.html
+Team1:South Africa,Team2:Pakistan,Winner:South Africa,Margin:4 wickets,Ground:Centurion,Match Date:Nov 30, 2013,Scorecard Link:/ci/engine/match/685735.html
+Team1:South Africa,Team2:India,Winner:South Africa,Margin:141 runs,Ground:Johannesburg,Match Date:Dec 5, 2013,Scorecard Link:/ci/engine/match/648651.html
+Team1:South Africa,Team2:India,Winner:South Africa,Margin:134 runs,Ground:Durban,Match Date:Dec 8, 2013,Scorecard Link:/ci/engine/match/648653.html
+Team1:South Africa,Team2:India,Winner:no result,Margin: ,Ground:Centurion,Match Date:Dec 11, 2013,Scorecard Link:/ci/engine/match/648655.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:11 runs,Ground:Sharjah,Match Date:Dec 18, 2013,Scorecard Link:/ci/engine/match/657637.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:2 wickets,Ground:Dubai (DSC),Match Date:Dec 20, 2013,Scorecard Link:/ci/engine/match/657639.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:113 runs,Ground:Sharjah,Match Date:Dec 22, 2013,Scorecard Link:/ci/engine/match/657641.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:8 wickets,Ground:Abu Dhabi,Match Date:Dec 25, 2013,Scorecard Link:/ci/engine/match/657643.html
+Team1:New Zealand,Team2:West Indies,Winner:West Indies,Margin:2 wickets,Ground:Auckland,Match Date:Dec 26, 2013,Scorecard Link:/ci/engine/match/661685.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:2 wickets,Ground:Abu Dhabi,Match Date:Dec 27, 2013,Scorecard Link:/ci/engine/match/657645.html

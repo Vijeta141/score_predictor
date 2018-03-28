@@ -1,0 +1,62 @@
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:61 runs,Ground:Wellington,Match Date:Jan 6, 2018,Scorecard Link:/ci/engine/match/1115802.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:8 wickets,Ground:Nelson,Match Date:Jan 9, 2018,Scorecard Link:/ci/engine/match/1115803.html
+Team1:U.A.E.,Team2:Ireland,Winner:Ireland,Margin:4 wickets,Ground:ICCA Dubai,Match Date:Jan 11, 2018,Scorecard Link:/ci/engine/match/1131274.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:183 runs,Ground:Dunedin,Match Date:Jan 13, 2018,Scorecard Link:/ci/engine/match/1115804.html
+Team1:U.A.E.,Team2:Ireland,Winner:Ireland,Margin:67 runs,Ground:ICCA Dubai,Match Date:Jan 13, 2018,Scorecard Link:/ci/engine/match/1131275.html
+Team1:Australia,Team2:England,Winner:England,Margin:5 wickets,Ground:Melbourne,Match Date:Jan 14, 2018,Scorecard Link:/ci/engine/match/1072310.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:8 wickets,Ground:Dhaka,Match Date:Jan 15, 2018,Scorecard Link:/ci/engine/match/1130737.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:5 wickets,Ground:Hamilton,Match Date:Jan 16, 2018,Scorecard Link:/ci/engine/match/1115805.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:6 wickets,Ground:ICCA Dubai,Match Date:Jan 16, 2018,Scorecard Link:/ci/engine/match/1131276.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Zimbabwe,Margin:12 runs,Ground:Dhaka,Match Date:Jan 17, 2018,Scorecard Link:/ci/engine/match/1130738.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:24 runs,Ground:ICCA Dubai,Match Date:Jan 18, 2018,Scorecard Link:/ci/engine/match/1131277.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:15 runs,Ground:Wellington,Match Date:Jan 19, 2018,Scorecard Link:/ci/engine/match/1115806.html
+Team1:Australia,Team2:England,Winner:England,Margin:4 wickets,Ground:Brisbane,Match Date:Jan 19, 2018,Scorecard Link:/ci/engine/match/1072311.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Bangladesh,Margin:163 runs,Ground:Dhaka,Match Date:Jan 19, 2018,Scorecard Link:/ci/engine/match/1130739.html
+Team1:Australia,Team2:England,Winner:England,Margin:16 runs,Ground:Sydney,Match Date:Jan 21, 2018,Scorecard Link:/ci/engine/match/1072312.html
+Team1:U.A.E.,Team2:Scotland,Winner:Scotland,Margin:31 runs,Ground:ICCA Dubai,Match Date:Jan 21, 2018,Scorecard Link:/ci/engine/match/1131278.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Sri Lanka,Margin:5 wickets,Ground:Dhaka,Match Date:Jan 21, 2018,Scorecard Link:/ci/engine/match/1130740.html
+Team1:U.A.E.,Team2:Scotland,Winner:U.A.E.,Margin:4 wickets,Ground:ICCA Dubai,Match Date:Jan 23, 2018,Scorecard Link:/ci/engine/match/1131279.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:91 runs,Ground:Dhaka,Match Date:Jan 23, 2018,Scorecard Link:/ci/engine/match/1130741.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:10 wickets,Ground:Dhaka,Match Date:Jan 25, 2018,Scorecard Link:/ci/engine/match/1130742.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:3 wickets,Ground:Adelaide,Match Date:Jan 26, 2018,Scorecard Link:/ci/engine/match/1072313.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:79 runs,Ground:Dhaka,Match Date:Jan 27, 2018,Scorecard Link:/ci/engine/match/1130743.html
+Team1:Australia,Team2:England,Winner:England,Margin:12 runs,Ground:Perth,Match Date:Jan 28, 2018,Scorecard Link:/ci/engine/match/1072314.html
+Team1:South Africa,Team2:India,Winner:India,Margin:6 wickets,Ground:Durban,Match Date:Feb 1, 2018,Scorecard Link:/ci/engine/match/1122279.html
+Team1:South Africa,Team2:India,Winner:India,Margin:9 wickets,Ground:Centurion,Match Date:Feb 4, 2018,Scorecard Link:/ci/engine/match/1122280.html
+Team1:South Africa,Team2:India,Winner:India,Margin:124 runs,Ground:Cape Town,Match Date:Feb 7, 2018,Scorecard Link:/ci/engine/match/1122281.html
+Team1:Afghanistan,Team2:Zimbabwe,Winner:Afghanistan,Margin:154 runs,Ground:Sharjah,Match Date:Feb 9, 2018,Scorecard Link:/ci/engine/match/1134033.html
+Team1:South Africa,Team2:India,Winner:South Africa,Margin:5 wickets,Ground:Johannesburg,Match Date:Feb 10, 2018,Scorecard Link:/ci/engine/match/1122282.html
+Team1:Afghanistan,Team2:Zimbabwe,Winner:Zimbabwe,Margin:154 runs,Ground:Sharjah,Match Date:Feb 11, 2018,Scorecard Link:/ci/engine/match/1134034.html
+Team1:Afghanistan,Team2:Zimbabwe,Winner:Afghanistan,Margin:6 wickets,Ground:Sharjah,Match Date:Feb 13, 2018,Scorecard Link:/ci/engine/match/1134035.html
+Team1:South Africa,Team2:India,Winner:India,Margin:73 runs,Ground:Port Elizabeth,Match Date:Feb 13, 2018,Scorecard Link:/ci/engine/match/1122283.html
+Team1:Afghanistan,Team2:Zimbabwe,Winner:Afghanistan,Margin:10 wickets,Ground:Sharjah,Match Date:Feb 16, 2018,Scorecard Link:/ci/engine/match/1134036.html
+Team1:South Africa,Team2:India,Winner:India,Margin:8 wickets,Ground:Centurion,Match Date:Feb 16, 2018,Scorecard Link:/ci/engine/match/1122284.html
+Team1:Afghanistan,Team2:Zimbabwe,Winner:Afghanistan,Margin:146 runs,Ground:Sharjah,Match Date:Feb 19, 2018,Scorecard Link:/ci/engine/match/1134037.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:3 wickets,Ground:Hamilton,Match Date:Feb 25, 2018,Scorecard Link:/ci/engine/match/1115775.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:6 wickets,Ground:Mount Maunganui,Match Date:Feb 28, 2018,Scorecard Link:/ci/engine/match/1115776.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:4 runs,Ground:Wellington,Match Date:Mar 3, 2018,Scorecard Link:/ci/engine/match/1115777.html
+Team1:Afghanistan,Team2:Scotland,Winner:Scotland,Margin:7 wickets,Ground:Bulawayo,Match Date:Mar 4, 2018,Scorecard Link:/ci/engine/match/1133001.html
+Team1:P.N.G.,Team2:U.A.E.,Winner:U.A.E.,Margin:56 runs,Ground:Harare,Match Date:Mar 4, 2018,Scorecard Link:/ci/engine/match/1134540.html
+Team1:Hong Kong,Team2:Scotland,Winner:Scotland,Margin:4 wickets,Ground:Bulawayo,Match Date:Mar 6, 2018,Scorecard Link:/ci/engine/match/1133005.html
+Team1:Ireland,Team2:P.N.G.,Winner:Ireland,Margin:4 wickets,Ground:Harare,Match Date:Mar 6, 2018,Scorecard Link:/ci/engine/match/1133002.html
+Team1:U.A.E.,Team2:West Indies,Winner:West Indies,Margin:60 runs,Ground:Harare,Match Date:Mar 6, 2018,Scorecard Link:/ci/engine/match/1133003.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Zimbabwe,Margin:2 runs,Ground:Bulawayo,Match Date:Mar 6, 2018,Scorecard Link:/ci/engine/match/1133004.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:5 wickets,Ground:Dunedin,Match Date:Mar 7, 2018,Scorecard Link:/ci/engine/match/1115778.html
+Team1:Afghanistan,Team2:Hong Kong,Winner:Hong Kong,Margin:30 runs,Ground:Bulawayo,Match Date:Mar 8, 2018,Scorecard Link:/ci/engine/match/1133009.html
+Team1:P.N.G.,Team2:West Indies,Winner:West Indies,Margin:6 wickets,Ground:Harare,Match Date:Mar 8, 2018,Scorecard Link:/ci/engine/match/1133007.html
+Team1:New Zealand,Team2:England,Winner:England,Margin:7 wickets,Ground:Christchurch,Match Date:Mar 10, 2018,Scorecard Link:/ci/engine/match/1115779.html
+Team1:Ireland,Team2:West Indies,Winner:West Indies,Margin:52 runs,Ground:Harare,Match Date:Mar 10, 2018,Scorecard Link:/ci/engine/match/1133010.html
+Team1:Zimbabwe,Team2:Hong Kong,Winner:Zimbabwe,Margin:89 runs,Ground:Bulawayo,Match Date:Mar 10, 2018,Scorecard Link:/ci/engine/match/1133012.html
+Team1:Ireland,Team2:U.A.E.,Winner:Ireland,Margin:226 runs,Ground:Harare,Match Date:Mar 12, 2018,Scorecard Link:/ci/engine/match/1133015.html
+Team1:Zimbabwe,Team2:Scotland,Winner:tied,Margin: ,Ground:Bulawayo,Match Date:Mar 12, 2018,Scorecard Link:/ci/engine/match/1133017.html
+Team1:Afghanistan,Team2:West Indies,Winner:Afghanistan,Margin:3 wickets,Ground:Harare,Match Date:Mar 15, 2018,Scorecard Link:/ci/engine/match/1133018.html
+Team1:Scotland,Team2:U.A.E.,Winner:Scotland,Margin:73 runs,Ground:Bulawayo,Match Date:Mar 15, 2018,Scorecard Link:/ci/engine/match/1133019.html
+Team1:Zimbabwe,Team2:Ireland,Winner:Zimbabwe,Margin:107 runs,Ground:Harare,Match Date:Mar 16, 2018,Scorecard Link:/ci/engine/match/1133022.html
+Team1:Hong Kong,Team2:P.N.G.,Winner:P.N.G.,Margin:58 runs,Ground:Harare,Match Date:Mar 17, 2018,Scorecard Link:/ci/engine/match/1133023.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:25 runs,Ground:Harare,Match Date:Mar 18, 2018,Scorecard Link:/ci/engine/match/1133025.html
+Team1:Zimbabwe,Team2:West Indies,Winner:West Indies,Margin:4 wickets,Ground:Harare,Match Date:Mar 19, 2018,Scorecard Link:/ci/engine/match/1133026.html
+Team1:Afghanistan,Team2:U.A.E.,Winner:Afghanistan,Margin:5 wickets,Ground:Harare,Match Date:Mar 20, 2018,Scorecard Link:/ci/engine/match/1133027.html
+Team1:Scotland,Team2:West Indies,Winner:West Indies,Margin:5 runs,Ground:Harare,Match Date:Mar 21, 2018,Scorecard Link:/ci/engine/match/1133028.html
+Team1:Zimbabwe,Team2:U.A.E.,Winner:U.A.E.,Margin:3 runs,Ground:Harare,Match Date:Mar 22, 2018,Scorecard Link:/ci/engine/match/1133029.html
+Team1:Afghanistan,Team2:Ireland,Winner:Afghanistan,Margin:5 wickets,Ground:Harare,Match Date:Mar 23, 2018,Scorecard Link:/ci/engine/match/1133030.html
+Team1:Afghanistan,Team2:West Indies,Winner:Afghanistan,Margin:7 wickets,Ground:Harare,Match Date:Mar 25, 2018,Scorecard Link:/ci/engine/match/1133031.html

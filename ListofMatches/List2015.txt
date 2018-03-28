@@ -1,0 +1,146 @@
+Team1:Afghanistan,Team2:Scotland,Winner:Afghanistan,Margin:8 wickets,Ground:ICCA Dubai,Match Date:Jan 8, 2015,Scorecard Link:/ci/engine/match/812623.html
+Team1:Afghanistan,Team2:Ireland,Winner:Ireland,Margin:3 wickets,Ground:Dubai (DSC),Match Date:Jan 10, 2015,Scorecard Link:/ci/engine/match/810827.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:3 wickets,Ground:Christchurch,Match Date:Jan 11, 2015,Scorecard Link:/ci/engine/match/749781.html
+Team1:Ireland,Team2:Scotland,Winner:Ireland,Margin:3 wickets,Ground:Dubai (DSC),Match Date:Jan 12, 2015,Scorecard Link:/ci/engine/match/810829.html
+Team1:Afghanistan,Team2:Scotland,Winner:Scotland,Margin:150 runs,Ground:Abu Dhabi,Match Date:Jan 14, 2015,Scorecard Link:/ci/engine/match/812645.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:6 wickets,Ground:Hamilton,Match Date:Jan 15, 2015,Scorecard Link:/ci/engine/match/749783.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:3 wickets,Ground:Sydney,Match Date:Jan 16, 2015,Scorecard Link:/ci/engine/match/754751.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:61 runs,Ground:Durban,Match Date:Jan 16, 2015,Scorecard Link:/ci/engine/match/722339.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:no result,Margin: ,Ground:Auckland,Match Date:Jan 17, 2015,Scorecard Link:/ci/engine/match/749785.html
+Team1:Afghanistan,Team2:Ireland,Winner:Afghanistan,Margin:71 runs,Ground:Dubai (DSC),Match Date:Jan 17, 2015,Scorecard Link:/ci/engine/match/810833.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:4 wickets,Ground:Melbourne,Match Date:Jan 18, 2015,Scorecard Link:/ci/engine/match/754749.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:148 runs,Ground:Johannesburg,Match Date:Jan 18, 2015,Scorecard Link:/ci/engine/match/722341.html
+Team1:Ireland,Team2:Scotland,Winner:no result,Margin: ,Ground:ICCA Dubai,Match Date:Jan 19, 2015,Scorecard Link:/ci/engine/match/810831.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:4 wickets,Ground:Nelson,Match Date:Jan 20, 2015,Scorecard Link:/ci/engine/match/749787.html
+Team1:England,Team2:India,Winner:England,Margin:9 wickets,Ground:Brisbane,Match Date:Jan 20, 2015,Scorecard Link:/ci/engine/match/754753.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:9 wickets,Ground:East London,Match Date:Jan 21, 2015,Scorecard Link:/ci/engine/match/722343.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:108 runs,Ground:Dunedin,Match Date:Jan 23, 2015,Scorecard Link:/ci/engine/match/749789.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:3 wickets,Ground:Hobart,Match Date:Jan 23, 2015,Scorecard Link:/ci/engine/match/754755.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:120 runs,Ground:Dunedin,Match Date:Jan 25, 2015,Scorecard Link:/ci/engine/match/749791.html
+Team1:South Africa,Team2:West Indies,Winner:West Indies,Margin:1 wicket,Ground:Port Elizabeth,Match Date:Jan 25, 2015,Scorecard Link:/ci/engine/match/722345.html
+Team1:Australia,Team2:India,Winner:no result,Margin: ,Ground:Sydney,Match Date:Jan 26, 2015,Scorecard Link:/ci/engine/match/754757.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:131 runs,Ground:Centurion,Match Date:Jan 28, 2015,Scorecard Link:/ci/engine/match/722347.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:34 runs,Ground:Wellington,Match Date:Jan 29, 2015,Scorecard Link:/ci/engine/match/749793.html
+Team1:England,Team2:India,Winner:England,Margin:3 wickets,Ground:Perth,Match Date:Jan 30, 2015,Scorecard Link:/ci/engine/match/754759.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:7 wickets,Ground:Wellington,Match Date:Jan 31, 2015,Scorecard Link:/ci/engine/match/749795.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:112 runs,Ground:Perth,Match Date:Feb 1, 2015,Scorecard Link:/ci/engine/match/754761.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:119 runs,Ground:Napier,Match Date:Feb 3, 2015,Scorecard Link:/ci/engine/match/749797.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:98 runs,Ground:Christchurch,Match Date:Feb 14, 2015,Scorecard Link:/ci/engine/match/656399.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:111 runs,Ground:Melbourne,Match Date:Feb 14, 2015,Scorecard Link:/ci/engine/match/656401.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:62 runs,Ground:Hamilton,Match Date:Feb 15, 2015,Scorecard Link:/ci/engine/match/656403.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:76 runs,Ground:Adelaide,Match Date:Feb 15, 2015,Scorecard Link:/ci/engine/match/656405.html
+Team1:Ireland,Team2:West Indies,Winner:Ireland,Margin:4 wickets,Ground:Nelson,Match Date:Feb 16, 2015,Scorecard Link:/ci/engine/match/656407.html
+Team1:New Zealand,Team2:Scotland,Winner:New Zealand,Margin:3 wickets,Ground:Dunedin,Match Date:Feb 17, 2015,Scorecard Link:/ci/engine/match/656409.html
+Team1:Afghanistan,Team2:Bangladesh,Winner:Bangladesh,Margin:105 runs,Ground:Canberra,Match Date:Feb 18, 2015,Scorecard Link:/ci/engine/match/656411.html
+Team1:U.A.E.,Team2:Zimbabwe,Winner:Zimbabwe,Margin:4 wickets,Ground:Nelson,Match Date:Feb 19, 2015,Scorecard Link:/ci/engine/match/656413.html
+Team1:New Zealand,Team2:England,Winner:New Zealand,Margin:8 wickets,Ground:Wellington,Match Date:Feb 20, 2015,Scorecard Link:/ci/engine/match/656415.html
+Team1:Pakistan,Team2:West Indies,Winner:West Indies,Margin:150 runs,Ground:Christchurch,Match Date:Feb 21, 2015,Scorecard Link:/ci/engine/match/656417.html
+Team1:Afghanistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:4 wickets,Ground:Dunedin,Match Date:Feb 22, 2015,Scorecard Link:/ci/engine/match/656421.html
+Team1:India,Team2:South Africa,Winner:India,Margin:130 runs,Ground:Melbourne,Match Date:Feb 22, 2015,Scorecard Link:/ci/engine/match/656423.html
+Team1:England,Team2:Scotland,Winner:England,Margin:119 runs,Ground:Christchurch,Match Date:Feb 23, 2015,Scorecard Link:/ci/engine/match/656425.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:73 runs,Ground:Canberra,Match Date:Feb 24, 2015,Scorecard Link:/ci/engine/match/656427.html
+Team1:Ireland,Team2:U.A.E.,Winner:Ireland,Margin:2 wickets,Ground:Brisbane,Match Date:Feb 25, 2015,Scorecard Link:/ci/engine/match/656429.html
+Team1:Afghanistan,Team2:Scotland,Winner:Afghanistan,Margin:1 wicket,Ground:Dunedin,Match Date:Feb 26, 2015,Scorecard Link:/ci/engine/match/656431.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:92 runs,Ground:Melbourne,Match Date:Feb 26, 2015,Scorecard Link:/ci/engine/match/656433.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:257 runs,Ground:Sydney,Match Date:Feb 27, 2015,Scorecard Link:/ci/engine/match/656435.html
+Team1:New Zealand,Team2:Australia,Winner:New Zealand,Margin:1 wicket,Ground:Auckland,Match Date:Feb 28, 2015,Scorecard Link:/ci/engine/match/656437.html
+Team1:India,Team2:U.A.E.,Winner:India,Margin:9 wickets,Ground:Perth,Match Date:Feb 28, 2015,Scorecard Link:/ci/engine/match/656439.html
+Team1:England,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 wickets,Ground:Wellington,Match Date:Mar 1, 2015,Scorecard Link:/ci/engine/match/656441.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:20 runs,Ground:Brisbane,Match Date:Mar 1, 2015,Scorecard Link:/ci/engine/match/656443.html
+Team1:Ireland,Team2:South Africa,Winner:South Africa,Margin:201 runs,Ground:Canberra,Match Date:Mar 3, 2015,Scorecard Link:/ci/engine/match/656445.html
+Team1:Pakistan,Team2:U.A.E.,Winner:Pakistan,Margin:129 runs,Ground:Napier,Match Date:Mar 4, 2015,Scorecard Link:/ci/engine/match/656447.html
+Team1:Australia,Team2:Afghanistan,Winner:Australia,Margin:275 runs,Ground:Perth,Match Date:Mar 4, 2015,Scorecard Link:/ci/engine/match/656449.html
+Team1:Bangladesh,Team2:Scotland,Winner:Bangladesh,Margin:6 wickets,Ground:Nelson,Match Date:Mar 5, 2015,Scorecard Link:/ci/engine/match/656451.html
+Team1:India,Team2:West Indies,Winner:India,Margin:4 wickets,Ground:Perth,Match Date:Mar 6, 2015,Scorecard Link:/ci/engine/match/656453.html
+Team1:Pakistan,Team2:South Africa,Winner:Pakistan,Margin:29 runs,Ground:Auckland,Match Date:Mar 7, 2015,Scorecard Link:/ci/engine/match/656455.html
+Team1:Ireland,Team2:Zimbabwe,Winner:Ireland,Margin:5 runs,Ground:Hobart,Match Date:Mar 7, 2015,Scorecard Link:/ci/engine/match/656457.html
+Team1:New Zealand,Team2:Afghanistan,Winner:New Zealand,Margin:6 wickets,Ground:Napier,Match Date:Mar 8, 2015,Scorecard Link:/ci/engine/match/656459.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:64 runs,Ground:Sydney,Match Date:Mar 8, 2015,Scorecard Link:/ci/engine/match/656461.html
+Team1:Bangladesh,Team2:England,Winner:Bangladesh,Margin:15 runs,Ground:Adelaide,Match Date:Mar 9, 2015,Scorecard Link:/ci/engine/match/656463.html
+Team1:India,Team2:Ireland,Winner:India,Margin:8 wickets,Ground:Hamilton,Match Date:Mar 10, 2015,Scorecard Link:/ci/engine/match/656465.html
+Team1:Scotland,Team2:Sri Lanka,Winner:Sri Lanka,Margin:148 runs,Ground:Hobart,Match Date:Mar 11, 2015,Scorecard Link:/ci/engine/match/656467.html
+Team1:South Africa,Team2:U.A.E.,Winner:South Africa,Margin:146 runs,Ground:Wellington,Match Date:Mar 12, 2015,Scorecard Link:/ci/engine/match/656469.html
+Team1:New Zealand,Team2:Bangladesh,Winner:New Zealand,Margin:3 wickets,Ground:Hamilton,Match Date:Mar 13, 2015,Scorecard Link:/ci/engine/match/656471.html
+Team1:Afghanistan,Team2:England,Winner:England,Margin:9 wickets,Ground:Sydney,Match Date:Mar 13, 2015,Scorecard Link:/ci/engine/match/656473.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:6 wickets,Ground:Auckland,Match Date:Mar 14, 2015,Scorecard Link:/ci/engine/match/656475.html
+Team1:Australia,Team2:Scotland,Winner:Australia,Margin:7 wickets,Ground:Hobart,Match Date:Mar 14, 2015,Scorecard Link:/ci/engine/match/656477.html
+Team1:U.A.E.,Team2:West Indies,Winner:West Indies,Margin:6 wickets,Ground:Napier,Match Date:Mar 15, 2015,Scorecard Link:/ci/engine/match/656479.html
+Team1:Ireland,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Adelaide,Match Date:Mar 15, 2015,Scorecard Link:/ci/engine/match/656481.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:9 wickets,Ground:Sydney,Match Date:Mar 18, 2015,Scorecard Link:/ci/engine/match/656483.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:109 runs,Ground:Melbourne,Match Date:Mar 19, 2015,Scorecard Link:/ci/engine/match/656485.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:6 wickets,Ground:Adelaide,Match Date:Mar 20, 2015,Scorecard Link:/ci/engine/match/656487.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:143 runs,Ground:Wellington,Match Date:Mar 21, 2015,Scorecard Link:/ci/engine/match/656489.html
+Team1:New Zealand,Team2:South Africa,Winner:New Zealand,Margin:4 wickets,Ground:Auckland,Match Date:Mar 24, 2015,Scorecard Link:/ci/engine/match/656491.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:95 runs,Ground:Sydney,Match Date:Mar 26, 2015,Scorecard Link:/ci/engine/match/656493.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:7 wickets,Ground:Melbourne,Match Date:Mar 29, 2015,Scorecard Link:/ci/engine/match/656495.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Bangladesh,Margin:79 runs,Ground:Dhaka,Match Date:Apr 17, 2015,Scorecard Link:/ci/engine/match/858485.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Bangladesh,Margin:7 wickets,Ground:Dhaka,Match Date:Apr 19, 2015,Scorecard Link:/ci/engine/match/858487.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Bangladesh,Margin:8 wickets,Ground:Dhaka,Match Date:Apr 22, 2015,Scorecard Link:/ci/engine/match/858489.html
+Team1:Ireland,Team2:England,Winner:no result,Margin: ,Ground:Dublin (Malahide),Match Date:May 8, 2015,Scorecard Link:/ci/engine/match/760889.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:41 runs,Ground:Lahore,Match Date:May 26, 2015,Scorecard Link:/ci/engine/match/868727.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:6 wickets,Ground:Lahore,Match Date:May 29, 2015,Scorecard Link:/ci/engine/match/868729.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:no result,Margin: ,Ground:Lahore,Match Date:May 31, 2015,Scorecard Link:/ci/engine/match/868731.html
+Team1:England,Team2:New Zealand,Winner:England,Margin:210 runs,Ground:Birmingham,Match Date:Jun 9, 2015,Scorecard Link:/ci/engine/match/743943.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:13 runs,Ground:The Oval,Match Date:Jun 12, 2015,Scorecard Link:/ci/engine/match/743945.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:3 wickets,Ground:Southampton,Match Date:Jun 14, 2015,Scorecard Link:/ci/engine/match/743947.html
+Team1:England,Team2:New Zealand,Winner:England,Margin:7 wickets,Ground:Nottingham,Match Date:Jun 17, 2015,Scorecard Link:/ci/engine/match/743949.html
+Team1:Bangladesh,Team2:India,Winner:Bangladesh,Margin:79 runs,Ground:Dhaka,Match Date:Jun 18, 2015,Scorecard Link:/ci/engine/match/870731.html
+Team1:England,Team2:New Zealand,Winner:England,Margin:3 wickets,Ground:Chester-le-Street,Match Date:Jun 20, 2015,Scorecard Link:/ci/engine/match/743951.html
+Team1:Bangladesh,Team2:India,Winner:Bangladesh,Margin:6 wickets,Ground:Dhaka,Match Date:Jun 21, 2015,Scorecard Link:/ci/engine/match/870733.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:77 runs,Ground:Dhaka,Match Date:Jun 24, 2015,Scorecard Link:/ci/engine/match/870735.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:4 runs,Ground:Harare,Match Date:Jul 10, 2015,Scorecard Link:/ci/engine/match/885959.html
+Team1:Bangladesh,Team2:South Africa,Winner:South Africa,Margin:8 wickets,Ground:Dhaka,Match Date:Jul 10, 2015,Scorecard Link:/ci/engine/match/817207.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Dambulla,Match Date:Jul 11, 2015,Scorecard Link:/ci/engine/match/860269.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:62 runs,Ground:Harare,Match Date:Jul 12, 2015,Scorecard Link:/ci/engine/match/885965.html
+Team1:Bangladesh,Team2:South Africa,Winner:Bangladesh,Margin:7 wickets,Ground:Dhaka,Match Date:Jul 12, 2015,Scorecard Link:/ci/engine/match/817209.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:83 runs,Ground:Harare,Match Date:Jul 14, 2015,Scorecard Link:/ci/engine/match/885967.html
+Team1:Bangladesh,Team2:South Africa,Winner:Bangladesh,Margin:9 wickets,Ground:Chittagong,Match Date:Jul 15, 2015,Scorecard Link:/ci/engine/match/817211.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:2 wickets,Ground:Pallekele,Match Date:Jul 15, 2015,Scorecard Link:/ci/engine/match/860271.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:135 runs,Ground:Colombo (RPS),Match Date:Jul 19, 2015,Scorecard Link:/ci/engine/match/860273.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Colombo (RPS),Match Date:Jul 22, 2015,Scorecard Link:/ci/engine/match/860275.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:165 runs,Ground:Hambantota,Match Date:Jul 26, 2015,Scorecard Link:/ci/engine/match/860277.html
+Team1:Zimbabwe,Team2:New Zealand,Winner:Zimbabwe,Margin:7 wickets,Ground:Harare,Match Date:Aug 2, 2015,Scorecard Link:/ci/engine/match/894287.html
+Team1:Zimbabwe,Team2:New Zealand,Winner:New Zealand,Margin:10 wickets,Ground:Harare,Match Date:Aug 4, 2015,Scorecard Link:/ci/engine/match/894289.html
+Team1:Zimbabwe,Team2:New Zealand,Winner:New Zealand,Margin:38 runs,Ground:Harare,Match Date:Aug 7, 2015,Scorecard Link:/ci/engine/match/894291.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:20 runs,Ground:Centurion,Match Date:Aug 19, 2015,Scorecard Link:/ci/engine/match/848843.html
+Team1:South Africa,Team2:New Zealand,Winner:New Zealand,Margin:8 wickets,Ground:Potchefstroom,Match Date:Aug 23, 2015,Scorecard Link:/ci/engine/match/848845.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:62 runs,Ground:Durban,Match Date:Aug 26, 2015,Scorecard Link:/ci/engine/match/848847.html
+Team1:Ireland,Team2:Australia,Winner:Australia,Margin:23 runs,Ground:Belfast,Match Date:Aug 27, 2015,Scorecard Link:/ci/engine/match/743973.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:59 runs,Ground:Southampton,Match Date:Sep 3, 2015,Scorecard Link:/ci/engine/match/743977.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:64 runs,Ground:Lord's,Match Date:Sep 5, 2015,Scorecard Link:/ci/engine/match/743979.html
+Team1:England,Team2:Australia,Winner:England,Margin:93 runs,Ground:Manchester,Match Date:Sep 8, 2015,Scorecard Link:/ci/engine/match/743981.html
+Team1:England,Team2:Australia,Winner:England,Margin:3 wickets,Ground:Leeds,Match Date:Sep 11, 2015,Scorecard Link:/ci/engine/match/743983.html
+Team1:England,Team2:Australia,Winner:Australia,Margin:8 wickets,Ground:Manchester,Match Date:Sep 13, 2015,Scorecard Link:/ci/engine/match/743985.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:131 runs,Ground:Harare,Match Date:Oct 1, 2015,Scorecard Link:/ci/engine/match/919607.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Zimbabwe,Margin:5 runs,Ground:Harare,Match Date:Oct 3, 2015,Scorecard Link:/ci/engine/match/919609.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Harare,Match Date:Oct 5, 2015,Scorecard Link:/ci/engine/match/919611.html
+Team1:Zimbabwe,Team2:Ireland,Winner:Zimbabwe,Margin:2 wickets,Ground:Harare,Match Date:Oct 9, 2015,Scorecard Link:/ci/engine/match/919613.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:5 runs,Ground:Kanpur,Match Date:Oct 11, 2015,Scorecard Link:/ci/engine/match/903593.html
+Team1:Zimbabwe,Team2:Ireland,Winner:Zimbabwe,Margin:5 wickets,Ground:Harare,Match Date:Oct 11, 2015,Scorecard Link:/ci/engine/match/919615.html
+Team1:Zimbabwe,Team2:Ireland,Winner:Ireland,Margin:2 wickets,Ground:Harare,Match Date:Oct 13, 2015,Scorecard Link:/ci/engine/match/919617.html
+Team1:India,Team2:South Africa,Winner:India,Margin:22 runs,Ground:Indore,Match Date:Oct 14, 2015,Scorecard Link:/ci/engine/match/903595.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Zimbabwe,Margin:8 wickets,Ground:Bulawayo,Match Date:Oct 16, 2015,Scorecard Link:/ci/engine/match/924627.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Afghanistan,Margin:58 runs,Ground:Bulawayo,Match Date:Oct 18, 2015,Scorecard Link:/ci/engine/match/924629.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:18 runs,Ground:Rajkot,Match Date:Oct 18, 2015,Scorecard Link:/ci/engine/match/903597.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Zimbabwe,Margin:6 wickets,Ground:Bulawayo,Match Date:Oct 20, 2015,Scorecard Link:/ci/engine/match/924631.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Afghanistan,Margin:3 wickets,Ground:Bulawayo,Match Date:Oct 22, 2015,Scorecard Link:/ci/engine/match/924633.html
+Team1:India,Team2:South Africa,Winner:India,Margin:35 runs,Ground:Chennai,Match Date:Oct 22, 2015,Scorecard Link:/ci/engine/match/903599.html
+Team1:Zimbabwe,Team2:Afghanistan,Winner:Afghanistan,Margin:73 runs,Ground:Bulawayo,Match Date:Oct 24, 2015,Scorecard Link:/ci/engine/match/924635.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:214 runs,Ground:Mumbai,Match Date:Oct 25, 2015,Scorecard Link:/ci/engine/match/903601.html
+Team1:Sri Lanka,Team2:West Indies,Winner:Sri Lanka,Margin:1 wicket,Ground:Colombo (RPS),Match Date:Nov 1, 2015,Scorecard Link:/ci/engine/match/915777.html
+Team1:Sri Lanka,Team2:West Indies,Winner:Sri Lanka,Margin:8 wickets,Ground:Colombo (RPS),Match Date:Nov 4, 2015,Scorecard Link:/ci/engine/match/915779.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:145 runs,Ground:Dhaka,Match Date:Nov 7, 2015,Scorecard Link:/ci/engine/match/931390.html
+Team1:Sri Lanka,Team2:West Indies,Winner:Sri Lanka,Margin:19 runs,Ground:Pallekele,Match Date:Nov 7, 2015,Scorecard Link:/ci/engine/match/915781.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:58 runs,Ground:Dhaka,Match Date:Nov 9, 2015,Scorecard Link:/ci/engine/match/931392.html
+Team1:Bangladesh,Team2:Zimbabwe,Winner:Bangladesh,Margin:61 runs,Ground:Dhaka,Match Date:Nov 11, 2015,Scorecard Link:/ci/engine/match/931394.html
+Team1:England,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Abu Dhabi,Match Date:Nov 11, 2015,Scorecard Link:/ci/engine/match/902641.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:95 runs,Ground:Abu Dhabi,Match Date:Nov 13, 2015,Scorecard Link:/ci/engine/match/902643.html
+Team1:U.A.E.,Team2:Hong Kong,Winner:Hong Kong,Margin:89 runs,Ground:ICCA Dubai,Match Date:Nov 16, 2015,Scorecard Link:/ci/engine/match/911049.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:6 wickets,Ground:Sharjah,Match Date:Nov 17, 2015,Scorecard Link:/ci/engine/match/902645.html
+Team1:U.A.E.,Team2:Hong Kong,Winner:Hong Kong,Margin:136 runs,Ground:ICCA Dubai,Match Date:Nov 18, 2015,Scorecard Link:/ci/engine/match/911051.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:84 runs,Ground:Dubai (DSC),Match Date:Nov 20, 2015,Scorecard Link:/ci/engine/match/902647.html
+Team1:Afghanistan,Team2:Zimbabwe,Winner:Afghanistan,Margin:49 runs,Ground:Sharjah,Match Date:Dec 25, 2015,Scorecard Link:/ci/engine/match/953335.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:7 wickets,Ground:Christchurch,Match Date:Dec 26, 2015,Scorecard Link:/ci/engine/match/914207.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:10 wickets,Ground:Christchurch,Match Date:Dec 28, 2015,Scorecard Link:/ci/engine/match/914209.html
+Team1:Afghanistan,Team2:Zimbabwe,Winner:Afghanistan,Margin:4 wickets,Ground:Sharjah,Match Date:Dec 29, 2015,Scorecard Link:/ci/engine/match/953337.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:8 wickets,Ground:Nelson,Match Date:Dec 31, 2015,Scorecard Link:/ci/engine/match/914211.html

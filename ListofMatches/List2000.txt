@@ -1,0 +1,131 @@
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:3 wickets,Ground:Auckland,Match Date:Jan 2, 2000,Scorecard Link:/ci/engine/match/64640.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:7 wickets,Ground:Taupo,Match Date:Jan 4, 2000,Scorecard Link:/ci/engine/match/64641.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:4 wickets,Ground:Napier,Match Date:Jan 6, 2000,Scorecard Link:/ci/engine/match/64642.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:8 wickets,Ground:Wellington,Match Date:Jan 8-9, 2000,Scorecard Link:/ci/engine/match/64643.html
+Team1:Australia,Team2:Pakistan,Winner:Pakistan,Margin:45 runs,Ground:Brisbane,Match Date:Jan 9, 2000,Scorecard Link:/ci/engine/match/65587.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:2 wickets,Ground:Brisbane,Match Date:Jan 10, 2000,Scorecard Link:/ci/engine/match/65588.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:20 runs,Ground:Christchurch,Match Date:Jan 11, 2000,Scorecard Link:/ci/engine/match/64644.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:28 runs,Ground:Melbourne,Match Date:Jan 12, 2000,Scorecard Link:/ci/engine/match/65589.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:5 wickets,Ground:Sydney,Match Date:Jan 14, 2000,Scorecard Link:/ci/engine/match/65590.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:6 wickets,Ground:Melbourne,Match Date:Jan 16, 2000,Scorecard Link:/ci/engine/match/65591.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:81 runs,Ground:Sydney,Match Date:Jan 19, 2000,Scorecard Link:/ci/engine/match/65592.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:32 runs,Ground:Hobart,Match Date:Jan 21, 2000,Scorecard Link:/ci/engine/match/65593.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:6 wickets,Ground:Johannesburg,Match Date:Jan 21, 2000,Scorecard Link:/ci/engine/match/66089.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:15 runs,Ground:Melbourne,Match Date:Jan 23, 2000,Scorecard Link:/ci/engine/match/65594.html
+Team1:South Africa,Team2:England,Winner:England,Margin:9 wickets,Ground:Bloemfontein,Match Date:Jan 23, 2000,Scorecard Link:/ci/engine/match/66090.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:48 runs,Ground:Adelaide,Match Date:Jan 25, 2000,Scorecard Link:/ci/engine/match/65595.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:152 runs,Ground:Adelaide,Match Date:Jan 26, 2000,Scorecard Link:/ci/engine/match/65596.html
+Team1:South Africa,Team2:England,Winner:South Africa,Margin:1 run,Ground:Cape Town,Match Date:Jan 26, 2000,Scorecard Link:/ci/engine/match/66091.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:104 runs,Ground:Perth,Match Date:Jan 28, 2000,Scorecard Link:/ci/engine/match/65597.html
+Team1:England,Team2:Zimbabwe,Winner:Zimbabwe,Margin:104 runs,Ground:Cape Town,Match Date:Jan 28, 2000,Scorecard Link:/ci/engine/match/66092.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:4 wickets,Ground:Perth,Match Date:Jan 30, 2000,Scorecard Link:/ci/engine/match/65598.html
+Team1:England,Team2:Zimbabwe,Winner:England,Margin:8 wickets,Ground:Kimberley,Match Date:Jan 30, 2000,Scorecard Link:/ci/engine/match/66093.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:6 wickets,Ground:Melbourne,Match Date:Feb 2, 2000,Scorecard Link:/ci/engine/match/65599.html
+Team1:South Africa,Team2:Zimbabwe,Winner:Zimbabwe,Margin:2 wickets,Ground:Durban,Match Date:Feb 2, 2000,Scorecard Link:/ci/engine/match/66094.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:152 runs,Ground:Sydney,Match Date:Feb 4, 2000,Scorecard Link:/ci/engine/match/65600.html
+Team1:South Africa,Team2:England,Winner:South Africa,Margin:2 wickets,Ground:East London,Match Date:Feb 4, 2000,Scorecard Link:/ci/engine/match/66095.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:53 runs,Ground:Port Elizabeth,Match Date:Feb 6, 2000,Scorecard Link:/ci/engine/match/66096.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:29 runs,Ground:Karachi,Match Date:Feb 13, 2000,Scorecard Link:/ci/engine/match/64645.html
+Team1:South Africa,Team2:England,Winner:South Africa,Margin:38 runs,Ground:Johannesburg,Match Date:Feb 13, 2000,Scorecard Link:/ci/engine/match/66097.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:34 runs,Ground:Gujranwala,Match Date:Feb 16, 2000,Scorecard Link:/ci/engine/match/64646.html
+Team1:Zimbabwe,Team2:England,Winner:England,Margin:5 wickets,Ground:Bulawayo,Match Date:Feb 16, 2000,Scorecard Link:/ci/engine/match/64647.html
+Team1:New Zealand,Team2:Australia,Winner:no result,Margin: ,Ground:Wellington,Match Date:Feb 17, 2000,Scorecard Link:/ci/engine/match/64648.html
+Team1:Zimbabwe,Team2:England,Winner:England,Margin:1 wicket,Ground:Bulawayo,Match Date:Feb 18, 2000,Scorecard Link:/ci/engine/match/64649.html
+Team1:New Zealand,Team2:Australia,Winner:Australia,Margin:5 wickets,Ground:Auckland,Match Date:Feb 19, 2000,Scorecard Link:/ci/engine/match/64650.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:104 runs,Ground:Lahore,Match Date:Feb 19, 2000,Scorecard Link:/ci/engine/match/64651.html
+Team1:Zimbabwe,Team2:England,Winner:England,Margin:85 runs,Ground:Harare,Match Date:Feb 20, 2000,Scorecard Link:/ci/engine/match/64652.html
+Team1:New Zealand,Team2:Australia,Winner:Australia,Margin:50 runs,Ground:Dunedin,Match Date:Feb 23, 2000,Scorecard Link:/ci/engine/match/64653.html
+Team1:New Zealand,Team2:Australia,Winner:Australia,Margin:48 runs,Ground:Christchurch,Match Date:Feb 26, 2000,Scorecard Link:/ci/engine/match/64654.html
+Team1:New Zealand,Team2:Australia,Winner:Australia,Margin:5 wickets,Ground:Napier,Match Date:Mar 1, 2000,Scorecard Link:/ci/engine/match/64655.html
+Team1:New Zealand,Team2:Australia,Winner:New Zealand,Margin:7 wickets,Ground:Auckland,Match Date:Mar 3, 2000,Scorecard Link:/ci/engine/match/64656.html
+Team1:India,Team2:South Africa,Winner:India,Margin:3 wickets,Ground:Kochi,Match Date:Mar 9, 2000,Scorecard Link:/ci/engine/match/64657.html
+Team1:India,Team2:South Africa,Winner:India,Margin:6 wickets,Ground:Jamshedpur,Match Date:Mar 12, 2000,Scorecard Link:/ci/engine/match/64658.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:2 wickets,Ground:Faridabad,Match Date:Mar 15, 2000,Scorecard Link:/ci/engine/match/64659.html
+Team1:India,Team2:South Africa,Winner:India,Margin:4 wickets,Ground:Vadodara,Match Date:Mar 17, 2000,Scorecard Link:/ci/engine/match/64660.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:10 runs,Ground:Nagpur,Match Date:Mar 19, 2000,Scorecard Link:/ci/engine/match/64661.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:10 wickets,Ground:Sharjah,Match Date:Mar 22, 2000,Scorecard Link:/ci/engine/match/65782.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:5 wickets,Ground:Sharjah,Match Date:Mar 23, 2000,Scorecard Link:/ci/engine/match/65783.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:3 wickets,Ground:Sharjah,Match Date:Mar 24, 2000,Scorecard Link:/ci/engine/match/65784.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:98 runs,Ground:Sharjah,Match Date:Mar 26, 2000,Scorecard Link:/ci/engine/match/65785.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:6 wickets,Ground:Sharjah,Match Date:Mar 27, 2000,Scorecard Link:/ci/engine/match/65786.html
+Team1:Pakistan,Team2:South Africa,Winner:Pakistan,Margin:67 runs,Ground:Sharjah,Match Date:Mar 28, 2000,Scorecard Link:/ci/engine/match/65787.html
+Team1:Pakistan,Team2:South Africa,Winner:Pakistan,Margin:16 runs,Ground:Sharjah,Match Date:Mar 31, 2000,Scorecard Link:/ci/engine/match/65788.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:87 runs,Ground:Kingston,Match Date:Apr 1, 2000,Scorecard Link:/ci/engine/match/66248.html
+Team1:West Indies,Team2:Zimbabwe,Winner:West Indies,Margin:41 runs,Ground:Kingston,Match Date:Apr 2, 2000,Scorecard Link:/ci/engine/match/66249.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:5 wickets,Ground:St John's,Match Date:Apr 5, 2000,Scorecard Link:/ci/engine/match/66250.html
+Team1:South Africa,Team2:Australia,Winner:South Africa,Margin:6 wickets,Ground:Durban,Match Date:Apr 12, 2000,Scorecard Link:/ci/engine/match/64662.html
+Team1:West Indies,Team2:Pakistan,Winner:West Indies,Margin:96 runs,Ground:Kingstown,Match Date:Apr 12, 2000,Scorecard Link:/ci/engine/match/66251.html
+Team1:South Africa,Team2:Australia,Winner:Australia,Margin:5 wickets,Ground:Cape Town,Match Date:Apr 14, 2000,Scorecard Link:/ci/engine/match/64663.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:6 wickets,Ground:St George's,Match Date:Apr 15, 2000,Scorecard Link:/ci/engine/match/66252.html
+Team1:South Africa,Team2:Australia,Winner:South Africa,Margin:4 wickets,Ground:Johannesburg,Match Date:Apr 16, 2000,Scorecard Link:/ci/engine/match/64664.html
+Team1:West Indies,Team2:Pakistan,Winner:West Indies,Margin:17 runs,Ground:St George's,Match Date:Apr 16, 2000,Scorecard Link:/ci/engine/match/66253.html
+Team1:West Indies,Team2:Pakistan,Winner:Pakistan,Margin:17 runs,Ground:Bridgetown,Match Date:Apr 19, 2000,Scorecard Link:/ci/engine/match/66254.html
+Team1:West Indies,Team2:Pakistan,Winner:West Indies,Margin:60 runs,Ground:Port of Spain,Match Date:Apr 22, 2000,Scorecard Link:/ci/engine/match/66255.html
+Team1:West Indies,Team2:Pakistan,Winner:Pakistan,Margin:4 wickets,Ground:Port of Spain,Match Date:Apr 23, 2000,Scorecard Link:/ci/engine/match/66256.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 wickets,Ground:Dhaka,Match Date:May 29, 2000,Scorecard Link:/ci/engine/match/65699.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:8 wickets,Ground:Dhaka,Match Date:May 30-31, 2000,Scorecard Link:/ci/engine/match/65700.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:71 runs,Ground:Dhaka,Match Date:Jun 1, 2000,Scorecard Link:/ci/engine/match/65701.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:233 runs,Ground:Dhaka,Match Date:Jun 2, 2000,Scorecard Link:/ci/engine/match/65702.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:44 runs,Ground:Dhaka,Match Date:Jun 3, 2000,Scorecard Link:/ci/engine/match/65703.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:7 wickets,Ground:Dhaka,Match Date:Jun 5, 2000,Scorecard Link:/ci/engine/match/65704.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:39 runs,Ground:Dhaka,Match Date:Jun 7, 2000,Scorecard Link:/ci/engine/match/65705.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:5 wickets,Ground:Galle,Match Date:Jul 5, 2000,Scorecard Link:/ci/engine/match/66257.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:37 runs,Ground:Galle,Match Date:Jul 6, 2000,Scorecard Link:/ci/engine/match/66258.html
+Team1:West Indies,Team2:Zimbabwe,Winner:Zimbabwe,Margin:6 wickets,Ground:Bristol,Match Date:Jul 6, 2000,Scorecard Link:/ci/engine/match/66264.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:18 runs,Ground:Colombo (RPS),Match Date:Jul 8, 2000,Scorecard Link:/ci/engine/match/66259.html
+Team1:England,Team2:Zimbabwe,Winner:Zimbabwe,Margin:5 wickets,Ground:The Oval,Match Date:Jul 8, 2000,Scorecard Link:/ci/engine/match/66265.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:6 wickets,Ground:Colombo (RPS),Match Date:Jul 9, 2000,Scorecard Link:/ci/engine/match/66260.html
+Team1:England,Team2:West Indies,Winner:no result,Margin: ,Ground:Lord's,Match Date:Jul 9, 2000,Scorecard Link:/ci/engine/match/66266.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:8 wickets,Ground:Colombo (SSC),Match Date:Jul 11, 2000,Scorecard Link:/ci/engine/match/66261.html
+Team1:West Indies,Team2:Zimbabwe,Winner:Zimbabwe,Margin:70 runs,Ground:Canterbury,Match Date:Jul 11, 2000,Scorecard Link:/ci/engine/match/66267.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Colombo (SSC),Match Date:Jul 12, 2000,Scorecard Link:/ci/engine/match/66262.html
+Team1:England,Team2:Zimbabwe,Winner:England,Margin:8 wickets,Ground:Manchester,Match Date:Jul 13, 2000,Scorecard Link:/ci/engine/match/66268.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:30 runs,Ground:Colombo (RPS),Match Date:Jul 14, 2000,Scorecard Link:/ci/engine/match/66263.html
+Team1:England,Team2:West Indies,Winner:England,Margin:10 wickets,Ground:Chester-le-Street,Match Date:Jul 15, 2000,Scorecard Link:/ci/engine/match/66269.html
+Team1:West Indies,Team2:Zimbabwe,Winner:Zimbabwe,Margin:6 wickets,Ground:Chester-le-Street,Match Date:Jul 16, 2000,Scorecard Link:/ci/engine/match/66270.html
+Team1:England,Team2:Zimbabwe,Winner:England,Margin:52 runs,Ground:Birmingham,Match Date:Jul 18, 2000,Scorecard Link:/ci/engine/match/66271.html
+Team1:England,Team2:West Indies,Winner:West Indies,Margin:3 runs,Ground:Nottingham,Match Date:Jul 20, 2000,Scorecard Link:/ci/engine/match/66272.html
+Team1:England,Team2:Zimbabwe,Winner:England,Margin:6 wickets,Ground:Lord's,Match Date:Jul 22, 2000,Scorecard Link:/ci/engine/match/66273.html
+Team1:Australia,Team2:South Africa,Winner:Australia,Margin:94 runs,Ground:Melbourne (Docklands),Match Date:Aug 16, 2000,Scorecard Link:/ci/engine/match/64665.html
+Team1:Australia,Team2:South Africa,Winner:tied,Margin: ,Ground:Melbourne (Docklands),Match Date:Aug 18, 2000,Scorecard Link:/ci/engine/match/64666.html
+Team1:Australia,Team2:South Africa,Winner:South Africa,Margin:8 runs,Ground:Melbourne (Docklands),Match Date:Aug 20, 2000,Scorecard Link:/ci/engine/match/64667.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:12 runs,Ground:Singapore,Match Date:Aug 20, 2000,Scorecard Link:/ci/engine/match/66237.html
+Team1:Pakistan,Team2:South Africa,Winner:Pakistan,Margin:28 runs,Ground:Singapore,Match Date:Aug 23, 2000,Scorecard Link:/ci/engine/match/66238.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:8 wickets,Ground:Singapore,Match Date:Aug 25, 2000,Scorecard Link:/ci/engine/match/66239.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:93 runs,Ground:Singapore,Match Date:Aug 27, 2000,Scorecard Link:/ci/engine/match/66240.html
+Team1:Zimbabwe,Team2:New Zealand,Winner:New Zealand,Margin:7 wickets,Ground:Harare,Match Date:Sep 27, 2000,Scorecard Link:/ci/engine/match/64668.html
+Team1:Zimbabwe,Team2:New Zealand,Winner:Zimbabwe,Margin:21 runs,Ground:Bulawayo,Match Date:Sep 30, 2000,Scorecard Link:/ci/engine/match/64669.html
+Team1:Zimbabwe,Team2:New Zealand,Winner:Zimbabwe,Margin:6 wickets,Ground:Bulawayo,Match Date:Oct 1, 2000,Scorecard Link:/ci/engine/match/64670.html
+Team1:Kenya,Team2:India,Winner:India,Margin:8 wickets,Ground:Nairobi (Gym),Match Date:Oct 3, 2000,Scorecard Link:/ci/engine/match/66170.html
+Team1:Sri Lanka,Team2:West Indies,Winner:Sri Lanka,Margin:108 runs,Ground:Nairobi (Gym),Match Date:Oct 4, 2000,Scorecard Link:/ci/engine/match/66171.html
+Team1:Bangladesh,Team2:England,Winner:England,Margin:8 wickets,Ground:Nairobi (Gym),Match Date:Oct 5, 2000,Scorecard Link:/ci/engine/match/66172.html
+Team1:Australia,Team2:India,Winner:India,Margin:20 runs,Ground:Nairobi (Gym),Match Date:Oct 7, 2000,Scorecard Link:/ci/engine/match/66173.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:9 wickets,Ground:Nairobi (Gym),Match Date:Oct 8, 2000,Scorecard Link:/ci/engine/match/66174.html
+Team1:New Zealand,Team2:Zimbabwe,Winner:New Zealand,Margin:64 runs,Ground:Nairobi (Gym),Match Date:Oct 9, 2000,Scorecard Link:/ci/engine/match/66175.html
+Team1:England,Team2:South Africa,Winner:South Africa,Margin:8 wickets,Ground:Nairobi (Gym),Match Date:Oct 10, 2000,Scorecard Link:/ci/engine/match/66176.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:4 wickets,Ground:Nairobi (Gym),Match Date:Oct 11, 2000,Scorecard Link:/ci/engine/match/66177.html
+Team1:India,Team2:South Africa,Winner:India,Margin:95 runs,Ground:Nairobi (Gym),Match Date:Oct 13, 2000,Scorecard Link:/ci/engine/match/66178.html
+Team1:India,Team2:New Zealand,Winner:New Zealand,Margin:4 wickets,Ground:Nairobi (Gym),Match Date:Oct 15, 2000,Scorecard Link:/ci/engine/match/66179.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:5 wickets,Ground:Sharjah,Match Date:Oct 20, 2000,Scorecard Link:/ci/engine/match/65894.html
+Team1:South Africa,Team2:New Zealand,Winner:no result,Margin: ,Ground:Potchefstroom,Match Date:Oct 20, 2000,Scorecard Link:/ci/engine/match/64671.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Sri Lanka,Margin:7 wickets,Ground:Sharjah,Match Date:Oct 21, 2000,Scorecard Link:/ci/engine/match/65895.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:6 wickets,Ground:Benoni,Match Date:Oct 22, 2000,Scorecard Link:/ci/engine/match/64672.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:13 runs,Ground:Sharjah,Match Date:Oct 22, 2000,Scorecard Link:/ci/engine/match/65896.html
+Team1:Pakistan,Team2:England,Winner:England,Margin:5 wickets,Ground:Karachi,Match Date:Oct 24, 2000,Scorecard Link:/ci/engine/match/64673.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Sri Lanka,Margin:123 runs,Ground:Sharjah,Match Date:Oct 25, 2000,Scorecard Link:/ci/engine/match/65897.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:115 runs,Ground:Centurion,Match Date:Oct 25, 2000,Scorecard Link:/ci/engine/match/64674.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:3 wickets,Ground:Sharjah,Match Date:Oct 26, 2000,Scorecard Link:/ci/engine/match/65898.html
+Team1:Pakistan,Team2:England,Winner:Pakistan,Margin:8 wickets,Ground:Lahore,Match Date:Oct 27, 2000,Scorecard Link:/ci/engine/match/64675.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:68 runs,Ground:Sharjah,Match Date:Oct 27, 2000,Scorecard Link:/ci/engine/match/65899.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:5 wickets,Ground:Kimberley,Match Date:Oct 28, 2000,Scorecard Link:/ci/engine/match/64676.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:245 runs,Ground:Sharjah,Match Date:Oct 29, 2000,Scorecard Link:/ci/engine/match/65900.html
+Team1:Pakistan,Team2:England,Winner:Pakistan,Margin:6 wickets,Ground:Rawalpindi,Match Date:Oct 30, 2000,Scorecard Link:/ci/engine/match/64677.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:6 wickets,Ground:Durban,Match Date:Nov 1, 2000,Scorecard Link:/ci/engine/match/64678.html
+Team1:South Africa,Team2:New Zealand,Winner:South Africa,Margin:3 wickets,Ground:Cape Town,Match Date:Nov 4, 2000,Scorecard Link:/ci/engine/match/64679.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:3 wickets,Ground:Cuttack,Match Date:Dec 2, 2000,Scorecard Link:/ci/engine/match/64680.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:61 runs,Ground:Ahmedabad,Match Date:Dec 5, 2000,Scorecard Link:/ci/engine/match/64681.html
+Team1:India,Team2:Zimbabwe,Winner:Zimbabwe,Margin:1 wicket,Ground:Jodhpur,Match Date:Dec 8, 2000,Scorecard Link:/ci/engine/match/64682.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:9 wickets,Ground:Kanpur,Match Date:Dec 11, 2000,Scorecard Link:/ci/engine/match/64683.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:39 runs,Ground:Rajkot,Match Date:Dec 14, 2000,Scorecard Link:/ci/engine/match/64684.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:4 wickets,Ground:Port Elizabeth,Match Date:Dec 15, 2000,Scorecard Link:/ci/engine/match/64685.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:95 runs,Ground:East London,Match Date:Dec 17, 2000,Scorecard Link:/ci/engine/match/64686.html

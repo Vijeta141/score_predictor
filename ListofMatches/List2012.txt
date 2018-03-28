@@ -1,0 +1,90 @@
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:258 runs,Ground:Paarl,Match Date:Jan 11, 2012,Scorecard Link:/ci/engine/match/514035.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:5 wickets,Ground:East London,Match Date:Jan 14, 2012,Scorecard Link:/ci/engine/match/514036.html
+Team1:South Africa,Team2:Sri Lanka,Winner:South Africa,Margin:4 runs,Ground:Bloemfontein,Match Date:Jan 17, 2012,Scorecard Link:/ci/engine/match/514037.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:5 wickets,Ground:Kimberley,Match Date:Jan 20, 2012,Scorecard Link:/ci/engine/match/514038.html
+Team1:South Africa,Team2:Sri Lanka,Winner:Sri Lanka,Margin:2 wickets,Ground:Johannesburg,Match Date:Jan 22, 2012,Scorecard Link:/ci/engine/match/514039.html
+Team1:New Zealand,Team2:Zimbabwe,Winner:New Zealand,Margin:90 runs,Ground:Dunedin,Match Date:Feb 3, 2012,Scorecard Link:/ci/engine/match/520592.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:65 runs,Ground:Melbourne,Match Date:Feb 5, 2012,Scorecard Link:/ci/engine/match/518956.html
+Team1:New Zealand,Team2:Zimbabwe,Winner:New Zealand,Margin:141 runs,Ground:Whangarei,Match Date:Feb 6, 2012,Scorecard Link:/ci/engine/match/520593.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:4 wickets,Ground:Perth,Match Date:Feb 8, 2012,Scorecard Link:/ci/engine/match/518957.html
+Team1:New Zealand,Team2:Zimbabwe,Winner:New Zealand,Margin:202 runs,Ground:Napier,Match Date:Feb 9, 2012,Scorecard Link:/ci/engine/match/520594.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:5 runs,Ground:Perth,Match Date:Feb 10, 2012,Scorecard Link:/ci/engine/match/518958.html
+Team1:Afghanistan,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Sharjah,Match Date:Feb 10, 2012,Scorecard Link:/ci/engine/match/545656.html
+Team1:Australia,Team2:India,Winner:India,Margin:4 wickets,Ground:Adelaide,Match Date:Feb 12, 2012,Scorecard Link:/ci/engine/match/518959.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:130 runs,Ground:Abu Dhabi,Match Date:Feb 13, 2012,Scorecard Link:/ci/engine/match/531631.html
+Team1:India,Team2:Sri Lanka,Winner:tied,Margin: ,Ground:Adelaide,Match Date:Feb 14, 2012,Scorecard Link:/ci/engine/match/518960.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:20 runs,Ground:Abu Dhabi,Match Date:Feb 15, 2012,Scorecard Link:/ci/engine/match/531632.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:8 wickets,Ground:Sydney,Match Date:Feb 17, 2012,Scorecard Link:/ci/engine/match/518961.html
+Team1:Kenya,Team2:Ireland,Winner:Kenya,Margin:7 wickets,Ground:Mombasa,Match Date:Feb 18, 2012,Scorecard Link:/ci/engine/match/543881.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:9 wickets,Ground:Dubai (DSC),Match Date:Feb 18, 2012,Scorecard Link:/ci/engine/match/531633.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:110 runs,Ground:Brisbane,Match Date:Feb 19, 2012,Scorecard Link:/ci/engine/match/518962.html
+Team1:Kenya,Team2:Ireland,Winner:Ireland,Margin:117 runs,Ground:Mombasa,Match Date:Feb 20, 2012,Scorecard Link:/ci/engine/match/543882.html
+Team1:India,Team2:Sri Lanka,Winner:Sri Lanka,Margin:51 runs,Ground:Brisbane,Match Date:Feb 21, 2012,Scorecard Link:/ci/engine/match/518963.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:4 wickets,Ground:Dubai (DSC),Match Date:Feb 21, 2012,Scorecard Link:/ci/engine/match/531634.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:3 wickets,Ground:Hobart,Match Date:Feb 24, 2012,Scorecard Link:/ci/engine/match/518964.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:6 wickets,Ground:Wellington,Match Date:Feb 25, 2012,Scorecard Link:/ci/engine/match/520600.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:87 runs,Ground:Sydney,Match Date:Feb 26, 2012,Scorecard Link:/ci/engine/match/518965.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:7 wickets,Ground:Hobart,Match Date:Feb 28, 2012,Scorecard Link:/ci/engine/match/518966.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:6 wickets,Ground:Napier,Match Date:Feb 29, 2012,Scorecard Link:/ci/engine/match/520601.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 runs,Ground:Melbourne,Match Date:Mar 2, 2012,Scorecard Link:/ci/engine/match/518967.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:5 wickets,Ground:Auckland,Match Date:Mar 3, 2012,Scorecard Link:/ci/engine/match/520602.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:15 runs,Ground:Brisbane,Match Date:Mar 4, 2012,Scorecard Link:/ci/engine/match/518968.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:8 wickets,Ground:Adelaide,Match Date:Mar 6, 2012,Scorecard Link:/ci/engine/match/518969.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:16 runs,Ground:Adelaide,Match Date:Mar 8, 2012,Scorecard Link:/ci/engine/match/518970.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:21 runs,Ground:Dhaka,Match Date:Mar 11, 2012,Scorecard Link:/ci/engine/match/535794.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:50 runs,Ground:Dhaka,Match Date:Mar 13, 2012,Scorecard Link:/ci/engine/match/535795.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:6 wickets,Ground:Dhaka,Match Date:Mar 15, 2012,Scorecard Link:/ci/engine/match/535796.html
+Team1:Bangladesh,Team2:India,Winner:Bangladesh,Margin:5 wickets,Ground:Dhaka,Match Date:Mar 16, 2012,Scorecard Link:/ci/engine/match/535797.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:64 runs,Ground:Kingstown,Match Date:Mar 16, 2012,Scorecard Link:/ci/engine/match/540168.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:6 wickets,Ground:Dhaka,Match Date:Mar 18, 2012,Scorecard Link:/ci/engine/match/535798.html
+Team1:West Indies,Team2:Australia,Winner:West Indies,Margin:5 wickets,Ground:Kingstown,Match Date:Mar 18, 2012,Scorecard Link:/ci/engine/match/540169.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Bangladesh,Margin:5 wickets,Ground:Dhaka,Match Date:Mar 20, 2012,Scorecard Link:/ci/engine/match/535799.html
+Team1:West Indies,Team2:Australia,Winner:tied,Margin: ,Ground:Kingstown,Match Date:Mar 20, 2012,Scorecard Link:/ci/engine/match/540170.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:2 runs,Ground:Dhaka,Match Date:Mar 22, 2012,Scorecard Link:/ci/engine/match/535800.html
+Team1:West Indies,Team2:Australia,Winner:West Indies,Margin:42 runs,Ground:Gros Islet,Match Date:Mar 23, 2012,Scorecard Link:/ci/engine/match/540171.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:30 runs,Ground:Gros Islet,Match Date:Mar 25, 2012,Scorecard Link:/ci/engine/match/540172.html
+Team1:Afghanistan,Team2:Netherlands,Winner:Netherlands,Margin:9 wickets,Ground:Sharjah,Match Date:Mar 29, 2012,Scorecard Link:/ci/engine/match/543888.html
+Team1:Afghanistan,Team2:Netherlands,Winner:Afghanistan,Margin:5 wickets,Ground:Sharjah,Match Date:Mar 31, 2012,Scorecard Link:/ci/engine/match/543889.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Pallekele,Match Date:Jun 7, 2012,Scorecard Link:/ci/engine/match/562439.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:76 runs,Ground:Pallekele,Match Date:Jun 9, 2012,Scorecard Link:/ci/engine/match/562440.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:no result,Margin: ,Ground:Colombo (RPS),Match Date:Jun 13, 2012,Scorecard Link:/ci/engine/match/562441.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:44 runs,Ground:Colombo (RPS),Match Date:Jun 16, 2012,Scorecard Link:/ci/engine/match/562442.html
+Team1:England,Team2:West Indies,Winner:England,Margin:114 runs,Ground:Southampton,Match Date:Jun 16, 2012,Scorecard Link:/ci/engine/match/534209.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:2 wickets,Ground:Colombo (RPS),Match Date:Jun 18, 2012,Scorecard Link:/ci/engine/match/562443.html
+Team1:England,Team2:West Indies,Winner:England,Margin:8 wickets,Ground:The Oval,Match Date:Jun 19, 2012,Scorecard Link:/ci/engine/match/534210.html
+Team1:Ireland,Team2:Australia,Winner:no result,Margin: ,Ground:Belfast,Match Date:Jun 23, 2012,Scorecard Link:/ci/engine/match/534214.html
+Team1:England,Team2:Australia,Winner:England,Margin:15 runs,Ground:Lord's,Match Date:Jun 29, 2012,Scorecard Link:/ci/engine/match/534215.html
+Team1:England,Team2:Australia,Winner:England,Margin:6 wickets,Ground:The Oval,Match Date:Jul 1, 2012,Scorecard Link:/ci/engine/match/534216.html
+Team1:Ireland,Team2:Afghanistan,Winner:Ireland,Margin:59 runs,Ground:Dublin,Match Date:Jul 5, 2012,Scorecard Link:/ci/engine/match/555892.html
+Team1:West Indies,Team2:New Zealand,Winner:West Indies,Margin:9 wickets,Ground:Kingston,Match Date:Jul 5, 2012,Scorecard Link:/ci/engine/match/560923.html
+Team1:England,Team2:Australia,Winner:England,Margin:8 wickets,Ground:Chester-le-Street,Match Date:Jul 7, 2012,Scorecard Link:/ci/engine/match/534218.html
+Team1:West Indies,Team2:New Zealand,Winner:West Indies,Margin:55 runs,Ground:Kingston,Match Date:Jul 7, 2012,Scorecard Link:/ci/engine/match/560924.html
+Team1:England,Team2:Australia,Winner:England,Margin:7 wickets,Ground:Manchester,Match Date:Jul 10, 2012,Scorecard Link:/ci/engine/match/534219.html
+Team1:Scotland,Team2:Canada,Winner:Scotland,Margin:4 wickets,Ground:Ayr,Match Date:Jul 11-12, 2012,Scorecard Link:/ci/engine/match/555894.html
+Team1:West Indies,Team2:New Zealand,Winner:New Zealand,Margin:88 runs,Ground:Basseterre,Match Date:Jul 11, 2012,Scorecard Link:/ci/engine/match/560925.html
+Team1:West Indies,Team2:New Zealand,Winner:West Indies,Margin:24 runs,Ground:Basseterre,Match Date:Jul 14, 2012,Scorecard Link:/ci/engine/match/560926.html
+Team1:West Indies,Team2:New Zealand,Winner:West Indies,Margin:20 runs,Ground:Basseterre,Match Date:Jul 16, 2012,Scorecard Link:/ci/engine/match/560927.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:21 runs,Ground:Hambantota,Match Date:Jul 21, 2012,Scorecard Link:/ci/engine/match/564781.html
+Team1:Sri Lanka,Team2:India,Winner:Sri Lanka,Margin:9 wickets,Ground:Hambantota,Match Date:Jul 24, 2012,Scorecard Link:/ci/engine/match/564782.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:5 wickets,Ground:Colombo (RPS),Match Date:Jul 28, 2012,Scorecard Link:/ci/engine/match/564783.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:6 wickets,Ground:Colombo (RPS),Match Date:Jul 31, 2012,Scorecard Link:/ci/engine/match/564784.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:20 runs,Ground:Pallekele,Match Date:Aug 4, 2012,Scorecard Link:/ci/engine/match/564785.html
+Team1:England,Team2:South Africa,Winner:no result,Margin: ,Ground:Cardiff,Match Date:Aug 24, 2012,Scorecard Link:/ci/engine/match/534228.html
+Team1:Afghanistan,Team2:Australia,Winner:Australia,Margin:66 runs,Ground:Sharjah,Match Date:Aug 25, 2012,Scorecard Link:/ci/engine/match/571947.html
+Team1:England,Team2:South Africa,Winner:South Africa,Margin:80 runs,Ground:Southampton,Match Date:Aug 28, 2012,Scorecard Link:/ci/engine/match/534229.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:4 wickets,Ground:Sharjah,Match Date:Aug 28, 2012,Scorecard Link:/ci/engine/match/571145.html
+Team1:England,Team2:South Africa,Winner:England,Margin:4 wickets,Ground:The Oval,Match Date:Aug 31, 2012,Scorecard Link:/ci/engine/match/534230.html
+Team1:Australia,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Abu Dhabi,Match Date:Aug 31, 2012,Scorecard Link:/ci/engine/match/571146.html
+Team1:England,Team2:South Africa,Winner:England,Margin:6 wickets,Ground:Lord's,Match Date:Sep 2, 2012,Scorecard Link:/ci/engine/match/534231.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:3 wickets,Ground:Sharjah,Match Date:Sep 3, 2012,Scorecard Link:/ci/engine/match/571147.html
+Team1:England,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Nottingham,Match Date:Sep 5, 2012,Scorecard Link:/ci/engine/match/534232.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:Sri Lanka,Margin:14 runs,Ground:Pallekele,Match Date:Nov 4, 2012,Scorecard Link:/ci/engine/match/582188.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:Sri Lanka,Margin:7 wickets,Ground:Pallekele,Match Date:Nov 6, 2012,Scorecard Link:/ci/engine/match/582189.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:Sri Lanka,Margin:7 wickets,Ground:Hambantota,Match Date:Nov 10, 2012,Scorecard Link:/ci/engine/match/582190.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:no result,Margin: ,Ground:Hambantota,Match Date:Nov 12, 2012,Scorecard Link:/ci/engine/match/582191.html
+Team1:Bangladesh,Team2:West Indies,Winner:Bangladesh,Margin:7 wickets,Ground:Khulna,Match Date:Nov 30, 2012,Scorecard Link:/ci/engine/match/587471.html
+Team1:Bangladesh,Team2:West Indies,Winner:Bangladesh,Margin:160 runs,Ground:Khulna,Match Date:Dec 2, 2012,Scorecard Link:/ci/engine/match/587472.html
+Team1:Bangladesh,Team2:West Indies,Winner:West Indies,Margin:4 wickets,Ground:Dhaka,Match Date:Dec 5, 2012,Scorecard Link:/ci/engine/match/587473.html
+Team1:Bangladesh,Team2:West Indies,Winner:West Indies,Margin:75 runs,Ground:Dhaka,Match Date:Dec 7, 2012,Scorecard Link:/ci/engine/match/587474.html
+Team1:Bangladesh,Team2:West Indies,Winner:Bangladesh,Margin:2 wickets,Ground:Dhaka,Match Date:Dec 8, 2012,Scorecard Link:/ci/engine/match/587475.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Chennai,Match Date:Dec 30, 2012,Scorecard Link:/ci/engine/match/589308.html

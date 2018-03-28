@@ -1,0 +1,128 @@
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:4 wickets,Ground:Auckland,Match Date:Jan 3, 2004,Scorecard Link:/ci/engine/match/64857.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Queenstown,Match Date:Jan 7, 2004,Scorecard Link:/ci/engine/match/64858.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:18 runs,Ground:Melbourne,Match Date:Jan 9, 2004,Scorecard Link:/ci/engine/match/65643.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:7 wickets,Ground:Christchurch,Match Date:Jan 10, 2004,Scorecard Link:/ci/engine/match/64859.html
+Team1:Australia,Team2:Zimbabwe,Winner:Australia,Margin:99 runs,Ground:Sydney,Match Date:Jan 11, 2004,Scorecard Link:/ci/engine/match/65644.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:8 wickets,Ground:Napier,Match Date:Jan 14, 2004,Scorecard Link:/ci/engine/match/64860.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:7 wickets,Ground:Hobart,Match Date:Jan 14, 2004,Scorecard Link:/ci/engine/match/65645.html
+Team1:Australia,Team2:Zimbabwe,Winner:Australia,Margin:148 runs,Ground:Hobart,Match Date:Jan 16, 2004,Scorecard Link:/ci/engine/match/65646.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:4 runs,Ground:Wellington,Match Date:Jan 17, 2004,Scorecard Link:/ci/engine/match/64861.html
+Team1:Australia,Team2:India,Winner:India,Margin:19 runs,Ground:Brisbane,Match Date:Jan 18, 2004,Scorecard Link:/ci/engine/match/65647.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:24 runs,Ground:Brisbane,Match Date:Jan 20, 2004,Scorecard Link:/ci/engine/match/65648.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:2 wickets,Ground:Sydney,Match Date:Jan 22, 2004,Scorecard Link:/ci/engine/match/65649.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:3 runs,Ground:Adelaide,Match Date:Jan 24, 2004,Scorecard Link:/ci/engine/match/65650.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:209 runs,Ground:Cape Town,Match Date:Jan 25, 2004,Scorecard Link:/ci/engine/match/64862.html
+Team1:Australia,Team2:Zimbabwe,Winner:Australia,Margin:13 runs,Ground:Adelaide,Match Date:Jan 26, 2004,Scorecard Link:/ci/engine/match/65651.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:16 runs,Ground:Port Elizabeth,Match Date:Jan 28, 2004,Scorecard Link:/ci/engine/match/64863.html
+Team1:Australia,Team2:Zimbabwe,Winner:no result,Margin: ,Ground:Melbourne,Match Date:Jan 29, 2004,Scorecard Link:/ci/engine/match/65652.html
+Team1:South Africa,Team2:West Indies,Winner:no result,Margin: ,Ground:Durban,Match Date:Jan 30, 2004,Scorecard Link:/ci/engine/match/64864.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:5 wickets,Ground:Perth,Match Date:Feb 1, 2004,Scorecard Link:/ci/engine/match/65653.html
+Team1:South Africa,Team2:West Indies,Winner:West Indies,Margin:7 wickets,Ground:Centurion,Match Date:Feb 1, 2004,Scorecard Link:/ci/engine/match/64865.html
+Team1:India,Team2:Zimbabwe,Winner:India,Margin:4 wickets,Ground:Perth,Match Date:Feb 3, 2004,Scorecard Link:/ci/engine/match/65654.html
+Team1:South Africa,Team2:West Indies,Winner:South Africa,Margin:4 wickets,Ground:Johannesburg,Match Date:Feb 4, 2004,Scorecard Link:/ci/engine/match/64866.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:7 wickets,Ground:Melbourne,Match Date:Feb 6, 2004,Scorecard Link:/ci/engine/match/65655.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:208 runs,Ground:Sydney,Match Date:Feb 8, 2004,Scorecard Link:/ci/engine/match/65656.html
+Team1:New Zealand,Team2:South Africa,Winner:South Africa,Margin:5 wickets,Ground:Auckland,Match Date:Feb 13, 2004,Scorecard Link:/ci/engine/match/64867.html
+Team1:New Zealand,Team2:South Africa,Winner:New Zealand,Margin:5 wickets,Ground:Christchurch,Match Date:Feb 17, 2004,Scorecard Link:/ci/engine/match/64868.html
+Team1:New Zealand,Team2:South Africa,Winner:New Zealand,Margin:5 runs,Ground:Wellington,Match Date:Feb 20, 2004,Scorecard Link:/ci/engine/match/64869.html
+Team1:Sri Lanka,Team2:Australia,Winner:Australia,Margin:84 runs,Ground:Dambulla,Match Date:Feb 20, 2004,Scorecard Link:/ci/engine/match/64870.html
+Team1:Sri Lanka,Team2:Australia,Winner:Sri Lanka,Margin:1 run,Ground:Dambulla,Match Date:Feb 22, 2004,Scorecard Link:/ci/engine/match/64871.html
+Team1:New Zealand,Team2:South Africa,Winner:New Zealand,Margin:6 wickets,Ground:Dunedin,Match Date:Feb 25, 2004,Scorecard Link:/ci/engine/match/64872.html
+Team1:Sri Lanka,Team2:Australia,Winner:Australia,Margin:5 wickets,Ground:Colombo (RPS),Match Date:Feb 25, 2004,Scorecard Link:/ci/engine/match/64873.html
+Team1:Sri Lanka,Team2:Australia,Winner:Australia,Margin:40 runs,Ground:Colombo (RPS),Match Date:Feb 27, 2004,Scorecard Link:/ci/engine/match/64874.html
+Team1:New Zealand,Team2:South Africa,Winner:New Zealand,Margin:2 runs,Ground:Auckland,Match Date:Feb 29, 2004,Scorecard Link:/ci/engine/match/64875.html
+Team1:Sri Lanka,Team2:Australia,Winner:Sri Lanka,Margin:3 wickets,Ground:Colombo (SSC),Match Date:Feb 29, 2004,Scorecard Link:/ci/engine/match/64876.html
+Team1:New Zealand,Team2:South Africa,Winner:New Zealand,Margin:5 wickets,Ground:Napier,Match Date:Mar 2, 2004,Scorecard Link:/ci/engine/match/64877.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Bangladesh,Margin:8 runs,Ground:Harare,Match Date:Mar 10, 2004,Scorecard Link:/ci/engine/match/64878.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:14 runs,Ground:Harare,Match Date:Mar 12, 2004,Scorecard Link:/ci/engine/match/64879.html
+Team1:Pakistan,Team2:India,Winner:India,Margin:5 runs,Ground:Karachi,Match Date:Mar 13, 2004,Scorecard Link:/ci/engine/match/64880.html
+Team1:Zimbabwe,Team2:Bangladesh,Winner:Zimbabwe,Margin:3 wickets,Ground:Harare,Match Date:Mar 14, 2004,Scorecard Link:/ci/engine/match/64881.html
+Team1:Pakistan,Team2:India,Winner:Pakistan,Margin:12 runs,Ground:Rawalpindi,Match Date:Mar 16, 2004,Scorecard Link:/ci/engine/match/64882.html
+Team1:Pakistan,Team2:India,Winner:Pakistan,Margin:4 wickets,Ground:Peshawar,Match Date:Mar 19, 2004,Scorecard Link:/ci/engine/match/64883.html
+Team1:Pakistan,Team2:India,Winner:India,Margin:5 wickets,Ground:Lahore,Match Date:Mar 21, 2004,Scorecard Link:/ci/engine/match/64884.html
+Team1:Pakistan,Team2:India,Winner:India,Margin:40 runs,Ground:Lahore,Match Date:Mar 24, 2004,Scorecard Link:/ci/engine/match/64885.html
+Team1:West Indies,Team2:England,Winner:England,Margin:2 wickets,Ground:Georgetown,Match Date:Apr 18, 2004,Scorecard Link:/ci/engine/match/64886.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:12 runs,Ground:Bulawayo,Match Date:Apr 20, 2004,Scorecard Link:/ci/engine/match/64887.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 wickets,Ground:Bulawayo,Match Date:Apr 22, 2004,Scorecard Link:/ci/engine/match/64888.html
+Team1:West Indies,Team2:England,Winner:no result,Margin: ,Ground:Port of Spain,Match Date:Apr 24, 2004,Scorecard Link:/ci/engine/match/64889.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 wickets,Ground:Harare,Match Date:Apr 25, 2004,Scorecard Link:/ci/engine/match/64890.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:72 runs,Ground:Harare,Match Date:Apr 27, 2004,Scorecard Link:/ci/engine/match/64891.html
+Team1:Zimbabwe,Team2:Sri Lanka,Winner:Sri Lanka,Margin:25 runs,Ground:Harare,Match Date:Apr 29, 2004,Scorecard Link:/ci/engine/match/64892.html
+Team1:West Indies,Team2:England,Winner:West Indies,Margin:5 wickets,Ground:Gros Islet,Match Date:May 1, 2004,Scorecard Link:/ci/engine/match/64893.html
+Team1:West Indies,Team2:England,Winner:West Indies,Margin:4 wickets,Ground:Gros Islet,Match Date:May 2, 2004,Scorecard Link:/ci/engine/match/64894.html
+Team1:West Indies,Team2:England,Winner:England,Margin:5 wickets,Ground:Bridgetown,Match Date:May 5, 2004,Scorecard Link:/ci/engine/match/64895.html
+Team1:West Indies,Team2:Bangladesh,Winner:West Indies,Margin:1 wicket,Ground:Kingstown,Match Date:May 15, 2004,Scorecard Link:/ci/engine/match/64896.html
+Team1:West Indies,Team2:Bangladesh,Winner:West Indies,Margin:23 runs,Ground:Kingstown,Match Date:May 16, 2004,Scorecard Link:/ci/engine/match/64897.html
+Team1:West Indies,Team2:Bangladesh,Winner:West Indies,Margin:7 wickets,Ground:St George's,Match Date:May 19, 2004,Scorecard Link:/ci/engine/match/64898.html
+Team1:Zimbabwe,Team2:Australia,Winner:Australia,Margin:7 wickets,Ground:Harare,Match Date:May 25, 2004,Scorecard Link:/ci/engine/match/64899.html
+Team1:Zimbabwe,Team2:Australia,Winner:Australia,Margin:139 runs,Ground:Harare,Match Date:May 27, 2004,Scorecard Link:/ci/engine/match/64900.html
+Team1:Zimbabwe,Team2:Australia,Winner:Australia,Margin:8 wickets,Ground:Harare,Match Date:May 29, 2004,Scorecard Link:/ci/engine/match/64901.html
+Team1:New Zealand,Team2:West Indies,Winner:no result,Margin: ,Ground:Birmingham,Match Date:Jun 26, 2004,Scorecard Link:/ci/engine/match/66303.html
+Team1:England,Team2:West Indies,Winner:West Indies,Margin:7 wickets,Ground:Nottingham,Match Date:Jun 27, 2004,Scorecard Link:/ci/engine/match/66304.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:7 wickets,Ground:Chester-le-Street,Match Date:Jun 29, 2004,Scorecard Link:/ci/engine/match/66305.html
+Team1:England,Team2:West Indies,Winner:England,Margin:7 wickets,Ground:Leeds,Match Date:Jul 1, 2004,Scorecard Link:/ci/engine/match/66306.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:5 wickets,Ground:Cardiff,Match Date:Jul 3, 2004,Scorecard Link:/ci/engine/match/66307.html
+Team1:England,Team2:New Zealand,Winner:New Zealand,Margin:6 wickets,Ground:Bristol,Match Date:Jul 4, 2004,Scorecard Link:/ci/engine/match/66308.html
+Team1:England,Team2:West Indies,Winner:West Indies,Margin:7 wickets,Ground:Lord's,Match Date:Jul 6, 2004,Scorecard Link:/ci/engine/match/66309.html
+Team1:New Zealand,Team2:West Indies,Winner:no result,Margin: ,Ground:Southampton,Match Date:Jul 8, 2004,Scorecard Link:/ci/engine/match/66310.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:107 runs,Ground:Lord's,Match Date:Jul 10, 2004,Scorecard Link:/ci/engine/match/66311.html
+Team1:Bangladesh,Team2:Hong Kong,Winner:Bangladesh,Margin:116 runs,Ground:Colombo (SSC),Match Date:Jul 16, 2004,Scorecard Link:/ci/engine/match/65706.html
+Team1:India,Team2:U.A.E.,Winner:India,Margin:116 runs,Ground:Dambulla,Match Date:Jul 16, 2004,Scorecard Link:/ci/engine/match/65707.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:76 runs,Ground:Colombo (SSC),Match Date:Jul 17, 2004,Scorecard Link:/ci/engine/match/65708.html
+Team1:Sri Lanka,Team2:U.A.E.,Winner:Sri Lanka,Margin:116 runs,Ground:Dambulla,Match Date:Jul 17, 2004,Scorecard Link:/ci/engine/match/65709.html
+Team1:Hong Kong,Team2:Pakistan,Winner:Pakistan,Margin:173 runs,Ground:Colombo (SSC),Match Date:Jul 18, 2004,Scorecard Link:/ci/engine/match/65710.html
+Team1:Sri Lanka,Team2:India,Winner:Sri Lanka,Margin:12 runs,Ground:Dambulla,Match Date:Jul 18, 2004,Scorecard Link:/ci/engine/match/65711.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:8 wickets,Ground:Colombo (SSC),Match Date:Jul 21, 2004,Scorecard Link:/ci/engine/match/65712.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:7 wickets,Ground:Colombo (RPS),Match Date:Jul 21, 2004,Scorecard Link:/ci/engine/match/65713.html
+Team1:Sri Lanka,Team2:Bangladesh,Winner:Sri Lanka,Margin:10 wickets,Ground:Colombo (RPS),Match Date:Jul 23, 2004,Scorecard Link:/ci/engine/match/65714.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:59 runs,Ground:Colombo (RPS),Match Date:Jul 25, 2004,Scorecard Link:/ci/engine/match/65715.html
+Team1:Sri Lanka,Team2:India,Winner:India,Margin:4 runs,Ground:Colombo (RPS),Match Date:Jul 27, 2004,Scorecard Link:/ci/engine/match/65716.html
+Team1:Bangladesh,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Colombo (RPS),Match Date:Jul 29, 2004,Scorecard Link:/ci/engine/match/65717.html
+Team1:Sri Lanka,Team2:India,Winner:Sri Lanka,Margin:25 runs,Ground:Colombo (RPS),Match Date:Aug 1, 2004,Scorecard Link:/ci/engine/match/65718.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:3 wickets,Ground:Colombo (RPS),Match Date:Aug 20, 2004,Scorecard Link:/ci/engine/match/64902.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:66 runs,Ground:Amstelveen,Match Date:Aug 21, 2004,Scorecard Link:/ci/engine/match/66374.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:37 runs,Ground:Colombo (RPS),Match Date:Aug 22, 2004,Scorecard Link:/ci/engine/match/64903.html
+Team1:Australia,Team2:India,Winner:no result,Margin: ,Ground:Amstelveen,Match Date:Aug 23, 2004,Scorecard Link:/ci/engine/match/66375.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:4 wickets,Ground:Dambulla,Match Date:Aug 25, 2004,Scorecard Link:/ci/engine/match/64904.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:7 wickets,Ground:Dambulla,Match Date:Aug 28, 2004,Scorecard Link:/ci/engine/match/64905.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:17 runs,Ground:Amstelveen,Match Date:Aug 28, 2004,Scorecard Link:/ci/engine/match/66376.html
+Team1:Sri Lanka,Team2:South Africa,Winner:Sri Lanka,Margin:49 runs,Ground:Colombo (SSC),Match Date:Aug 31, 2004,Scorecard Link:/ci/engine/match/64906.html
+Team1:England,Team2:India,Winner:England,Margin:7 wickets,Ground:Nottingham,Match Date:Sep 1, 2004,Scorecard Link:/ci/engine/match/65032.html
+Team1:England,Team2:India,Winner:England,Margin:70 runs,Ground:The Oval,Match Date:Sep 3, 2004,Scorecard Link:/ci/engine/match/65033.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:10 runs,Ground:Lord's,Match Date:Sep 4, 2004,Scorecard Link:/ci/engine/match/66377.html
+Team1:England,Team2:India,Winner:India,Margin:23 runs,Ground:Lord's,Match Date:Sep 5, 2004,Scorecard Link:/ci/engine/match/65034.html
+Team1:England,Team2:Zimbabwe,Winner:England,Margin:152 runs,Ground:Birmingham,Match Date:Sep 10-11, 2004,Scorecard Link:/ci/engine/match/66196.html
+Team1:New Zealand,Team2:U.S.A.,Winner:New Zealand,Margin:210 runs,Ground:The Oval,Match Date:Sep 10, 2004,Scorecard Link:/ci/engine/match/66197.html
+Team1:India,Team2:Kenya,Winner:India,Margin:98 runs,Ground:Southampton,Match Date:Sep 11, 2004,Scorecard Link:/ci/engine/match/66198.html
+Team1:Bangladesh,Team2:South Africa,Winner:South Africa,Margin:9 wickets,Ground:Birmingham,Match Date:Sep 12, 2004,Scorecard Link:/ci/engine/match/66199.html
+Team1:Australia,Team2:U.S.A.,Winner:Australia,Margin:9 wickets,Ground:Southampton,Match Date:Sep 13, 2004,Scorecard Link:/ci/engine/match/66200.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Sri Lanka,Margin:4 wickets,Ground:The Oval,Match Date:Sep 14, 2004,Scorecard Link:/ci/engine/match/66201.html
+Team1:Kenya,Team2:Pakistan,Winner:Pakistan,Margin:7 wickets,Ground:Birmingham,Match Date:Sep 14-15, 2004,Scorecard Link:/ci/engine/match/66202.html
+Team1:Bangladesh,Team2:West Indies,Winner:West Indies,Margin:138 runs,Ground:Southampton,Match Date:Sep 15, 2004,Scorecard Link:/ci/engine/match/66203.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:7 wickets,Ground:The Oval,Match Date:Sep 16, 2004,Scorecard Link:/ci/engine/match/66204.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:49 runs,Ground:Southampton,Match Date:Sep 17-18, 2004,Scorecard Link:/ci/engine/match/66205.html
+Team1:South Africa,Team2:West Indies,Winner:West Indies,Margin:5 wickets,Ground:The Oval,Match Date:Sep 18-19, 2004,Scorecard Link:/ci/engine/match/66206.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:3 wickets,Ground:Birmingham,Match Date:Sep 19, 2004,Scorecard Link:/ci/engine/match/66207.html
+Team1:England,Team2:Australia,Winner:England,Margin:6 wickets,Ground:Birmingham,Match Date:Sep 21, 2004,Scorecard Link:/ci/engine/match/66208.html
+Team1:Pakistan,Team2:West Indies,Winner:West Indies,Margin:7 wickets,Ground:Southampton,Match Date:Sep 22, 2004,Scorecard Link:/ci/engine/match/66209.html
+Team1:England,Team2:West Indies,Winner:West Indies,Margin:2 wickets,Ground:The Oval,Match Date:Sep 25, 2004,Scorecard Link:/ci/engine/match/66210.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:144 runs,Ground:Multan,Match Date:Sep 30, 2004,Scorecard Link:/ci/engine/match/66378.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:3 wickets,Ground:Peshawar,Match Date:Oct 3, 2004,Scorecard Link:/ci/engine/match/66379.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:8 wickets,Ground:Karachi,Match Date:Oct 6, 2004,Scorecard Link:/ci/engine/match/66380.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Sri Lanka,Margin:7 wickets,Ground:Rawalpindi,Match Date:Oct 9, 2004,Scorecard Link:/ci/engine/match/66381.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:6 wickets,Ground:Lahore,Match Date:Oct 14, 2004,Scorecard Link:/ci/engine/match/66382.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Sri Lanka,Margin:119 runs,Ground:Lahore,Match Date:Oct 16, 2004,Scorecard Link:/ci/engine/match/66383.html
+Team1:Bangladesh,Team2:New Zealand,Winner:New Zealand,Margin:138 runs,Ground:Chittagong,Match Date:Nov 2, 2004,Scorecard Link:/ci/engine/match/64907.html
+Team1:Bangladesh,Team2:New Zealand,Winner:New Zealand,Margin:3 wickets,Ground:Dhaka,Match Date:Nov 5, 2004,Scorecard Link:/ci/engine/match/64908.html
+Team1:Bangladesh,Team2:New Zealand,Winner:New Zealand,Margin:83 runs,Ground:Dhaka,Match Date:Nov 7, 2004,Scorecard Link:/ci/engine/match/64909.html
+Team1:India,Team2:Pakistan,Winner:Pakistan,Margin:6 wickets,Ground:Kolkata,Match Date:Nov 13, 2004,Scorecard Link:/ci/engine/match/66384.html
+Team1:Zimbabwe,Team2:England,Winner:England,Margin:5 wickets,Ground:Harare,Match Date:Nov 28, 2004,Scorecard Link:/ci/engine/match/64910.html
+Team1:Zimbabwe,Team2:England,Winner:England,Margin:161 runs,Ground:Harare,Match Date:Dec 1, 2004,Scorecard Link:/ci/engine/match/64911.html
+Team1:Zimbabwe,Team2:England,Winner:England,Margin:8 wickets,Ground:Bulawayo,Match Date:Dec 4, 2004,Scorecard Link:/ci/engine/match/64912.html
+Team1:Australia,Team2:New Zealand,Winner:New Zealand,Margin:4 wickets,Ground:Melbourne (Docklands),Match Date:Dec 5, 2004,Scorecard Link:/ci/engine/match/66385.html
+Team1:Zimbabwe,Team2:England,Winner:England,Margin:74 runs,Ground:Bulawayo,Match Date:Dec 5, 2004,Scorecard Link:/ci/engine/match/64913.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:17 runs,Ground:Sydney,Match Date:Dec 8, 2004,Scorecard Link:/ci/engine/match/66386.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:11 runs,Ground:Chittagong,Match Date:Dec 23, 2004,Scorecard Link:/ci/engine/match/64914.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:New Zealand,Margin:7 wickets,Ground:Auckland,Match Date:Dec 26, 2004,Scorecard Link:/ci/engine/match/64915.html
+Team1:Bangladesh,Team2:India,Winner:Bangladesh,Margin:15 runs,Ground:Dhaka,Match Date:Dec 26, 2004,Scorecard Link:/ci/engine/match/64916.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:91 runs,Ground:Dhaka,Match Date:Dec 27, 2004,Scorecard Link:/ci/engine/match/64917.html

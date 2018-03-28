@@ -1,0 +1,147 @@
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:5 wickets,Ground:Christchurch,Match Date:Jan 1, 2003,Scorecard Link:/ci/engine/match/64815.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:7 wickets,Ground:Queenstown,Match Date:Jan 4, 2003,Scorecard Link:/ci/engine/match/64816.html
+Team1:New Zealand,Team2:India,Winner:India,Margin:2 wickets,Ground:Wellington,Match Date:Jan 8, 2003,Scorecard Link:/ci/engine/match/64817.html
+Team1:Australia,Team2:Sri Lanka,Winner:Sri Lanka,Margin:79 runs,Ground:Sydney,Match Date:Jan 9, 2003,Scorecard Link:/ci/engine/match/65634.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:7 runs,Ground:Hobart,Match Date:Jan 11, 2003,Scorecard Link:/ci/engine/match/65635.html
+Team1:New Zealand,Team2:India,Winner:India,Margin:1 wicket,Ground:Auckland,Match Date:Jan 11, 2003,Scorecard Link:/ci/engine/match/64818.html
+Team1:England,Team2:Sri Lanka,Winner:Sri Lanka,Margin:31 runs,Ground:Sydney,Match Date:Jan 13, 2003,Scorecard Link:/ci/engine/match/65636.html
+Team1:New Zealand,Team2:India,Winner:New Zealand,Margin:6 wickets,Ground:Hamilton,Match Date:Jan 14, 2003,Scorecard Link:/ci/engine/match/64819.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:4 wickets,Ground:Brisbane,Match Date:Jan 15, 2003,Scorecard Link:/ci/engine/match/65637.html
+Team1:England,Team2:Sri Lanka,Winner:England,Margin:19 runs,Ground:Adelaide,Match Date:Jan 17, 2003,Scorecard Link:/ci/engine/match/65638.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:4 wickets,Ground:Adelaide,Match Date:Jan 19, 2003,Scorecard Link:/ci/engine/match/65639.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:9 wickets,Ground:Melbourne,Match Date:Jan 21, 2003,Scorecard Link:/ci/engine/match/65640.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:10 wickets,Ground:Sydney,Match Date:Jan 23, 2003,Scorecard Link:/ci/engine/match/65641.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:5 runs,Ground:Melbourne,Match Date:Jan 25, 2003,Scorecard Link:/ci/engine/match/65642.html
+Team1:South Africa,Team2:West Indies,Winner:West Indies,Margin:3 runs,Ground:Cape Town,Match Date:Feb 9, 2003,Scorecard Link:/ci/engine/match/65235.html
+Team1:Zimbabwe,Team2:Namibia,Winner:Zimbabwe,Margin:86 runs,Ground:Harare,Match Date:Feb 10, 2003,Scorecard Link:/ci/engine/match/65236.html
+Team1:New Zealand,Team2:Sri Lanka,Winner:Sri Lanka,Margin:47 runs,Ground:Bloemfontein,Match Date:Feb 10, 2003,Scorecard Link:/ci/engine/match/65237.html
+Team1:Australia,Team2:Pakistan,Winner:Australia,Margin:82 runs,Ground:Johannesburg,Match Date:Feb 11, 2003,Scorecard Link:/ci/engine/match/65238.html
+Team1:Bangladesh,Team2:Canada,Winner:Canada,Margin:60 runs,Ground:Durban,Match Date:Feb 11, 2003,Scorecard Link:/ci/engine/match/65239.html
+Team1:South Africa,Team2:Kenya,Winner:South Africa,Margin:10 wickets,Ground:Potchefstroom,Match Date:Feb 12, 2003,Scorecard Link:/ci/engine/match/65240.html
+Team1:India,Team2:Netherlands,Winner:India,Margin:68 runs,Ground:Paarl,Match Date:Feb 12, 2003,Scorecard Link:/ci/engine/match/65241.html
+Team1:New Zealand,Team2:West Indies,Winner:New Zealand,Margin:20 runs,Ground:Port Elizabeth,Match Date:Feb 13, 2003,Scorecard Link:/ci/engine/match/65242.html
+Team1:Bangladesh,Team2:Sri Lanka,Winner:Sri Lanka,Margin:10 wickets,Ground:Pietermaritzburg,Match Date:Feb 14, 2003,Scorecard Link:/ci/engine/match/65243.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:9 wickets,Ground:Centurion,Match Date:Feb 15, 2003,Scorecard Link:/ci/engine/match/65244.html
+Team1:Canada,Team2:Kenya,Winner:Kenya,Margin:4 wickets,Ground:Cape Town,Match Date:Feb 15, 2003,Scorecard Link:/ci/engine/match/65245.html
+Team1:England,Team2:Netherlands,Winner:England,Margin:6 wickets,Ground:East London,Match Date:Feb 16, 2003,Scorecard Link:/ci/engine/match/65246.html
+Team1:Namibia,Team2:Pakistan,Winner:Pakistan,Margin:171 runs,Ground:Kimberley,Match Date:Feb 16, 2003,Scorecard Link:/ci/engine/match/65247.html
+Team1:South Africa,Team2:New Zealand,Winner:New Zealand,Margin:9 wickets,Ground:Johannesburg,Match Date:Feb 16, 2003,Scorecard Link:/ci/engine/match/65248.html
+Team1:Bangladesh,Team2:West Indies,Winner:no result,Margin: ,Ground:Benoni,Match Date:Feb 18, 2003,Scorecard Link:/ci/engine/match/65249.html
+Team1:Zimbabwe,Team2:India,Winner:India,Margin:83 runs,Ground:Harare,Match Date:Feb 19, 2003,Scorecard Link:/ci/engine/match/65250.html
+Team1:Canada,Team2:Sri Lanka,Winner:Sri Lanka,Margin:9 wickets,Ground:Paarl,Match Date:Feb 19, 2003,Scorecard Link:/ci/engine/match/65251.html
+Team1:England,Team2:Namibia,Winner:England,Margin:55 runs,Ground:Port Elizabeth,Match Date:Feb 19, 2003,Scorecard Link:/ci/engine/match/65252.html
+Team1:Australia,Team2:Netherlands,Winner:Australia,Margin:75 runs,Ground:Potchefstroom,Match Date:Feb 20, 2003,Scorecard Link:/ci/engine/match/65253.html
+Team1:South Africa,Team2:Bangladesh,Winner:South Africa,Margin:10 wickets,Ground:Bloemfontein,Match Date:Feb 22, 2003,Scorecard Link:/ci/engine/match/65254.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:112 runs,Ground:Cape Town,Match Date:Feb 22, 2003,Scorecard Link:/ci/engine/match/65255.html
+Team1:Canada,Team2:West Indies,Winner:West Indies,Margin:7 wickets,Ground:Centurion,Match Date:Feb 23, 2003,Scorecard Link:/ci/engine/match/65256.html
+Team1:India,Team2:Namibia,Winner:India,Margin:181 runs,Ground:Pietermaritzburg,Match Date:Feb 23, 2003,Scorecard Link:/ci/engine/match/65257.html
+Team1:Kenya,Team2:Sri Lanka,Winner:Kenya,Margin:53 runs,Ground:Nairobi (Gym),Match Date:Feb 24, 2003,Scorecard Link:/ci/engine/match/65258.html
+Team1:Zimbabwe,Team2:Australia,Winner:Australia,Margin:7 wickets,Ground:Bulawayo,Match Date:Feb 24, 2003,Scorecard Link:/ci/engine/match/65259.html
+Team1:Netherlands,Team2:Pakistan,Winner:Pakistan,Margin:97 runs,Ground:Paarl,Match Date:Feb 25, 2003,Scorecard Link:/ci/engine/match/65260.html
+Team1:Bangladesh,Team2:New Zealand,Winner:New Zealand,Margin:7 wickets,Ground:Kimberley,Match Date:Feb 26, 2003,Scorecard Link:/ci/engine/match/65261.html
+Team1:England,Team2:India,Winner:India,Margin:82 runs,Ground:Durban,Match Date:Feb 26, 2003,Scorecard Link:/ci/engine/match/65262.html
+Team1:Australia,Team2:Namibia,Winner:Australia,Margin:256 runs,Ground:Potchefstroom,Match Date:Feb 27, 2003,Scorecard Link:/ci/engine/match/65263.html
+Team1:South Africa,Team2:Canada,Winner:South Africa,Margin:118 runs,Ground:East London,Match Date:Feb 27, 2003,Scorecard Link:/ci/engine/match/65264.html
+Team1:Zimbabwe,Team2:Netherlands,Winner:Zimbabwe,Margin:99 runs,Ground:Bulawayo,Match Date:Feb 28, 2003,Scorecard Link:/ci/engine/match/65265.html
+Team1:Sri Lanka,Team2:West Indies,Winner:Sri Lanka,Margin:6 runs,Ground:Cape Town,Match Date:Feb 28, 2003,Scorecard Link:/ci/engine/match/65266.html
+Team1:Bangladesh,Team2:Kenya,Winner:Kenya,Margin:32 runs,Ground:Johannesburg,Match Date:Mar 1, 2003,Scorecard Link:/ci/engine/match/65267.html
+Team1:India,Team2:Pakistan,Winner:India,Margin:6 wickets,Ground:Centurion,Match Date:Mar 1, 2003,Scorecard Link:/ci/engine/match/65268.html
+Team1:Australia,Team2:England,Winner:Australia,Margin:2 wickets,Ground:Port Elizabeth,Match Date:Mar 2, 2003,Scorecard Link:/ci/engine/match/65269.html
+Team1:Canada,Team2:New Zealand,Winner:New Zealand,Margin:5 wickets,Ground:Benoni,Match Date:Mar 3, 2003,Scorecard Link:/ci/engine/match/65270.html
+Team1:Namibia,Team2:Netherlands,Winner:Netherlands,Margin:64 runs,Ground:Bloemfontein,Match Date:Mar 3, 2003,Scorecard Link:/ci/engine/match/65271.html
+Team1:South Africa,Team2:Sri Lanka,Winner:tied,Margin: ,Ground:Durban,Match Date:Mar 3, 2003,Scorecard Link:/ci/engine/match/65272.html
+Team1:Zimbabwe,Team2:Pakistan,Winner:no result,Margin: ,Ground:Bulawayo,Match Date:Mar 4, 2003,Scorecard Link:/ci/engine/match/65273.html
+Team1:Kenya,Team2:West Indies,Winner:West Indies,Margin:142 runs,Ground:Kimberley,Match Date:Mar 4, 2003,Scorecard Link:/ci/engine/match/65274.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:96 runs,Ground:Centurion,Match Date:Mar 7, 2003,Scorecard Link:/ci/engine/match/65275.html
+Team1:India,Team2:Kenya,Winner:India,Margin:6 wickets,Ground:Cape Town,Match Date:Mar 7, 2003,Scorecard Link:/ci/engine/match/65276.html
+Team1:New Zealand,Team2:Zimbabwe,Winner:New Zealand,Margin:6 wickets,Ground:Bloemfontein,Match Date:Mar 8, 2003,Scorecard Link:/ci/engine/match/65277.html
+Team1:India,Team2:Sri Lanka,Winner:India,Margin:183 runs,Ground:Johannesburg,Match Date:Mar 10, 2003,Scorecard Link:/ci/engine/match/65278.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:96 runs,Ground:Port Elizabeth,Match Date:Mar 11, 2003,Scorecard Link:/ci/engine/match/65279.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Kenya,Margin:7 wickets,Ground:Bloemfontein,Match Date:Mar 12, 2003,Scorecard Link:/ci/engine/match/65280.html
+Team1:India,Team2:New Zealand,Winner:India,Margin:7 wickets,Ground:Centurion,Match Date:Mar 14, 2003,Scorecard Link:/ci/engine/match/65281.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Sri Lanka,Margin:74 runs,Ground:East London,Match Date:Mar 15, 2003,Scorecard Link:/ci/engine/match/65282.html
+Team1:Australia,Team2:Kenya,Winner:Australia,Margin:5 wickets,Ground:Durban,Match Date:Mar 15, 2003,Scorecard Link:/ci/engine/match/65283.html
+Team1:Australia,Team2:Sri Lanka,Winner:Australia,Margin:48 runs,Ground:Port Elizabeth,Match Date:Mar 18, 2003,Scorecard Link:/ci/engine/match/65284.html
+Team1:India,Team2:Kenya,Winner:India,Margin:91 runs,Ground:Durban,Match Date:Mar 20, 2003,Scorecard Link:/ci/engine/match/65285.html
+Team1:Australia,Team2:India,Winner:Australia,Margin:125 runs,Ground:Johannesburg,Match Date:Mar 23, 2003,Scorecard Link:/ci/engine/match/65286.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:68 runs,Ground:Sharjah,Match Date:Apr 3, 2003,Scorecard Link:/ci/engine/match/65803.html
+Team1:Pakistan,Team2:Sri Lanka,Winner:Pakistan,Margin:7 wickets,Ground:Sharjah,Match Date:Apr 4, 2003,Scorecard Link:/ci/engine/match/65804.html
+Team1:Kenya,Team2:Zimbabwe,Winner:Zimbabwe,Margin:5 wickets,Ground:Sharjah,Match Date:Apr 5, 2003,Scorecard Link:/ci/engine/match/65805.html
+Team1:Kenya,Team2:Sri Lanka,Winner:Sri Lanka,Margin:129 runs,Ground:Sharjah,Match Date:Apr 6, 2003,Scorecard Link:/ci/engine/match/65806.html
+Team1:Sri Lanka,Team2:Zimbabwe,Winner:Zimbabwe,Margin:4 wickets,Ground:Sharjah,Match Date:Apr 7, 2003,Scorecard Link:/ci/engine/match/65807.html
+Team1:Kenya,Team2:Pakistan,Winner:Pakistan,Margin:143 runs,Ground:Sharjah,Match Date:Apr 8, 2003,Scorecard Link:/ci/engine/match/65808.html
+Team1:Pakistan,Team2:Zimbabwe,Winner:Pakistan,Margin:8 wickets,Ground:Sharjah,Match Date:Apr 10, 2003,Scorecard Link:/ci/engine/match/65809.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:200 runs,Ground:Dhaka,Match Date:Apr 11, 2003,Scorecard Link:/ci/engine/match/66350.html
+Team1:India,Team2:South Africa,Winner:India,Margin:153 runs,Ground:Dhaka,Match Date:Apr 13, 2003,Scorecard Link:/ci/engine/match/66351.html
+Team1:Bangladesh,Team2:South Africa,Winner:South Africa,Margin:83 runs,Ground:Dhaka,Match Date:Apr 14, 2003,Scorecard Link:/ci/engine/match/66352.html
+Team1:Bangladesh,Team2:India,Winner:India,Margin:4 wickets,Ground:Dhaka,Match Date:Apr 16, 2003,Scorecard Link:/ci/engine/match/66353.html
+Team1:Bangladesh,Team2:South Africa,Winner:South Africa,Margin:93 runs,Ground:Dhaka,Match Date:Apr 17, 2003,Scorecard Link:/ci/engine/match/66354.html
+Team1:India,Team2:South Africa,Winner:South Africa,Margin:5 wickets,Ground:Dhaka,Match Date:Apr 18, 2003,Scorecard Link:/ci/engine/match/66355.html
+Team1:India,Team2:South Africa,Winner:no result,Margin: ,Ground:Dhaka,Match Date:Apr 21, 2003,Scorecard Link:/ci/engine/match/66356.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Pakistan,Margin:79 runs,Ground:Dambulla,Match Date:May 10, 2003,Scorecard Link:/ci/engine/match/66357.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:7 wickets,Ground:Dambulla,Match Date:May 11, 2003,Scorecard Link:/ci/engine/match/66358.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:Sri Lanka,Margin:5 wickets,Ground:Dambulla,Match Date:May 13, 2003,Scorecard Link:/ci/engine/match/66359.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:2 runs,Ground:Kingston,Match Date:May 17, 2003,Scorecard Link:/ci/engine/match/64820.html
+Team1:Sri Lanka,Team2:Pakistan,Winner:Sri Lanka,Margin:12 runs,Ground:Dambulla,Match Date:May 18, 2003,Scorecard Link:/ci/engine/match/66360.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:8 wickets,Ground:Kingston,Match Date:May 18, 2003,Scorecard Link:/ci/engine/match/64821.html
+Team1:Sri Lanka,Team2:New Zealand,Winner:New Zealand,Margin:9 runs,Ground:Dambulla,Match Date:May 19, 2003,Scorecard Link:/ci/engine/match/66361.html
+Team1:New Zealand,Team2:Pakistan,Winner:Pakistan,Margin:22 runs,Ground:Dambulla,Match Date:May 20, 2003,Scorecard Link:/ci/engine/match/66362.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:25 runs,Ground:Gros Islet,Match Date:May 21, 2003,Scorecard Link:/ci/engine/match/64822.html
+Team1:New Zealand,Team2:Pakistan,Winner:New Zealand,Margin:4 wickets,Ground:Dambulla,Match Date:May 23, 2003,Scorecard Link:/ci/engine/match/66363.html
+Team1:West Indies,Team2:Australia,Winner:Australia,Margin:67 runs,Ground:Port of Spain,Match Date:May 24, 2003,Scorecard Link:/ci/engine/match/64823.html
+Team1:West Indies,Team2:Australia,Winner:West Indies,Margin:39 runs,Ground:Port of Spain,Match Date:May 25, 2003,Scorecard Link:/ci/engine/match/64824.html
+Team1:West Indies,Team2:Australia,Winner:West Indies,Margin:3 wickets,Ground:St George's,Match Date:May 30, 2003,Scorecard Link:/ci/engine/match/64825.html
+Team1:West Indies,Team2:Australia,Winner:West Indies,Margin:9 wickets,Ground:St George's,Match Date:Jun 1, 2003,Scorecard Link:/ci/engine/match/64826.html
+Team1:West Indies,Team2:Sri Lanka,Winner:Sri Lanka,Margin:55 runs,Ground:Bridgetown,Match Date:Jun 7, 2003,Scorecard Link:/ci/engine/match/64827.html
+Team1:West Indies,Team2:Sri Lanka,Winner:Sri Lanka,Margin:4 wickets,Ground:Bridgetown,Match Date:Jun 8, 2003,Scorecard Link:/ci/engine/match/64828.html
+Team1:West Indies,Team2:Sri Lanka,Winner:West Indies,Margin:6 wickets,Ground:Kingstown,Match Date:Jun 11, 2003,Scorecard Link:/ci/engine/match/64829.html
+Team1:England,Team2:Pakistan,Winner:Pakistan,Margin:2 wickets,Ground:Manchester,Match Date:Jun 17, 2003,Scorecard Link:/ci/engine/match/65029.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:7 wickets,Ground:The Oval,Match Date:Jun 20, 2003,Scorecard Link:/ci/engine/match/65030.html
+Team1:England,Team2:Pakistan,Winner:England,Margin:4 wickets,Ground:Lord's,Match Date:Jun 22, 2003,Scorecard Link:/ci/engine/match/65031.html
+Team1:England,Team2:Zimbabwe,Winner:Zimbabwe,Margin:4 wickets,Ground:Nottingham,Match Date:Jun 26, 2003,Scorecard Link:/ci/engine/match/66293.html
+Team1:England,Team2:South Africa,Winner:England,Margin:6 wickets,Ground:The Oval,Match Date:Jun 28, 2003,Scorecard Link:/ci/engine/match/66294.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:46 runs,Ground:Canterbury,Match Date:Jun 29, 2003,Scorecard Link:/ci/engine/match/66295.html
+Team1:England,Team2:Zimbabwe,Winner:no result,Margin: ,Ground:Leeds,Match Date:Jul 1, 2003,Scorecard Link:/ci/engine/match/66296.html
+Team1:England,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Manchester,Match Date:Jul 3, 2003,Scorecard Link:/ci/engine/match/66297.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:9 wickets,Ground:Cardiff,Match Date:Jul 5, 2003,Scorecard Link:/ci/engine/match/66298.html
+Team1:England,Team2:Zimbabwe,Winner:England,Margin:6 wickets,Ground:Bristol,Match Date:Jul 6, 2003,Scorecard Link:/ci/engine/match/66299.html
+Team1:England,Team2:South Africa,Winner:England,Margin:4 wickets,Ground:Birmingham,Match Date:Jul 8, 2003,Scorecard Link:/ci/engine/match/66300.html
+Team1:South Africa,Team2:Zimbabwe,Winner:South Africa,Margin:7 wickets,Ground:Southampton,Match Date:Jul 10, 2003,Scorecard Link:/ci/engine/match/66301.html
+Team1:England,Team2:South Africa,Winner:England,Margin:7 wickets,Ground:Lord's,Match Date:Jul 12, 2003,Scorecard Link:/ci/engine/match/66302.html
+Team1:Australia,Team2:Bangladesh,Winner:Australia,Margin:8 wickets,Ground:Cairns,Match Date:Aug 2, 2003,Scorecard Link:/ci/engine/match/64830.html
+Team1:Australia,Team2:Bangladesh,Winner:Australia,Margin:9 wickets,Ground:Cairns,Match Date:Aug 3, 2003,Scorecard Link:/ci/engine/match/64831.html
+Team1:Australia,Team2:Bangladesh,Winner:Australia,Margin:112 runs,Ground:Darwin,Match Date:Aug 6, 2003,Scorecard Link:/ci/engine/match/64832.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:137 runs,Ground:Multan,Match Date:Sep 9, 2003,Scorecard Link:/ci/engine/match/64833.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:74 runs,Ground:Faisalabad,Match Date:Sep 12, 2003,Scorecard Link:/ci/engine/match/64834.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:42 runs,Ground:Lahore,Match Date:Sep 15, 2003,Scorecard Link:/ci/engine/match/64835.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:5 wickets,Ground:Rawalpindi,Match Date:Sep 18, 2003,Scorecard Link:/ci/engine/match/64836.html
+Team1:Pakistan,Team2:Bangladesh,Winner:Pakistan,Margin:58 runs,Ground:Karachi,Match Date:Sep 21, 2003,Scorecard Link:/ci/engine/match/64837.html
+Team1:Pakistan,Team2:South Africa,Winner:Pakistan,Margin:8 runs,Ground:Lahore,Match Date:Oct 3, 2003,Scorecard Link:/ci/engine/match/64838.html
+Team1:Pakistan,Team2:South Africa,Winner:Pakistan,Margin:42 runs,Ground:Lahore,Match Date:Oct 5, 2003,Scorecard Link:/ci/engine/match/64839.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:13 runs,Ground:Faisalabad,Match Date:Oct 7, 2003,Scorecard Link:/ci/engine/match/64840.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:6 wickets,Ground:Rawalpindi,Match Date:Oct 10, 2003,Scorecard Link:/ci/engine/match/64841.html
+Team1:Pakistan,Team2:South Africa,Winner:South Africa,Margin:7 wickets,Ground:Rawalpindi,Match Date:Oct 12, 2003,Scorecard Link:/ci/engine/match/64842.html
+Team1:India,Team2:New Zealand,Winner:no result,Margin: ,Ground:Chennai,Match Date:Oct 23, 2003,Scorecard Link:/ci/engine/match/66364.html
+Team1:India,Team2:Australia,Winner:India,Margin:37 runs,Ground:Gwalior,Match Date:Oct 26, 2003,Scorecard Link:/ci/engine/match/66365.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:8 wickets,Ground:Faridabad,Match Date:Oct 29, 2003,Scorecard Link:/ci/engine/match/66366.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:77 runs,Ground:Mumbai,Match Date:Nov 1, 2003,Scorecard Link:/ci/engine/match/66367.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:2 wickets,Ground:Pune,Match Date:Nov 3, 2003,Scorecard Link:/ci/engine/match/66368.html
+Team1:India,Team2:New Zealand,Winner:New Zealand,Margin:4 wickets,Ground:Cuttack,Match Date:Nov 6, 2003,Scorecard Link:/ci/engine/match/66369.html
+Team1:Bangladesh,Team2:England,Winner:England,Margin:7 wickets,Ground:Chittagong,Match Date:Nov 7, 2003,Scorecard Link:/ci/engine/match/64843.html
+Team1:Australia,Team2:New Zealand,Winner:Australia,Margin:44 runs,Ground:Guwahati,Match Date:Nov 9, 2003,Scorecard Link:/ci/engine/match/66370.html
+Team1:Bangladesh,Team2:England,Winner:England,Margin:7 wickets,Ground:Dhaka,Match Date:Nov 10, 2003,Scorecard Link:/ci/engine/match/64844.html
+Team1:Bangladesh,Team2:England,Winner:England,Margin:7 wickets,Ground:Dhaka,Match Date:Nov 12, 2003,Scorecard Link:/ci/engine/match/64845.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:61 runs,Ground:Bengaluru,Match Date:Nov 12, 2003,Scorecard Link:/ci/engine/match/66371.html
+Team1:India,Team2:New Zealand,Winner:India,Margin:145 runs,Ground:Hyderabad (Deccan),Match Date:Nov 15, 2003,Scorecard Link:/ci/engine/match/66372.html
+Team1:Sri Lanka,Team2:England,Winner:Sri Lanka,Margin:10 wickets,Ground:Dambulla,Match Date:Nov 18, 2003,Scorecard Link:/ci/engine/match/64846.html
+Team1:India,Team2:Australia,Winner:Australia,Margin:37 runs,Ground:Kolkata,Match Date:Nov 18, 2003,Scorecard Link:/ci/engine/match/66373.html
+Team1:Zimbabwe,Team2:West Indies,Winner:West Indies,Margin:51 runs,Ground:Bulawayo,Match Date:Nov 22, 2003,Scorecard Link:/ci/engine/match/64847.html
+Team1:Zimbabwe,Team2:West Indies,Winner:Zimbabwe,Margin:6 wickets,Ground:Bulawayo,Match Date:Nov 23, 2003,Scorecard Link:/ci/engine/match/64848.html
+Team1:Zimbabwe,Team2:West Indies,Winner:Zimbabwe,Margin:21 runs,Ground:Harare,Match Date:Nov 26, 2003,Scorecard Link:/ci/engine/match/64849.html
+Team1:Zimbabwe,Team2:West Indies,Winner:West Indies,Margin:72 runs,Ground:Harare,Match Date:Nov 29, 2003,Scorecard Link:/ci/engine/match/64851.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:3 wickets,Ground:Lahore,Match Date:Nov 29, 2003,Scorecard Link:/ci/engine/match/64850.html
+Team1:Zimbabwe,Team2:West Indies,Winner:West Indies,Margin:8 wickets,Ground:Harare,Match Date:Nov 30, 2003,Scorecard Link:/ci/engine/match/64852.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:124 runs,Ground:Lahore,Match Date:Dec 1, 2003,Scorecard Link:/ci/engine/match/64853.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:51 runs,Ground:Faisalabad,Match Date:Dec 3, 2003,Scorecard Link:/ci/engine/match/64854.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:7 wickets,Ground:Rawalpindi,Match Date:Dec 5, 2003,Scorecard Link:/ci/engine/match/64855.html
+Team1:Pakistan,Team2:New Zealand,Winner:Pakistan,Margin:49 runs,Ground:Rawalpindi,Match Date:Dec 7, 2003,Scorecard Link:/ci/engine/match/64856.html
