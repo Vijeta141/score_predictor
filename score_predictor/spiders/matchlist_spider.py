@@ -19,7 +19,8 @@ class QuotesSpider(scrapy.Spider):
                         + match.css('td.left::text')[0].extract()+","
                         + match.css('td.left a.data-link::text')[3].extract()+","
                         + match.css('td::text')[1].extract().split(",")[0]+","
-                        +"http://stats.espncricinfo.com"+ match.css('a::attr(href)')[4].extract()+"\n")
+                        +"http://stats.espncricinfo.com"+ match.css('a::attr(href)')[4].extract()+","
+                        +match.css('a.data-link::text')[4].extract()+"\n")
                     
                 else:
                         f.write(
@@ -29,4 +30,5 @@ class QuotesSpider(scrapy.Spider):
                         +" ,"
                         + match.css('td.left a.data-link::text')[2].extract()+","
                         + match.css('td::text')[1].extract().split(",")[0]+","
-                        +"http://stats.espncricinfo.com"+ match.css('a::attr(href)')[3].extract()+"\n")
+                        +"http://stats.espncricinfo.com"+ match.css('a::attr(href)')[3].extract()+","
+                        +match.css('a.data-link::text')[3].extract()+"\n")
