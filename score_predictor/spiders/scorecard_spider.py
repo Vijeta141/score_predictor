@@ -3,7 +3,7 @@ import csv
 global matchNumber
 global h
 h = {}
-matchNumber=1 
+matchNumber=1
 
 class QuotesSpider(scrapy.Spider):
     global h
@@ -17,7 +17,7 @@ class QuotesSpider(scrapy.Spider):
             h[row[6].split("/")[-1]]=row[7]
             start_urls.append(row[6])
 
-       
+
     def parse(self, response):
         global matchNumber,h
         print ("urlurl="+response.url.split("/")[-3])
@@ -29,3 +29,5 @@ class QuotesSpider(scrapy.Spider):
             for dnb in batsman.css('div.flex-row div.wrap.dnb div.cell a'):                 #For batsmen who did not bat
                 f.write(dnb.css('span::text')[0].extract())                                 # Already seperated by comma, so no tab used.
             f.write("\n")
+
+        f.write(response.css('div.scorecard-section.bowling td a[data-reactid]::text').extract() + "\t")
