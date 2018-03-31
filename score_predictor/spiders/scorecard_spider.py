@@ -30,4 +30,9 @@ class QuotesSpider(scrapy.Spider):
                 f.write(dnb.css('span::text')[0].extract())                                 # Already seperated by comma, so no tab used.
             f.write("\n")
 
-        f.write(response.css('div.scorecard-section.bowling td a[data-reactid]::text').extract() + "\t")
+        f.write("\n")
+
+        for bowlers in response.css('div.scorecard-section.bowling'):
+            for team_bowler in bowlers.css('td a[data-reactid]'):
+                f.write(team_bowler.css('a::text')[0].extract() +"," + "\t" )
+            f.write("\n")
