@@ -1,11 +1,13 @@
 import scrapy
-class QuotesSpider(scrapy.Spider):
+import csv
+
+class MatchSpider(scrapy.Spider):
     name = "matches"
     start_urls=[]
-    
-    for i in range(2000, 2019):
+
+    for i in range(1985, 2019):
        start_urls.append('http://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=2;id='+str(i)+';type=year')
-       
+
 
     def parse(self, response):
         current_year=response.url.split("=")[-2]
@@ -21,7 +23,7 @@ class QuotesSpider(scrapy.Spider):
                         + match.css('td::text')[1].extract().split(",")[0]+","
                         +"http://stats.espncricinfo.com"+ match.css('a::attr(href)')[4].extract()+","
                         +match.css('a.data-link::text')[4].extract()+"\n")
-                    
+
                 else:
                         f.write(
                         match.css('td.left a.data-link::text')[0].extract()+","
